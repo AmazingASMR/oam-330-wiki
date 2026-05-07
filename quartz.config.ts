@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "oam-330.vercel.app",
-    ignorePatterns: ["private", "templates", ".obsidian", "log.md", "new-class-setup-guide.md"],
+    ignorePatterns: ["private", "templates", ".obsidian", "log.md", "new-class-setup-guide.md", "coverage.md", "GUIDE.md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

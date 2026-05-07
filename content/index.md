@@ -7,10 +7,9 @@ title: "OAM 330 Wiki — Williams (Spring 2026)"
 > **For Prof. Williams** — I'm Aryan Rana, a student in your Spring 2026 OAM 330 section. I built this as a course-content wiki and am sharing it as a reference you can use, recommend, or adapt for future cohorts. Everything is keyed to your slides; readings are summarized but not redistributed. The full source is on [GitHub](https://github.com/AmazingASMR/oam-330-wiki) — feel free to fork, edit, or hand it to TAs.
 >
 > **Best places to start:**
-> - [[GUIDE|How this wiki is organized]]
-> - [[coverage|Concept index]] — every concept page grouped by module
 > - [[cross-cuts/distractor-pairs|Key distinctions]] — close-pair concepts across all 12 modules
-> - [[about|About this project]]
+> - The module list below — pick a module, scan its overview, click into concept pages
+> - [[about|About this project]] — what this is and how it was built
 >
 > If you spot anything wrong or want changes, the GitHub repo accepts issues and PRs, or just email me.
 
