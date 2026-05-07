@@ -1,15 +1,12 @@
 ---
-title: "Practice — Module 5 Motivation (Session 1)"
+title: "Module 5 Motivation — practice questions"
 type: module
 module: Motivation
-session: 1
-date: 2026-05-02
 question_count: 10
 ---
 
 
-# Practice — Module 5 Motivation (Session 1)
-
+# Module 5 Motivation — practice questions
 ## Instructions
 Try to answer all 10 without referencing the concept pages. Score yourself and use the "why each distractor is wrong" notes to surface fuzzy thinking.
 

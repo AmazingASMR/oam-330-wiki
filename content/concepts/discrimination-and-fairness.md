@@ -29,5 +29,5 @@ Canonical evidence: 5,000 Boston/Chicago résumés — fewer callbacks for Afric
 ## Example(s)
 Résumé-name callback gap; AirBnB host bias by first name; symphony blind auditions → +25% female hires.
 
-## Likely MCQ angles
+## Notes on application
 "Discrimination must be intentional to violate law" → FALSE. "Best fix per Gilbert" → avoid the bias-producing situation. Distractor: confusing this paradigm with access-and-legitimacy.

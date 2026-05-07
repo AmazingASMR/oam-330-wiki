@@ -13,7 +13,7 @@ Two cognitive systems that operate **simultaneously**:
 - **System 2** (prefrontal cortex): conscious, slow, effortful, requires **attention and control**. Complex reasoning, deliberate analysis, looking for non-obvious cues. Ex: doing calculations, learning to drive for the first time.
 
 ## Why it matters
-**Master frame for the entire module.** Every decision-making bias on the exam is a **System 1 malfunction** that System 2 fails to catch. Slides: "System 2 doesn't always know when System 1 is operating — we frequently think we are making a more rational, data-driven decision than we are." Having both systems is an evolutionary advantage; the trouble is when they conflict.
+**Master frame for the entire module.** Every decision-making bias in the material is a **System 1 malfunction** that System 2 fails to catch. Slides: "System 2 doesn't always know when System 1 is operating — we frequently think we are making a more rational, data-driven decision than we are." Having both systems is an evolutionary advantage; the trouble is when they conflict.
 
 ## Key distinctions
 - **System 1 ≠ "bad"** — it gives us reflexes and quick reactions we need. It's the **default**, not the enemy.
@@ -24,5 +24,5 @@ Two cognitive systems that operate **simultaneously**:
 - Optical illusions: System 1 sees the illusion; System 2 (with effort) can see through it. Slides used "familiar illusions" to demonstrate the conflict.
 - Most module-3 biases (availability, confirmation, halo, anchoring, framing, sunk cost) = System 1 shortcuts uncorrected by System 2.
 
-## Likely MCQ angles
+## Notes on application
 Pair a System with its descriptors (fast/slow, automatic/effortful, limbic/prefrontal). Identify which system a given bias originates from. Distractor: "the two systems run sequentially" — they run **simultaneously**.

@@ -37,5 +37,5 @@ Determines fit between structure and strategy/environment. The wrong model in th
 - Wal-Mart, railroads → mechanistic.
 - Apple, startups, young-industry firms → organic.
 
-## Likely MCQ angles
+## Notes on application
 HIGH-PROBABILITY: a scenario stem ("a small biotech startup in a fast-moving competitive market...") asking which model fits — answer: organic. Reverse for cost-minimizing retail giants. Match features (formalized vs. fluid job requirements) to model.

@@ -24,5 +24,5 @@ The most concrete documented antidote to the planning fallacy. UK Department for
 - **Second Avenue Subway:** 1968 plan = 8.5 miles, 15 stations; 2016 reality = 2 miles, 3 stations, ~48 years late. A reference class of US urban transit megaprojects would have predicted huge overruns.
 - **UK DfT 2004 adoption:** mandated reference-class forecasting for major infrastructure → average overrun dropped to ~7%.
 
-## Likely MCQ angles
+## Notes on application
 Attribute to Flyvbjerg. Identify it as the operationalized outside view. Recognize the four-step procedure. Distinguish from "more detailed planning" (which makes forecasts *worse*, per the Christmas-shopping study).

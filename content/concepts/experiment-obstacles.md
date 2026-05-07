@@ -31,7 +31,7 @@ Explains *why* OB relies heavily on [[concepts/quasi-experiments-correlational|q
 ## Example(s)
 - Personality traits (impossible), gender (impossible), regional office assignments (impractical), pay (unethical).
 
-## Likely MCQ angles
+## Notes on application
 - Match a study scenario to the right obstacle.
 - Recognize that "we can't randomly assign personality" → use a [[concepts/quasi-experiments-correlational|correlational design]] instead.
 - Trap: distractor adds "expense" as a 4th obstacle — Williams' slide gives **three**: impractical, impossible, unethical.

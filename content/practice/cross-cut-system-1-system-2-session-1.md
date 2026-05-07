@@ -1,17 +1,14 @@
 ---
-title: "Practice — Cross-cut: System 1 vs. System 2 (Session 1)"
+title: "Cross-cut: System 1 vs. System 2 — practice questions"
 type: cross-cut
 cross_cut: system-1-system-2
-session: 1
-date: 2026-05-02
 question_count: 6
 ---
 
 
-# Practice — Cross-cut: System 1 vs. System 2 (Session 1)
-
+# Cross-cut: System 1 vs. System 2 — practice questions
 ## Instructions
-These questions test the cross-module synthesis the cumulative final is most likely to ask. Try without reference; score; re-read the cross-cut page on misses.
+These questions test the cross-module synthesis the course most often asks across modules. Try without reference; score; re-read the cross-cut page on misses.
 
 ## Questions
 

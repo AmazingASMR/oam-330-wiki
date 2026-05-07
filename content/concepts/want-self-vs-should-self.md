@@ -23,5 +23,5 @@ Explains the prediction–decision gap that runs the whole Ethics module. People
 - Clinical-trial-for-your-child vignette flips from "yes, society benefits" (abstract = should) to "no" (concrete = want).
 - Marshmallow experiment: abstract framing recruits the should self and aids self-control.
 
-## Likely MCQ angles
+## Notes on application
 Recognize which self speaks at which stage (should = prediction; want = decision). Identify interventions that "voice the should" (mom test, abstract thinking, eulogy exercise, joint vs. separate evaluation, precommitment). Don't confuse with hypocrisy — both selves are sincere.

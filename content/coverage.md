@@ -1,22 +1,20 @@
 ---
-title: "Coverage"
+title: "Concept index"
 ---
 
-# Coverage
+# Concept index
 
-Mirrors the three study guides bullet-for-bullet. Each row links to its concept page. Status flips from `[ ]` (gap) → `[x]` (covered) as Phase B fills concept pages.
-
-Tagging convention: `[M1]` = on Midterm 1, `[M2]` = on Midterm 2, `[F]` = new on Final. Final exam is cumulative — every bullet below is in scope.
+Every concept covered in the course, grouped by module, with a link to its page. Use this as a flat lookup when you remember the term but not the module. The checkmark next to each row is a build artifact (it indicates the concept page exists and was reviewed) — you can ignore it.
 
 ---
 
-## Module 1 — About OB (intro; no testable bullets per slide 4 of deck 1)
+## Module 1 — About OB
 
 - [x] Why OB matters — task skills + management skills → [[concepts/why-ob-matters-task-vs-management-skills]] — context only
 
 ---
 
-## Midterm 1 scope (modules 2–5, also cumulative on Final)
+## Modules 2–5
 
 ### Module 2 — Empirical Approaches to OB
 
@@ -87,7 +85,7 @@ Tagging convention: `[M1]` = on Midterm 1, `[M2]` = on Midterm 2, `[F]` = new on
 
 ---
 
-## Midterm 2 scope (modules 6–9, also cumulative on Final)
+## Modules 6–9
 
 ### Module 6 — Influence & Persuasion
 
@@ -147,7 +145,7 @@ Tagging convention: `[M1]` = on Midterm 1, `[M2]` = on Midterm 2, `[F]` = new on
 
 ---
 
-## Final Exam scope (modules 10–12, NEW on Final)
+## Modules 10–12
 
 ### Module 10 — Groups & Teams
 
@@ -199,7 +197,7 @@ Beyond the Robbins & Judge guide:
 
 ## Reading-only concepts (added in audit fix)
 
-These terms appeared only in reading summaries but are MCQ-eligible via each module's "Content of readings" bullet. Added 2026-05-01 ahead of the 2026-05-02 final.
+These terms appeared only in reading summaries but are questions-eligible via each module's "Content of readings" bullet. Added 2026-05-01 ahead of the 2026-05-02 final.
 
 - [[concepts/psychological-safety]] — M10 Groups & Teams; from [[readings/duhigg-google-perfect-team]]
 - [[concepts/bounded-ethicality]] — M11 Ethics; from [[readings/bazerman-tenbrunsel-blind-spots]]
@@ -224,11 +222,11 @@ These terms appeared only in reading summaries but are MCQ-eligible via each mod
 
 ## Summary count
 
-- **Midterm 1 scope (M2–M5):** 53 testable bullets, 50 unique concept pages
-- **Midterm 2 scope (M6–M9):** 41 testable bullets, 40 unique concept pages
-- **Final-only scope (M10–M12):** 33 testable bullets, 33 unique concept pages
-- **Total concepts to fill:** ~123 across 12 modules
-- **Readings to summarize:** 23 across 11 modules
+- **Modules 2–5:** 53 concepts, 50 unique concept pages
+- **Modules 6–9:** 41 concepts, 40 unique concept pages
+- **Modules 10–12:** 33 concepts, 33 unique concept pages
+- **Total concepts:** ~123 across 12 modules
+- **Readings:** 23 across 11 modules
 - **Cross-cuts:** 4 synthesis pages
 
 Status as of 2026-05-02 02:00: all 127 bullets covered. Phases B + C complete. Pending: Phase D (lint) and Phase E (practice).

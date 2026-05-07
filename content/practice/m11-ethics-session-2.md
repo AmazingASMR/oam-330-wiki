@@ -1,15 +1,12 @@
 ---
-title: "Practice — Module 11 Ethics (Session 2)"
+title: "Module 11 Ethics — practice questions (Part 2)"
 type: module
 module: Ethics
-session: 2
-date: 2026-05-02
 question_count: 10
 ---
 
 
-# Practice — Module 11 Ethics (Session 2)
-
+# Module 11 Ethics — practice questions (Part 2)
 ## Instructions
 Try to answer all 10 without referencing the concept pages. Score yourself and use the "why each distractor is wrong" notes to surface fuzzy thinking. Session 2 emphasizes the four enabling mechanisms (which Williams flags every term), bounded ethicality, want/should-self, the antidote pillars, and the fading vs. justification distractor pair.
 

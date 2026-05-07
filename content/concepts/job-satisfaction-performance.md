@@ -23,5 +23,5 @@ Managers often assume happy = productive (or vice versa). Slides emphasize the r
 - Amabile & Kramer (NYT): inner work life (positive emotions, motivation, perceptions) predicts creative and productive behavior on a daily basis.
 - An employee can hate their job but still perform out of fear, professionalism, or external rewards.
 
-## Likely MCQ angles
+## Notes on application
 Know the magnitude: **~.30, "medium"** — not "no relationship" and not "very strong." Distractor: claiming satisfaction is unrelated to performance, or claiming the relationship is causally one-directional. Recognize reverse causality as a candidate explanation.

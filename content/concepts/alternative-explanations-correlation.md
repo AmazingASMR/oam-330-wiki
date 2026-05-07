@@ -8,7 +8,7 @@ confidence: high
 ---
 
 ## Definition
-When two variables are correlated, there are **three alternative explanations** to "X causes Y" — and an MCQ-trap zone. Verbatim from slide 25:
+When two variables are correlated, there are **three alternative explanations** to "X causes Y" — and an common confusion point. Verbatim from slide 25:
 
 1. **Spurious (merely coincidental)** — the observed relationship is chance; no real link.
 2. **Reverse causal direction** — the relationship goes the *other* way (Y → X, not X → Y).
@@ -20,7 +20,7 @@ This is the toolkit for debunking correlation-based claims. Every NYT headline o
 ## Key distinctions
 - **Spurious vs. third variable** — spurious = literal coincidence (no causal mechanism behind it). Third variable = there *is* a cause, but it's a hidden Z, not X.
 - **Reverse causation vs. third variable** — reverse keeps X and Y but flips the arrow. Third variable adds a new node Z.
-- **All three vs. four** — there are exactly **three** alternatives. MCQ trap: distractors that add a 4th (e.g., "measurement error") or replace one with a fake (e.g., "selection bias" — important elsewhere but not on Williams' list of three).
+- **All three vs. four** — there are exactly **three** alternatives. common confusion: distractors that add a 4th (e.g., "measurement error") or replace one with a fake (e.g., "selection bias" — important elsewhere but not on Williams' list of three).
 
 ## Example(s)
 *From slide 25:*
@@ -28,7 +28,7 @@ This is the toolkit for debunking correlation-based claims. Every NYT headline o
 - **Third variable** — Road quality could cause both the ability to import goods (more lemons) AND auto safety (fewer highway deaths). Road quality is Z.
 - **Spurious** — Nicolas Cage movies and pool drownings: pure coincidence.
 
-## Likely MCQ angles
+## Notes on application
 - "Which of the following is NOT one of the three alternative explanations?" → distractor will be a real concept that's just not on the list.
 - Match a vignette to the correct alternative (reverse vs. third vs. spurious).
 - Be exact on terminology: "third variable," "spurious," "reverse."

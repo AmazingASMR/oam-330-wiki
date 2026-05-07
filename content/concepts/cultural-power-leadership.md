@@ -32,5 +32,5 @@ There is no universal "right" leadership style — exporting a low-PD playbook (
 
 **High-PD upside:** in the food-poisoning case, high-PD managers expected to take more responsibility/ownership regardless of direct fault.
 
-## Likely MCQ angles
+## Notes on application
 Match a workplace artifact (CEO parking spot, open door, large pay gap) to high or low PD. Recognize Korean Air's *interventions* (English, mitigated-speech training) as PD reduction. Identify receiver-oriented vs. transmitter-oriented communication. Avoid the trap of calling high PD "bad."

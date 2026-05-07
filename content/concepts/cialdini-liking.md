@@ -23,5 +23,5 @@ Peripheral-route lever ([[concepts/central-vs-peripheral-route]]). Slide advice:
 - F. B. Evans (1963): insurance prospects more likely to buy from agents matching them on age, religion, politics, or smoking habits.
 - New manager taking over a struggling branch: build relationships first, *then* introduce operational changes.
 
-## Likely MCQ angles
+## Notes on application
 Tupperware is the canonical example. Praise — even partly unearned praise — still shifts attitudes. Distractor: confusing liking with social proof (similarity to *you* vs. similarity among a *group*). Distractor: claiming liking is central-route.

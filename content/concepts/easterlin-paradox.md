@@ -24,5 +24,5 @@ Provides the macro foundation for the entire Happiness module. If more money str
 - US/post-WWII data: GDP per capita has multiplied, average happiness essentially flat.
 - Brooks's GSS data: 30% of Americans "very happy" in 2018 — comparable to earlier decades, despite massive income growth.
 
-## Likely MCQ angles
+## Notes on application
 Identify by description ("GDP rises, happiness doesn't"). Distinguish macro (Easterlin) from individual-level money–happiness pattern. Connect mechanisms — adaptation and social comparison — to the paradox.

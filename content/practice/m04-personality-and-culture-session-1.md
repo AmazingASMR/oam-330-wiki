@@ -1,15 +1,12 @@
 ---
-title: "Practice — Module 4 Personality & Culture (Session 1)"
+title: "Module 4 Personality & Culture — practice questions"
 type: module
 module: Personality & Culture
-session: 1
-date: 2026-05-02
 question_count: 10
 ---
 
 
-# Practice — Module 4 Personality & Culture (Session 1)
-
+# Module 4 Personality & Culture — practice questions
 ## Instructions
 Try to answer all 10 without referencing the concept pages. Score yourself and use the "why each distractor is wrong" notes to surface fuzzy thinking.
 
@@ -64,7 +61,7 @@ B. The Barnum effect: vague, generic descriptions feel uniquely personal because
 C. MBTI's high test–retest reliability means the felt accuracy reflects genuine measurement.
 D. MBTI's 16 types map cleanly onto the Big 5, so the accuracy is real but inherited from OCEAN.
 
-### Q8. Which row BEST contrasts the Big 5 / OCEAN with the MBTI on the dimensions Williams flags as the "core MCQ distractor pair"?
+### Q8. Which row BEST contrasts the Big 5 / OCEAN with the MBTI on the dimensions Williams flags as the "core close-pair distinction"?
 
 A. Big 5 = theory-driven (Jung), dichotomous, weak predictor; MBTI = empirical, continuous, modestly predictive.
 B. Big 5 = empirical (lexical hypothesis, cross-cultural convergence), continuous traits, modestly predictive; MBTI = theory-driven, dichotomous types, weak predictor of job performance.

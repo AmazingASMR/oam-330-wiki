@@ -15,7 +15,7 @@ Two flavors of organizational fairness:
 **Headline finding: procedural justice is the strongest predictor of job performance** (slide 16, deck 08).
 
 ## Why it matters
-Managers often focus on outcomes (pay, promotion) and underweight process. The data say *how* you decide matters more than *what* you decide for predicting performance. Easy MCQ distractor pair — memorize the one-liners.
+Managers often focus on outcomes (pay, promotion) and underweight process. The data say *how* you decide matters more than *what* you decide for predicting performance. Easy close-pair distinction — memorize the one-liners.
 
 ## Key distinctions
 - **Distributive = "did I get a fair share?"** — outcome-focused.
@@ -27,5 +27,5 @@ Managers often focus on outcomes (pay, promotion) and underweight process. The d
 - Two employees get the same denial of promotion. The one whose boss explained the criteria, listened to her view, and treated her respectfully reports much higher fairness — that's procedural justice doing the work.
 - WSJ "Push for $15": Mud Bay managers showed employees the pay scale and explained the constraint — procedural justice repair after a distributive complaint.
 
-## Likely MCQ angles
+## Notes on application
 "Which type of justice is the strongest predictor of job performance?" → **procedural**. "An employee complains the bonus formula was applied behind closed doors" → procedural concern (process), not distributive. Watch the swap distractor.

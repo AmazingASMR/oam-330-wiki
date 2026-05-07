@@ -36,6 +36,6 @@ Frames every empirical OB study: which side of the equation is each variable on?
 ## Example(s)
 - Job performance = f(agreeableness, job type, mentoring, bonus, breakfast size, room temperature, …).
 
-## Likely MCQ angles
+## Notes on application
 - Map a variable in a study description to IV vs. DV.
 - Recognize that interactions matter (agreeableness × job type) — neither variable alone is sufficient.

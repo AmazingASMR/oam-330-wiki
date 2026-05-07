@@ -32,5 +32,5 @@ Defeats the central advantage of group decision making (pooling private info and
 - Grogan Air exercise (slides): divided info → wrong VP candidate chosen ~75% of the time.
 - VC firm: partners privately rate founders before discussion → only DISAGREEMENT gets discussed.
 
-## Likely MCQ angles
+## Notes on application
 Definition match (over-discuss shared / under-discuss unshared). Application: which intervention prevents it (private rating before discussion is the strongest answer). Distractor risk: groupthink-flavored answers that emphasize dissent suppression rather than info sampling.

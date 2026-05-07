@@ -22,5 +22,5 @@ If the inputs to a decision are distorted, no amount of downstream rationality f
 - Familiar optical illusions used in slides to show the System 1/System 2 conflict — what we *see* is not what is physically there.
 - Slides: "What do you see?" prompts where the same image is read different ways depending on context/priming.
 
-## Likely MCQ angles
+## Notes on application
 The claim "**Perception equals reality**" is a likely false-statement distractor — it is explicitly denied in slides. Expect items asking what the *first* step of decision making is (perception/gathering info) and why it's already biased.

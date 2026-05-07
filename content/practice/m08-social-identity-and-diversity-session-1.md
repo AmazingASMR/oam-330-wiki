@@ -1,15 +1,12 @@
 ---
-title: "Practice — Module 8 Social Identity & Diversity (Session 1)"
+title: "Module 8 Social Identity & Diversity — practice questions"
 type: module
 module: Social Identity & Diversity
-session: 1
-date: 2026-05-02
 question_count: 10
 ---
 
 
-# Practice — Module 8 Social Identity & Diversity (Session 1)
-
+# Module 8 Social Identity & Diversity — practice questions
 ## Instructions
 Try to answer all 10 without referencing the concept pages. Score yourself and use the "why each distractor is wrong" notes to surface fuzzy thinking.
 

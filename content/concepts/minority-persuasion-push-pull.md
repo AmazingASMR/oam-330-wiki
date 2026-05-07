@@ -28,5 +28,5 @@ Asch ([[concepts/asch-conformity]]) shows the deck is stacked against dissenters
 ## Example(s)
 - *12 Angry Men*: Juror #8 stands at window (signals openness, not confrontation), frames debate as discussion not verdict, uses soft sell — building & bridging, not attacking.
 
-## Likely MCQ angles
-Match push vs. pull terms to columns; identify which is appropriate for minority position (pull). The private-vs-public-vote rule is a near-certain MCQ. Distractor: pushing harder when in the minority — wrong; pull until majority.
+## Notes on application
+Match push vs. pull terms to columns; identify which is appropriate for minority position (pull). The private-vs-public-vote rule is a common test point. Distractor: pushing harder when in the minority — wrong; pull until majority.

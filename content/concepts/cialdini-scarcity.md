@@ -23,5 +23,5 @@ Peripheral-route lever ([[concepts/central-vs-peripheral-route]]) driven by **lo
 - "I wanted you to know this before it goes out broadly" — exclusive information.
 - Loss-framed pitch: describe what the org will forgo if it doesn't act in time, not just what it gains by acting.
 
-## Likely MCQ angles
+## Notes on application
 The loss-aversion mechanism is the testable hook. Distractor: framing scarcity as a gain (it's loss-framed). Cialdini's ethical caveat is testable: **manufactured/fake scarcity** works once but destroys trust — must be true scarcity. Don't confuse with social proof: scarcity = rare, social proof = popular.

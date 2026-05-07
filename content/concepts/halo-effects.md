@@ -25,5 +25,5 @@ A [[concepts/system-1-system-2|System 1]] shortcut at the **interpretation** sta
   - Failing company → same kind of CEO described as *"confused, rigid, and authoritarian."*
   - The trait labels follow the outcome, not the actual behavior.
 
-## Likely MCQ angles
-"Exaggerated emotional coherence" wording. The CEO success/failure trait-flip is a clean MCQ stem. Distractor: confusing halo with [[concepts/hindsight-bias]] (knew-it-all-along) — both depend on outcome knowledge but operate differently.
+## Notes on application
+"Exaggerated emotional coherence" wording. The CEO success/failure trait-flip is a clean scenario stems. Distractor: confusing halo with [[concepts/hindsight-bias]] (knew-it-all-along) — both depend on outcome knowledge but operate differently.

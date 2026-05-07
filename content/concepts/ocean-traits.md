@@ -27,5 +27,5 @@ Everyone has a continuous score on every trait — no "type." This is the empiri
 - Da Vinci as openness icon; Robocop as conscientiousness icon (Gosling).
 - Williams's class profile: mean scores near the 45th–58th percentile across all five — wide range (1st–99th).
 
-## Likely MCQ angles
+## Notes on application
 Definition match for each letter (single sentence). Distractor for E: confusing "extraverts make better leaders" with "extraverts always perform better" — Extraversion only helps in interpersonal jobs ([[concepts/ocean-job-performance]]). Distractor: substituting "Honesty" for one of the five.

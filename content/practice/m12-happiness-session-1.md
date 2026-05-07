@@ -1,15 +1,12 @@
 ---
-title: "Practice — Module 12 Happiness & Wrap-up (Session 1)"
+title: "Module 12 Happiness & Wrap-up — practice questions"
 type: module
 module: Happiness & Wrap-up
-session: 1
-date: 2026-05-02
 question_count: 6
 ---
 
 
-# Practice — Module 12 Happiness & Wrap-up (Session 1)
-
+# Module 12 Happiness & Wrap-up — practice questions
 ## Instructions
 Try to answer all 6 without reference. Score yourself, then re-read the linked concept pages on misses. Module 12 is a smaller wrap-up — focus is on the set-point drivers, the two intentional levers (connections + money use), and the three mega-takeaways.
 

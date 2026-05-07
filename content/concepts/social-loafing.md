@@ -30,5 +30,5 @@ Directly challenges the assumption that group productivity equals the sum of ind
 4. Select members high in motivation/preference for group work.
 5. Base rewards in part on identifiable individual contributions.
 
-## Likely MCQ angles
+## Notes on application
 Definition match; cross-cultural angle (Eastern vs. Western); which intervention reduces loafing (the 5 levers above). Watch for distractors that frame it as "groupthink" or "free riding."

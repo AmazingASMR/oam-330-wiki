@@ -36,5 +36,5 @@ Cohesion alone does not predict productivity — its effect is moderated by perf
 - Small workgroups bonded by external threat or shared time become highly cohesive.
 - Hawthorne bank wiring room — extreme cohesion + LOW production norms → restricted output.
 
-## Likely MCQ angles
+## Notes on application
 The 2×2 is the most testable bit. Expect a scenario asking what predicts productivity given a cohesion/norm combination — the right answer is NOT "cohesion alone."

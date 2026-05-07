@@ -29,5 +29,5 @@ Counters the lay assumption that more pay always means more motivation/happiness
 - Two students offered identical jobs at $80K vs. $120K: forecast a big happiness gap, observe a small one a year in.
 - "I'll be happy when I make $X" — usually false; the goalpost moves.
 
-## Likely MCQ angles
+## Notes on application
 "Money and happiness are ___" → positively but **non-linearly** related. Distractor: "no relationship" (wrong) or "linear" (wrong). Distractor: claiming caring about money helps happiness — the opposite is true.

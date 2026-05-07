@@ -24,5 +24,5 @@ From slides — happy people show:
 - **Work**: greater productivity, success, and creativity
 - **Health**: greater resistance to infection; longevity gain from happiness exceeds the longevity gain from not smoking
 
-## Likely MCQ angles
+## Notes on application
 Watch for the striking comparison "happiness gain > nonsmoking gain" for longevity. Distractors will reverse causality (claim wealth/health *cause* happiness) — slides frame happiness as the predictor.

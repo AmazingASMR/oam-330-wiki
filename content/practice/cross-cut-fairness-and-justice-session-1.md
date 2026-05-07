@@ -1,17 +1,14 @@
 ---
-title: "Practice — Cross-cut: Fairness and justice (Session 1)"
+title: "Cross-cut: Fairness and justice — practice questions"
 type: cross-cut
 cross_cut: fairness-and-justice
-session: 1
-date: 2026-05-02
 question_count: 6
 ---
 
 
-# Practice — Cross-cut: Fairness and justice (Session 1)
-
+# Cross-cut: Fairness and justice — practice questions
 ## Instructions
-These questions test the cross-module synthesis the cumulative final is most likely to ask. Try without reference; score; re-read the cross-cut page on misses.
+These questions test the cross-module synthesis the course most often asks across modules. Try without reference; score; re-read the cross-cut page on misses.
 
 ## Questions
 

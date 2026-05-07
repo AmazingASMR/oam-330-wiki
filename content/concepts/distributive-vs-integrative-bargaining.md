@@ -23,7 +23,7 @@ This is the master comparison of the module. Many people enter negotiations assu
 - **Integrative salary:** beyond base pay — vacation, start date, remote work, tuition support, travel, perks.
 - **Texoil:** moved from impasse (no ZOPA) to deal by adding **post-trip employment** for the sailing couple, fuel trade, health care, sailboat ad placement.
 
-## Likely MCQ angles
+## Notes on application
 - "Fixed pie" = distributive; "expand the pie" = integrative.
 - Integrative is best for **long-term relationships**; distributive for **one-shot**.
 - Trap: assuming distributive when integrative is possible (classic prep mistake).

@@ -23,5 +23,5 @@ Explains why employees feel pride, anger, or even schadenfreude on behalf of the
 - Wendy's Twitter "roasting wars" — fans feel pride when Wendy's burns a competitor.
 - Low identification with workgroup AND organization → reduced satisfaction, fewer organizational citizenship behaviors (OCBs).
 
-## Likely MCQ angles
+## Notes on application
 Scenario application: identifying ingroup/outgroup behavior, or matching "schadenfreude / pride / 'we' language" to the social identity construct. Distractor risk: confusing this with cohesion (cohesion = bond to stay together; social identity = self-esteem tied to group fate).

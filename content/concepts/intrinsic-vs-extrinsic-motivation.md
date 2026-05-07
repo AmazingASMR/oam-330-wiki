@@ -26,5 +26,5 @@ Standard incentive design assumes work is unpleasant and people need to be paid 
 - Lepper/Greene preschool drawing study: kids in the **expected-award** group lost interest two weeks later; **unexpected-award** and **no-award** kids drew just as much. Only **contingent** ("if-then") rewards corrupted intrinsic motivation.
 - Pink notes intrinsically motivated artists produced art judged superior years later — and "those least motivated to pursue extrinsic rewards eventually receive them."
 
-## Likely MCQ angles
+## Notes on application
 Define both terms; identify Pink's three intrinsic drivers (**autonomy, mastery, purpose**); recognize the **Sawyer Effect** label and the expected-vs-unexpected reward distinction. Distractor: claiming all rewards undermine intrinsic motivation (only **contingent/expected** ones do).

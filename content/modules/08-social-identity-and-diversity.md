@@ -75,7 +75,7 @@ The Five Tricks card-game exercise grounds the **culture-shock** mechanism and t
 - **Module 10 (Groups & Teams)** — diversity-innovation trade-off recurs in homogeneous-vs-heterogeneous group decision-making; social identity also surfaces in group cohesion.
 - **Module 4 (Personality & Culture)** — culture-shock concept builds on cultural-dimensions content.
 
-## High-yield MCQ traps
+## Common points of confusion
 
 - **Discrimination & fairness vs. access & legitimacy** — THE Thomas-and-Ely distractor pair. Paradigm 1 = avoid harm / be fair (legal/moral); paradigm 2 = access diverse markets (strategic). Different *justification*, different *policy*. Spanish-speaking reps for the Latino market = A&L; symphony blind auditions = D&F. Same fact pattern can match either paradigm depending on the *stated motive*.
 - **Stereotype threat vs. stereotype tax** — threat is the *target's own* performance dropping under identity salience (internal mechanism, Steele/Aronson); tax is the *career cost imposed by others'* System 1 stereotyping (external mechanism, Bertrand & Mullainathan, AirBnB). Pick "threat" when the *target's* performance drops; pick "tax" when an *evaluator* penalizes identity.
@@ -88,8 +88,7 @@ The Five Tricks card-game exercise grounds the **culture-shock** mechanism and t
 - **Model-minority myth** (Chen) — keeps Asian Americans *out of* DEI plans, masking the executive drop-off. Trap: assuming the myth is benign because the surface stereotype is "positive."
 - **Emotional labor vs. emotional dissonance** (Invisibilia) — labor = the demand the role places on you; dissonance = the gap between internal state and required display. Dissonance, not labor itself, is what drives burnout.
 
-## Likely exam patterns
-
+## Notes on application
 - **Thomas & Ely paradigm-recognition stems** — given a workplace policy or initiative, identify whether it operationalizes paradigm 1 (D&F) or paradigm 2 (A&L). Cue: motive language. "Avoid harm" / "fair treatment" / "legal compliance" → paradigm 1. "Reach diverse markets" / "credibility with customers" / "business asset" → paradigm 2. J.C. Penney store-workforce example = paradigm 2.
 - **Threat-vs-tax scenario** — stem describes either a target whose performance drops under identity salience (threat: GRE-prompt study) or an evaluator producing different outcomes for identical inputs (tax: 5,000 résumés, AirBnB). Pick based on *who is acting* and *which side the cost lands on*.
 - **Disparate-impact recognition** — stem describes a facially neutral practice (referral-based hiring, particular qualifications) that *operates to exclude* a protected group with no stated intent to discriminate. Identify as paradigm-1-relevant **disparate impact**; identify Gilbert's antidote ("avoid the situations that produce bias") as the slide-canonical fix.

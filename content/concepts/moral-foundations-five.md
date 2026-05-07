@@ -11,7 +11,7 @@ confidence: high
 Per slide 16 of deck 26 (verbatim): *"Across cultures, people's intuitive beliefs about what is 'right' fall into ~5 categories."* Moral Foundations is one of the three slide-listed sources of [[concepts/ethical-frameworks-sources]] (alongside faith traditions and professional guidelines).
 
 ## Why it matters
-Moral Foundations explains why disagreements feel unbridgeable: people aren't necessarily reasoning badly, they're weighting different foundations. The 5 categories are also one of the slide's named *sources* of ethical frameworks (alongside faith traditions and professional guidelines), so MCQs frequently test whether a scenario violates Care, Fairness, Loyalty, Authority, or Purity.
+Moral Foundations explains why disagreements feel unbridgeable: people aren't necessarily reasoning badly, they're weighting different foundations. The 5 categories are also one of the slide's named *sources* of ethical frameworks (alongside faith traditions and professional guidelines), so questions frequently test whether a scenario violates Care, Fairness, Loyalty, Authority, or Purity.
 
 ## Key distinctions
 - **vs. Faith traditions** — Faith traditions are top-down doctrinal sources; Moral Foundations are bottom-up *intuitive* categories that emerge cross-culturally.
@@ -30,7 +30,7 @@ The 5 Categories (slide 16 verbatim — name | explanation | violating behavior)
 
 Self-test reference: YourMorals.org (slide 16).
 
-## Likely MCQ angles
+## Notes on application
 HIGHEST-likelihood: definition match — "Which Moral Foundation is violated by [scenario]?" Trickiest pairs to memorize:
 - *Fairness* vs. *Care* — a discriminatory hiring policy is **Fairness/Reciprocity** (rules should apply equally), not Care.
 - *Authority* vs. *Loyalty* — cursing parents is **Authority/Respect** (obey those in authority); betting against your hometown is **Loyalty/Ingroup** (own group's needs first).

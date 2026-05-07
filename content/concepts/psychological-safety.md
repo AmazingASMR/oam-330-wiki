@@ -23,5 +23,5 @@ Project Aristotle's single biggest finding: across 180+ Google teams, *who* was 
 - Matt Sakaguchi's Google team: his disclosure of Stage 4 cancer at an off-site triggered openness and adopted new norms.
 - Team A (efficient, expert-driven, no chitchat) vs. Team B (free-flowing, interrupting, socializing) — Team B is more collectively intelligent.
 
-## Likely MCQ angles
+## Notes on application
 Definition recall (Edmondson, interpersonal risk-taking). The two behaviors that produce it (equal turn-taking + social sensitivity). Distinguish from cohesion — cohesion alone is NOT what Project Aristotle found.

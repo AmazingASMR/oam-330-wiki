@@ -24,5 +24,5 @@ A [[concepts/system-1-system-2|System 1]] failure at the **evidence-gathering / 
   - Told introverted → "In what situations do you wish you could be more outgoing?"
   - The applicant predictably "confirmed" the assigned label because the questions only allowed confirming answers.
 
-## Likely MCQ angles
+## Notes on application
 Identify the introvert/extravert interviewer study. Distractor: framing it as availability heuristic (it isn't — the interviewer is *actively choosing* questions). Fix per slides: actively seek **disconfirming** evidence, not just more confirming evidence.

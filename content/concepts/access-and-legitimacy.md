@@ -26,5 +26,5 @@ Reframes diversity from compliance (paradigm 1) to strategic value: who you empl
 ## Example(s)
 - J.C. Penney: diverse store workforce in minority communities → higher customer satisfaction → higher store earnings.
 
-## Likely MCQ angles
+## Notes on application
 "Hiring Spanish-speaking sales reps to enter the Latino market" → access-and-legitimacy, NOT discrimination-and-fairness. Distractor: paradigm 1 framing. Watch for the slide's caveat — A&L without promotion paths becomes pigeonholing.

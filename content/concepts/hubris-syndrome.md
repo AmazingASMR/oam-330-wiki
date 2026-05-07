@@ -23,5 +23,5 @@ Names the worst-case clinical pattern at the end of the power-changes-behavior a
 - **Indra Nooyi's mother**'s "leave that damn crown in the garage" — the toe-holder antidote that prevents hubris syndrome from setting in.
 - **Clementine Churchill's letter**: "you are not as kind as you used to be" — early-warning of hubris drift.
 
-## Likely MCQ angles
+## Notes on application
 Identify Owen as the source. Distinguish from the power paradox (mechanism vs. clinical endpoint) and from narcissism (induced vs. trait). Recognize "sustained power + minimal constraint" as the diagnostic pre-conditions; toe-holders as the prevention.

@@ -27,5 +27,5 @@ Establishes the baseline difficulty of being a public dissenter — the situatio
 - Original task: pick which of three comparison lines matches a target line. Answer is obvious. Confederates unanimously give the wrong answer; 74% of real subjects went along at least once.
 - *12 Angry Men*: Juror #8 is the lone dissenter (1 of 12) — Asch territory.
 
-## Likely MCQ angles
-The **74%** number and the three conformity-reducing variations are MCQ gold. Distractor: claiming conformity stays constant regardless of group size or response privacy — it doesn't. Distractor: confusing with Milgram (authority obedience).
+## Notes on application
+The **74%** number and the three conformity-reducing variations are high-yield. Distractor: claiming conformity stays constant regardless of group size or response privacy — it doesn't. Distractor: confusing with Milgram (authority obedience).

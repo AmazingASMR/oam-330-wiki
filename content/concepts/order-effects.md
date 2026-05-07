@@ -23,5 +23,5 @@ A peripheral-route consideration ([[concepts/central-vs-peripheral-route]]) abou
 - ***American Idol***: contestants performing later in the show tend to advance.
 - **Kidney Case** classroom exercise: groups advocating later in the round tend to do better.
 
-## Likely MCQ angles
+## Notes on application
 "In serial competition the last shall be first" is the slide's exact phrasing — likely lifted into a question. Distractor: claiming primacy always dominates; or claiming order is irrelevant. Distractor: confusing with anchoring (a different bias from the Decision Making module).

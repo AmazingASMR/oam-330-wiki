@@ -30,5 +30,5 @@ Leader emergence is largely about being seen as competent and committed by the g
 
 Emergent leaders also speak and act more, have more influence over the group's final decisions, and are more resistant to group norms.
 
-## Likely MCQ angles
+## Notes on application
 Pick the *primary* factor (perceived competence or commitment) vs. the additional/cosmetic factor (height, attractiveness). Recognize talkativeness as a *behavior of* emergent leaders, not its own primary cause. Distinguish emergence from effectiveness.

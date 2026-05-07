@@ -76,12 +76,12 @@ The numbers, named cases, and exact slide phrasings most likely to anchor a stem
 
 ## Cross-cut connections
 
-- [[cross-cuts/distractor-pairs]] — want-vs-should self, ethical fading vs. moral justification, and the four misconduct mechanisms sit on the cram sheet.
+- [[cross-cuts/distractor-pairs]] — want-vs-should self, ethical fading vs. moral justification, and the four misconduct mechanisms appears on the close-pair distinctions page.
 - [[cross-cuts/system-1-system-2]] — ethical fading and visceral responses are System 1; "should self" deliberation is System 2.
 - [[cross-cuts/decision-making-biases]] — bounded ethicality is the M3 bias catalog applied to moral choices (forecasting → decision → recollection arc).
 - [[cross-cuts/fairness-and-justice]] — fairness/reciprocity is one of the five Moral Foundations; links forward to Thomas & Ely (M8) and procedural justice (M5).
 
-## High-yield MCQ traps
+## Common points of confusion
 
 - **Ethical fading vs. visceral responses** — both are decision-time mechanisms but differ in channel. *Fading* is **cognitive** — ethics drops out of the conceptual frame (Pinto cost-benefit, "shrinkage"). *Visceral* is **bodily/affective** — hot drives override (hunger, fear, anger, time pressure, sexual arousal). The slides keep them as distinct items; do not collapse.
 - **Ethical fading vs. moral justification** — both look like "I had a reason" but differ in *when* and *visibility*:
@@ -100,9 +100,8 @@ The numbers, named cases, and exact slide phrasings most likely to anchor a stem
 - **Bounded ethicality vs. hypocrisy** — hypocrisy implies *awareness*; bounded ethicality is the *absence* of awareness. A hypocrite knows they violated their values; the bounded-ethicality actor does not.
 - **Obedience (Milgram) vs. moral inaction** — both look passive but: obedience is *active compliance* with a directive (administer the shock); inaction is *passive failure* to intervene when no directive is given.
 
-## Likely exam patterns
-
-- **Scenario stem matching to one of the four enabling mechanisms (highest-frequency expected pattern).** "An anonymous online trader manipulates the market" → moral justification (anonymity facilitator). "Everyone in the office leaves at 4:30 so I do too" → social norms. "Sales reps open fake accounts to hit quota" → outcome-focused culture. "Coworker watches harassment, says nothing" → moral inaction. Expect 2–3 of these on the Final.
+## Notes on application
+- **Scenario stem matching to one of the four enabling mechanisms (highest-frequency expected pattern).** "An anonymous online trader manipulates the market" → moral justification (anonymity facilitator). "Everyone in the office leaves at 4:30 so I do too" → social norms. "Sales reps open fake accounts to hit quota" → outcome-focused culture. "Coworker watches harassment, says nothing" → moral inaction. These scenario-to-mechanism mappings are worth practicing.
 - **Moral-foundations recognition.** Stem describes a moral concern and asks which foundation it instantiates. Trap distractors invent foundations not on the slide-five list (e.g., "Liberty," "Honesty," "Justice").
 - **Want/should-self scenario application.** Stem describes someone who "swore they'd report any misconduct" but then didn't when the moment came → want self overriding should self at decision time, *not* hypocrisy. The 62% / 0% sexual-harassment study is the reference scenario.
 - **Antidote pillars recognition.** Stem describes a company implementing one of the four (e.g., J&J's "First, protect the people" → process focus; SOX-style separation of auditor and auditee → checks and balances). Trap: "compliance training" alone — that is *not* the antidote per slide; culture is.

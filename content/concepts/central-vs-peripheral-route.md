@@ -22,5 +22,5 @@ This is the meta-concept of the whole module. Every Cialdini principle, every mi
 - A pitch with strong data (central) plus a credentialed introducer (peripheral authority) hits both routes.
 - An infomercial leaning on celebrity endorsement and "limited time" scarcity is almost pure peripheral.
 
-## Likely MCQ angles
+## Notes on application
 Expect distractors swapping System 1/System 2 mappings, claiming the routes are mutually exclusive, or claiming peripheral produces longer-lasting change. The slide says peripheral is System 1 and central is System 2 — memorize that mapping.

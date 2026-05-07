@@ -28,5 +28,5 @@ Maps to the first pillar of motivating environments: **clear paths from inputs t
 - "I'm offered a bigger bonus, but I don't care about money right now" — valence = low.
 - "My role is so unclear I don't know if effort produces good performance" — expectancy = low.
 
-## Likely MCQ angles
-The three components and the **multiplicative** structure are MCQ gold. "If valence is zero but expectancy and instrumentality are high, motivation is..." → **zero** (because multiplied). Distractor: confusing with equity theory.
+## Notes on application
+The three components and the **multiplicative** structure are high-yield. "If valence is zero but expectancy and instrumentality are high, motivation is..." → **zero** (because multiplied). Distractor: confusing with equity theory.

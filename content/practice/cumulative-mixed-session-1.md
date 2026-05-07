@@ -1,14 +1,11 @@
 ---
-title: "Practice — Cumulative Mixed Set (Session 1)"
+title: "Cumulative Mixed Set — practice questions"
 type: cumulative-mixed
-session: 1
-date: 2026-05-02
 question_count: 15
 ---
 
 
-# Practice — Cumulative Mixed Set (Session 1)
-
+# Cumulative Mixed Set — practice questions
 ## Instructions
 Close the wiki for 30 minutes; answer without reference. Score yourself, then re-read the linked concept pages on misses.
 
@@ -206,16 +203,16 @@ D. Expectancy theory predicts A's higher performance because her instrumentality
 - M3 Decision Making: 1 (Q2)
 - M4 Personality & Culture: 1 (Q3)
 - M5 Motivation: 1 (Q4)
-- Midterm 1 subtotal: 4 (target ~3 — over by 1; M5 Q4 is also relevant prep for cross-cut Q15)
+- Modules 2–5 subtotal: 4 (target ~3 — over by 1; M5 Q4 is also relevant for cross-cut Q15)
 - M6 Influence: 1 (Q5)
 - M7 Power & Leadership: 1 (Q6)
 - M8 Social Identity: 1 (Q7)
 - M9 Negotiation: 1 (Q8)
-- Midterm 2 subtotal: 4 (target 4)
+- Modules 6–9 subtotal: 4 (target 4)
 - M10 Groups & Teams: 2 (Q9, Q10)
 - M11 Ethics: 2 (Q11, Q12)
 - M12 Happiness: 1 (Q13)
-- Final-only subtotal: 5 (target 5)
+- Modules 10–12 subtotal: 5 (target 5)
 - Cross-cut: 2 (Q14 System 1/2; Q15 Fairness)
 
 Note: 4 + 4 + 5 + 2 = 15. The cross-cut count is 2 rather than 3; Q6 (KAL 801) and Q15 (procedural-justice + Malhotra) both function as synthesis stems pulling from multiple modules even though labeled to a single home module, so the practical synthesis density is closer to 4. Question types: ~5 definition-match (Q1, Q3, Q9, Q11, Q13), ~7 scenario-application (Q2, Q4, Q5, Q6, Q7, Q10, Q12, Q14), ~3 comparison/distinction (Q8, Q15, plus Q3 functions both ways).

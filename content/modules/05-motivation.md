@@ -68,7 +68,7 @@ Layered on top: the **money-happiness** story (positive but non-linear; we overe
 - **Babcock raise-compounding math** (Korkki) — a $1–2K starting-salary gap, compounded over a career via percentage raises, becomes a six-figure lifetime gap. The reading-only label is **pay-conversation taboo**: 60%+ of US workers say discussing pay with coworkers is forbidden or strongly discouraged.
 - **Minimum-wage wage compression** (Feintzeig & Weber) — when a minimum-wage hike pushes new hires up to or past tenured workers, **veterans feel under-rewarded though no pay was cut**. The textbook real-world equity-theory case: input/output ratio comparison drives the felt unfairness.
 - **Sawyer Effect** (Pink) — turning *play* into *work* via contingent rewards (whitewashing the fence as labor vs. game); the named effect for "incentives convert intrinsic motivation into extrinsic dependence."
-- **Glucksberg candle problem** (Pink) — incentives slow people on the *insight* version (must reframe the box as a platform) but speed them on the *no-insight* version (tacks pre-removed). The MCQ-ready takeaway: **contingent rewards narrow attention**, helping on routine tasks and hurting on creative ones.
+- **Glucksberg candle problem** (Pink) — incentives slow people on the *insight* version (must reframe the box as a platform) but speed them on the *no-insight* version (tacks pre-removed). The canonical takeaway: **contingent rewards narrow attention**, helping on routine tasks and hurting on creative ones.
 - **Motivation 2.0 vs. 3.0** (Pink) — 2.0 = carrots-and-sticks for *algorithmic* tasks; 3.0 = autonomy + mastery + purpose for *heuristic* tasks. Pink's "third drive" is intrinsic. Distractor: Motivation 1.0 (biological survival drive) is the *first* drive, not the upgrade target.
 - **Deliberate practice** (Frank, citing Ericsson) — many thousands of hours of focused effortful practice; only sustainable on work you genuinely love. Reading-only label.
 - **Mission alignment / >80% Cornell premium** (Frank) — quantifies the monetary value of working for a cause you support: students demanded >80% extra pay to switch from anti-smoking to pro-tobacco copywriting. Reading-only number.
@@ -80,7 +80,7 @@ Layered on top: the **money-happiness** story (positive but non-linear; we overe
 - [[cross-cuts/cultural-differences]] — equity-vs-equality-vs-need allocation preferences and individualism–collectivism shape what counts as "fair" or "motivating" in a given workplace.
 - [[cross-cuts/fairness-and-justice]] — distributive vs. procedural justice originates here; procedural justice is the strongest predictor of job performance, and the construct travels into M8 (diversity paradigms) and M9 (BATNA vs. fairness anchor).
 
-## High-yield MCQ traps
+## Common points of confusion
 
 - **Expectancy vs. equity theory** — *forward* effort→reward chain (multiplicative; one zero kills motivation) vs. *sideways* comparison to a referent's input/output ratio. Distractor: swapping "multiplicative" or "referent comparison" between the two.
 - **Distributive vs. procedural justice** — what I get vs. how I got it. **Procedural is the stronger predictor of job performance** (slide-flagged counterintuitive). Distractor: stems will reverse the predictor direction.
@@ -94,8 +94,7 @@ Layered on top: the **money-happiness** story (positive but non-linear; we overe
 - **Three allocation principles (cultural fairness)** — **merit / equality / need**. Equity = individualist default; the *desire for fair process* is universal, the *content* of fair allocation isn't.
 - **Pink's Motivation 2.0 vs. 3.0** — 2.0 (carrots/sticks) for algorithmic tasks; 3.0 (autonomy/mastery/purpose) for heuristic/creative tasks. Distractor: applying 2.0 to a creative-insight task.
 
-## Likely exam patterns
-
+## Notes on application
 - **Scenario stems applying expectancy or equity to a workplace situation** — given a vignette (effort→reward link broken; coworker hired at higher pay), identify which theory diagnoses it. The multiplicative-vs-comparative cue is the discriminator.
 - **"Which justice type predicts performance"** — answer is **procedural** (slide-flagged counterintuitive). Almost guaranteed appearance.
 - **Creative-task incentive-backfire stem** — Glucksberg-style scenario where contingent rewards are introduced on a creative/insight task; identify it as a financial-incentive tradeoff (not a motivation-2.0 success story).

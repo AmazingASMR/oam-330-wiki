@@ -25,5 +25,5 @@ A related cost shown on slides: *concealing* identity also taxes performance —
 ## Example(s)
 GRE / African-American identity prompt; women on math; White men on jump shots.
 
-## Likely MCQ angles
+## Notes on application
 "What causes the performance drop in stereotype threat?" → awareness/salience of the stereotype, not the stereotype's accuracy. Distractor: "stereotype tax." Distractor: discrimination by an evaluator.

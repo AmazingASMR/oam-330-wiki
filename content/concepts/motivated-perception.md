@@ -22,5 +22,5 @@ This is the [[concepts/system-1-system-2|System 1]] failure at the *input* stage
 - **Horse-or-seal study (slides):** ambiguous image. When perception is **not** tied to outcomes, ~50/50 split. When seeing one animal led to **orange juice** and the other to a **nasty smoothie**, **70% "saw"** the animal that led to the better outcome.
 - Bruner & Goodman (1947) — the foundational study cited in slides.
 
-## Likely MCQ angles
-The 50% vs. 70% horse/seal numbers are MCQ-bait. Distractor: confusing motivated perception (input) with confirmation bias (evidence selection). Distractor: Bruner & Goodman as the cited researchers.
+## Notes on application
+The 50% vs. 70% horse/seal numbers are worth memorizing precisely. Distractor: confusing motivated perception (input) with confirmation bias (evidence selection). Distractor: Bruner & Goodman as the cited researchers.

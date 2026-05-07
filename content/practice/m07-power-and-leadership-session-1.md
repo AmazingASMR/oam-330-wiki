@@ -1,15 +1,12 @@
 ---
-title: "Practice — Module 7 Power & Leadership (Session 1)"
+title: "Module 7 Power & Leadership — practice questions"
 type: module
 module: Power & Leadership
-session: 1
-date: 2026-05-02
 question_count: 8
 ---
 
 
-# Practice — Module 7 Power & Leadership (Session 1)
-
+# Module 7 Power & Leadership — practice questions
 ## Instructions
 Try to answer all 8 without referencing the concept pages. Score yourself and use the "why each distractor is wrong" notes to surface fuzzy thinking — especially the power-paradox vs. how-power-changes-behavior pair.
 

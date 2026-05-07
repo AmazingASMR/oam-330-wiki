@@ -11,7 +11,7 @@ scope: [M1, Final]
 
 Two questions: **(1) Who are people, individually?** and **(2) How does culture shape what people value and how they behave?** Williams's spine: companies spend billions trying to measure personality (~80% of companies; $2–3B/yr), but most popular tools (esp. MBTI) are weak; the empirically grounded **Big 5 / OCEAN** is modestly predictive — strongest for **Conscientiousness**, mostly contingent for the rest. On the culture side: **values** ("should") sit alongside traits ("is"), vary systematically with geography, economics, climate, religion, and crop type (rice vs. wheat — Talhelm 2014), and produce real differences in moral reasoning and workplace motivation across **Hofstede dimensions**, especially **individualism vs. collectivism**.
 
-**The core MCQ distractor pair: Big 5 vs. MBTI.** Big 5 = empirical, continuous, predictive. MBTI = popular, dichotomous, weak. **Barnum effect** explains why MBTI feels accurate to its takers even when retest reliability is poor.
+**The core close-pair distinction: Big 5 vs. MBTI.** Big 5 = empirical, continuous, predictive. MBTI = popular, dichotomous, weak. **Barnum effect** explains why MBTI feels accurate to its takers even when retest reliability is poor.
 
 This is the first module where the **cultural-differences cross-cut** surfaces and recurs through Motivation, Influence, Power & Leadership, Social Identity, Negotiation, and Ethics.
 
@@ -67,7 +67,7 @@ This is the first module where the **cultural-differences cross-cut** surfaces a
 - [[cross-cuts/distractor-pairs]] — Big 5 vs. MBTI is the marquee M4 distractor pair; also individualism vs. power distance and individualism vs. "selfish."
 - [[cross-cuts/cultural-differences]] — M4 introduces Hofstede's dimensions (especially individualism–collectivism) and the rice-vs-wheat origin mechanism that recur through M5–M9.
 
-## High-yield MCQ traps
+## Common points of confusion
 
 | Pair | Distinguishing feature |
 |---|---|
@@ -80,8 +80,7 @@ This is the first module where the **cultural-differences cross-cut** surfaces a
 | Individualism vs. "selfish" | Slides frame individualism normatively as *authenticity / initiative*, NOT selfishness. Common distractor. |
 | [[concepts/rice-vs-wheat-farming]] vs. national-culture confound | Talhelm's contribution is **within-China** variation — same country, same language. Distractor stems will frame it as "Chinese vs. American" (which would confound country with crop). |
 
-## Likely exam patterns
-
+## Notes on application
 - **Definition recall for each OCEAN letter** — given a behavior or self-description, identify which trait it primarily reflects. The Conscientiousness vs. Agreeableness swap is a frequent trap.
 - **Scenario stems on cultural variation** — a transplanted incentive, recognition practice, or moral dilemma fails in a new culture; identify which Hofstede dimension explains it (almost always individualism–collectivism).
 - **Recognition of the Talhelm rice-wheat finding** — stem describes within-China regional difference in collectivist behavior; identify the *crop labor demand* mechanism, not "northern vs. southern climate" or "ethnic diversity."

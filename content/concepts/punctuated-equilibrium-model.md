@@ -22,5 +22,5 @@ Predicts the actual rhythm of project teams under deadline: directions are set e
 - The six steps (R&J): (1) first meeting sets direction, (2) Phase 1 inertia, (3) transition at half-allotted-time, (4) major changes, (5) Phase 2 inertia, (6) accelerated final-meeting activity.
 - Whether the project lasts an hour or six months, the transition still hits at the midpoint.
 
-## Likely MCQ angles
+## Notes on application
 Definition recall ("when does the transition occur?" → at the midpoint, regardless of total time) and identifying which group type the model applies to (temporary, deadline-driven). Distractor: confusing the midpoint trigger with completion deadline.

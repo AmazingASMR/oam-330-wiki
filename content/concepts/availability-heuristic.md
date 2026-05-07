@@ -23,5 +23,5 @@ A [[concepts/system-1-system-2|System 1]] shortcut at the **evidence-gathering**
 - **Academy Award winners list (slides):** judging frequency by what you can recall.
 - **"Top salespeople" boss-question scenario (slides):** the names that come to mind first ≠ the actual top performers; recency, recent interactions, and visibility distort the sample.
 
-## Likely MCQ angles
-The 2,170 / 2,606 9/11 numbers are MCQ-bait. Distinguish from confirmation bias (passive recall vs. active seeking). The fix per slides: "make sure you are making a decision based on **all** the evidence, not vivid examples that come to mind."
+## Notes on application
+The 2,170 / 2,606 9/11 numbers are worth memorizing precisely. Distinguish from confirmation bias (passive recall vs. active seeking). The fix per slides: "make sure you are making a decision based on **all** the evidence, not vivid examples that come to mind."

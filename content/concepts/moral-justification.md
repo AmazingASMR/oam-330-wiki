@@ -27,5 +27,5 @@ It is the first of the four enabling mechanisms of organizational misconduct (sl
 - Halloween candy-stealing experiment (masks → more theft).
 - Pythias Brown TSA case (inequity → escalating theft).
 
-## Likely MCQ angles
+## Notes on application
 "Which mechanism is illustrated by employees taking supplies because they feel underpaid?" → moral justification via **inequity**. "Which is illustrated by traders harming distant unidentified customers?" → justification via **anonymity** (NOT social norms — no peer-behavior cue).

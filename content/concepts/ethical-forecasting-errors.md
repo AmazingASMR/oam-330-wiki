@@ -23,5 +23,5 @@ We see ourselves as good, ethical people, so our forecasts are biased toward the
 - Daffodil Days: 80% predicted they'd buy a daffodil; only ~50% did.
 - Clinical trial vignette: people predict they'd enroll their child for societal benefit; reality flips when their own child is sick.
 
-## Likely MCQ angles
+## Notes on application
 Match the *stage* (prediction) to the error name. Distractor: confusing forecasting errors with ethical fading (which is the decision-stage error). Key cue: forecasting = "should self dominates predictions."

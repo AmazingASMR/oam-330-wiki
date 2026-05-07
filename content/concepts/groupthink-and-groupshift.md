@@ -18,7 +18,7 @@ Both are by-products of group decision making that degrade quality. Groupthink k
 ## Key distinctions
 - **Groupthink = consensus pressure suppresses dissent.** Triggered by clear group identity, positive group image to protect, perceived collective threat. The mode here is ARTIFICIAL AGREEMENT.
 - **Groupshift = polarization toward extremes.** Triggered by persuasive discussion, diffused responsibility, desire to differentiate from outgroup. The mode here is AMPLIFIED ORIGINAL POSITION.
-- **Groupshift can be a special case of groupthink** (R&J), but on the exam treat them as DISTINCT: groupthink suppresses minority views; groupshift exaggerates the majority view.
+- **Groupshift can be a special case of groupthink** (R&J), but in the material treat them as DISTINCT: groupthink suppresses minority views; groupshift exaggerates the majority view.
 - **Social loafing** — neither; that's effort reduction, not appraisal failure.
 
 ## Mitigations for groupthink
@@ -32,5 +32,5 @@ Both are by-products of group decision making that degrade quality. Groupthink k
 - Samsung Galaxy Note 7 (2016) recall — "cannot fail" attitude inside Samsung blamed on groupthink.
 - Asch's lone dissenter findings underpin the groupthink concept.
 
-## Likely MCQ angles
+## Notes on application
 HIGH-PROBABILITY: a scenario asking you to label a vignette as groupthink vs. groupshift. Memorize the trigger words: "suppressed dissent / artificial consensus" → groupthink; "more extreme than any individual would alone" → groupshift.

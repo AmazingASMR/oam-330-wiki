@@ -125,7 +125,7 @@ Lint pass before exam (today, 15:00). Methodology: grepped all concept pages for
 
 **Headline:** the wiki is in unusually strong shape. Zero `gap` or `low` pages. Only the 4 already-flagged `medium` pages exist, and all 4 still meet the schema bar (≥1 distinction, ≥1 example). Every spot-checked concept page has 2-3 sharp distinctions and a slide-anchored example. Recommendation: spend the morning on distractor pairs and reading-only material, not on patching content.
 
-### Tier 1 — verify before exam (high MCQ risk)
+### Tier 1 — verify before exam (high questions risk)
 
 Targeted re-reads — all are concepts with sister-confusion traps where a single wrong word in the stem flips the right answer.
 
@@ -171,9 +171,9 @@ Targeted re-reads — all are concepts with sister-confusion traps where a singl
 - M9 Negotiation strategies — `negotiation-preparation`, `negotiation-success-strategies`, `compromise-in-integrative-negotiation`, `positions-vs-interests`, `cultural-differences-negotiation` — all strong; covered in `cross-cuts/cultural-differences.md` and `cross-cuts/fairness-and-justice.md`.
 - M11 Ethics meta-arc — `ethics-definition`, `behavior-principles-alignment`, `ethical-memory-revisionism`, `ethics-antidote` — all strong; `ethics-antidote` (J&J Tylenol; Enron counter-example) is the high-yield "antidote = culture, not policy" answer.
 - M12 Happiness — all 5 concept pages high-confidence; `mega-takeaways` is the wrap-up.
-- All 4 cross-cuts — `cultural-differences.md`, `decision-making-biases.md`, `fairness-and-justice.md`, `system-1-system-2.md` — exist, each links 5+ concept pages, each has its own "high-yield MCQ traps" section worth a final pass.
+- All 4 cross-cuts — `cultural-differences.md`, `decision-making-biases.md`, `fairness-and-justice.md`, `system-1-system-2.md` — exist, each links 5+ concept pages, each has its own "high-yield common confusions" section worth a final pass.
 
-### High-yield distractor pairs (the highest-MCQ-risk distinctions)
+### High-yield distractor pairs (the highest-questions-risk distinctions)
 
 Ranked by frequency-of-flagging across the concept-page Key distinctions sections, with the trap word in *italics*.
 
@@ -202,12 +202,12 @@ Ranked by frequency-of-flagging across the concept-page Key distinctions section
 
 ### Reading-only points (testable but easy to miss)
 
-These are MCQ-ready terms or numbers that live in reading pages but are *not* fully captured on a concept page. The study guide bullets "Content of readings" make them fair game.
+These are concise terms or numbers that live in reading pages but are *not* fully captured on a concept page. The study guide bullets "Content of readings" make them fair game.
 
 - **Bounded ethicality** (Bazerman & Tenbrunsel) — the umbrella term for unconscious ethical limits; concept pages use the symptom names (fading, visceral, revisionism) but not this label.
 - **Want self vs. should self** (Bazerman & Tenbrunsel) — the explicit pair; cross-cuts reference it but no dedicated concept page.
 - **Mom test / eulogy exercise / joint vs. separate evaluation / precommitment devices** (Bazerman & Tenbrunsel Ch. 8) — interventions to narrow the want/should gap; only partially absorbed into `behavior-principles-alignment`.
-- **Psychological safety** (Duhigg / Edmondson 1999) — Project Aristotle's headline finding. Operationalized by *equality in conversational turn-taking* + *high average social sensitivity* (Reading the Mind in the Eyes test). Distinct from cohesion. High-probability MCQ.
+- **Psychological safety** (Duhigg / Edmondson 1999) — Project Aristotle's headline finding. Operationalized by *equality in conversational turn-taking* + *high average social sensitivity* (Reading the Mind in the Eyes test). Distinct from cohesion. High-probability questions.
 - **Project Aristotle** — Google's 2012 initiative; named-source recognition.
 - **Compensating differentials** (Frank) — better-conditions jobs tend to pay less.
 - **Easterlin paradox** (Frank) — relative > absolute income for satisfaction.
@@ -233,7 +233,7 @@ These are MCQ-ready terms or numbers that live in reading pages but are *not* fu
 
 ### Cross-cut completeness check
 
-All 4 cross-cuts at `wiki/cross-cuts/` exist, each links 5+ concept pages, each contains a "High-yield MCQ traps" section. No action needed.
+All 4 cross-cuts at `wiki/cross-cuts/` exist, each links 5+ concept pages, each contains a "High-yield common confusions" section. No action needed.
 
 ### Slide/reading contradictions
 
@@ -241,7 +241,7 @@ No `## Per [reading]` "slides say X but reading says Y" contradiction notes were
 
 ## [2026-05-02 02:45] practice | Phase E session 1 generated — 4 sets, 41 questions
 
-Four parallel agents generated MCQ practice sets:
+Four parallel agents generated questions practice sets:
 - `practice/m10-groups-and-teams-session-1.md` — 10 questions (3 def + 4 scenario + 3 distinction)
 - `practice/m11-ethics-session-1.md` — 10 questions (3 def + 4 scenario + 3 distinction)
 - `practice/m12-happiness-session-1.md` — 6 questions (covers 50/40/10 split, mega-takeaways, Easterlin)
@@ -262,7 +262,7 @@ Final wiki state:
 - 22 reading pages
 - 11 module pages (M1 omitted — no testable bullets)
 - 4 cross-cut pages
-- 4 practice sets (41 MCQs total)
+- 4 practice sets (41 questions total)
 - coverage.md: 127 / 127 ✅
 - log.md: full audit trail (this file)
 
@@ -304,12 +304,12 @@ Vault is structurally near-complete: 122/122 concept pages, 22/22 readings, 12 m
 Confirmed by grep against `wiki/readings/`:
 - **Psychological safety** (Duhigg) — central to the Project Aristotle reading; only mentioned inside `roles-and-norms.md` distinctions. Highest priority.
 - **Bounded ethicality / want-self vs. should-self / mom test** (Bazerman) — only in `bazerman-tenbrunsel-blind-spots.md`; touched obliquely in `ethical-forecasting-errors.md` via "should-self".
-- **Mitigated speech / receiver- vs. transmitter-oriented communication** (Gladwell) — appears in `cultural-power-leadership.md` and the cultural-differences cross-cut, but no standalone page; could become the cleanest single MCQ-grade target.
+- **Mitigated speech / receiver- vs. transmitter-oriented communication** (Gladwell) — appears in `cultural-power-leadership.md` and the cultural-differences cross-cut, but no standalone page; could become the cleanest single questions-grade target.
 - **Easterlin paradox / compensating differentials / mission alignment** (Frank) — only in `frank-finding-job-you-love.md`. `happiness-vs-objective-quality.md` mentions Easterlin's *finding* but not the term.
 - **Progress principle / inner work life** (Amabile & Kramer) — only in `amabile-kramer-happier-work-harder.md`. Not on any concept page.
 - **Sawyer effect / candle problem** (Pink) — appears only in `pink-drive-ch2.md`. Substantively covered by `intrinsic-vs-extrinsic-motivation.md` and `financial-incentives-tradeoffs.md`, but the named effects themselves aren't indexed.
 - **Hubris syndrome** (Useem) — only in `useem-power-causes-brain-damage.md`. `power-changes-behavior.md` covers the mechanism but not Owen's named clinical syndrome.
-- **Reference-class forecasting / algorithm aversion** (Freakonomics) — only in `freakonomics-planning-fallacy.md`. Reference-class forecasting is a likely MCQ target since it's a named debiasing strategy beyond the slide list.
+- **Reference-class forecasting / algorithm aversion** (Freakonomics) — only in `freakonomics-planning-fallacy.md`. Reference-class forecasting is a likely questions target since it's a named debiasing strategy beyond the slide list.
 - **Concorde effect / planning fallacy as separate term** (Dobelli/Freakonomics) — `dobelli-art-of-thinking-clearly.md` and `freakonomics-planning-fallacy.md` introduce these. Sunk-cost concept page would be the place to fold "Concorde effect" in.
 - Additional candidates found while reading: **Reading the Mind in the Eyes test** (Duhigg), **Project Aristotle** itself (Duhigg), **Pythias Brown TSA case** (slide 9 ethics — appears in `moral-justification.md` only), **Ford Pinto** (in `outcome-focused-culture.md` already), **Fundamental attribution error** (only as one-off mention; not on any guide bullet).
 
@@ -327,33 +327,33 @@ Practice files present: M2, M3, M4, M5, M6, M7, M10, M11, M12, plus cumulative-m
 - Even one cross-cut practice set would catch a class of synthesis questions current per-module sets miss.
 
 ### Section 7 — Cross-cut completeness
-All four cross-cut pages have ≥5 concept-page links and a "High-yield MCQ traps" section with ≥3 traps. No issues found.
+All four cross-cut pages have ≥5 concept-page links and a "High-yield common confusions" section with ≥3 traps. No issues found.
 - `cultural-differences.md` — links to ~12 concept pages across M4/M5/M6/M7/M8/M9; M8 is now covered (culture-shock subsection); M6 single-bullet (reciprocity backfire) is light but justified by source thinness, not an omission.
 - `decision-making-biases.md` — comprehensive bias-table with 11 sister-bias rows, M6/M11 reapplications, debiasing summary.
 - `system-1-system-2.md` — full master-frame mapping across M3/M6/M11.
-- `fairness-and-justice.md` — distributive/procedural axis + module-by-module + 7 MCQ traps.
+- `fairness-and-justice.md` — distributive/procedural axis + module-by-module + 7 common confusions.
 
 ### Section 8 — Slide-extracted content vs. concept pages
-**M3 (Decision Making, slide deck 05, 28 slides):** sampled slides 1, 5, 10, 15, 20, 25. Concept pages cover the visible content — anchoring (slide 15 Gandhi study with F=6.90, p=.01, M=79.4 vs. M=70.7), better-than-average effect (slide 10 self-rating means 3.6-3.9), Gilbert quote on debiasing (slide 25). All present in concept pages or cross-cut. **No gaps detected**, though `anchoring-bias.md` could cite the specific Gandhi-78-yrs class result for MCQ realism.
+**M3 (Decision Making, slide deck 05, 28 slides):** sampled slides 1, 5, 10, 15, 20, 25. Concept pages cover the visible content — anchoring (slide 15 Gandhi study with F=6.90, p=.01, M=79.4 vs. M=70.7), better-than-average effect (slide 10 self-rating means 3.6-3.9), Gilbert quote on debiasing (slide 25). All present in concept pages or cross-cut. **No gaps detected**, though `anchoring-bias.md` could cite the specific Gandhi-78-yrs class result for questions realism.
 
 **M5 (Motivation, slide deck 09, 19 slides):** sampled slides 1, 5, 10, 15. Coverage of intrinsic/extrinsic upsides+downsides (slide 15 — six downsides listed verbatim) is on `financial-incentives-tradeoffs.md`. The "myth of the unhappy worker" (slide 10 — GSS 90% satisfied, <5% not at all satisfied) appears in `job-satisfaction-factors.md`. **No factual omissions found** in the sampled slides.
 
 **M11 (Ethics, slide deck 27, 22 slides):** sampled slides 1, 3, 6, 9, 12, 15, 18, 21. The 181 MB file extracted cleanly. Moral justification (slide 9 — anonymity of victim/actor; Enron TX/CA, masks, dim lighting), social norms (slide 12, 15 — Milgram 2/3 to "XXX"), outcome-focused culture (slide 18 — Wells Fargo "Eight is great", Angie Payden + Scott T. quotes), takeaways (slide 21 — four mechanisms list). All match concept-page content exactly. **No factual omissions found.** Note: concept page `moral-justification.md` cites Pythias Brown TSA but slide 9 puts Enron at the center — both appear.
 
 ### Section 9 — Big 5 / OCEAN structure
-`ocean-traits.md` is a single consolidated page covering all five letters with one-line definitions, distinctions vs. MBTI/HEXACO/Neuroticism≠pathology, examples (da Vinci/Robocop, class profile), and MCQ angles. Trait-by-trait one-line definitions are crisp enough for "match each letter" items. **Individual trait pages are not necessary** for MCQ recognition given Williams's exam style (definition-match and scenario-application, not deep within-trait nuance). Keep consolidated.
+`ocean-traits.md` is a single consolidated page covering all five letters with one-line definitions, distinctions vs. MBTI/HEXACO/Neuroticism≠pathology, examples (da Vinci/Robocop, class profile), and questions angles. Trait-by-trait one-line definitions are crisp enough for "match each letter" items. **Individual trait pages are not necessary** for questions recognition given Williams's exam style (definition-match and scenario-application, not deep within-trait nuance). Keep consolidated.
 
 ### Section 10 — Distractor-pair consolidation
-No single "common confusions" cram sheet exists. The distractor data is scattered across 122 Key-distinctions sections and the cross-cut MCQ-traps sections. The decision-making-biases cross-cut already has the best distractor-table in the vault (11 sister-bias rows). **Recommendation**: build a `wiki/cross-cuts/distractor-pairs.md` aggregating the 25-30 most common mix-ups from across modules (equity vs. expectancy, distributive vs. procedural, ethical fading vs. moral justification, halo vs. SFP, anchoring vs. framing, individualism vs. low-PD, paradigm 1 vs. paradigm 2, etc.) — pure scan-and-merge work, no new content needed.
+No single "common confusions" synthesis sheet exists. The distractor data is scattered across 122 Key-distinctions sections and the cross-cut questions-traps sections. The decision-making-biases cross-cut already has the best distractor-table in the vault (11 sister-bias rows). **Recommendation**: build a `wiki/cross-cuts/distractor-pairs.md` aggregating the 25-30 most common mix-ups from across modules (equity vs. expectancy, distributive vs. procedural, ethical fading vs. moral justification, halo vs. SFP, anchoring vs. framing, individualism vs. low-PD, paradigm 1 vs. paradigm 2, etc.) — pure scan-and-merge work, no new content needed.
 
 ### Recommended fixes (priority-ordered)
 1. **Create concept pages for the 9 reading-only testable terms** (Section 4). Highest exam-yield gap. Psychological safety, bounded ethicality, mitigated speech, Easterlin paradox, progress principle, hubris syndrome, reference-class forecasting are the must-builds; Sawyer effect and Concorde effect can be sentences inside existing pages.
 2. **Update `index.md` and `coverage.md` footers** to reflect actual counts (10 practice sets, 12 module pages). Two-minute fix; current state misleads the student.
 3. **Backfill `modules/01-about-ob.md`** with links to ob-definition, three-course-themes, input-outcome-variables, empirical-evidence-utility (1-page module overview, no new concepts).
 4. **Add 1 cross-cut practice set** (recommend `cultural-differences-session-1.md` — highest-density synthesis target).
-5. **Add practice sets for M1, M8, M9** (8-10 MCQs each) to reach minimum coverage parity.
+5. **Add practice sets for M1, M8, M9** (8-10 questions each) to reach minimum coverage parity.
 6. **Build `cross-cuts/distractor-pairs.md`** consolidating the top 25-30 mix-ups from existing Key-distinctions sections (Section 10).
-7. **Optional polish**: cite specific in-class study results in concept pages (e.g., Gandhi anchoring F-stat) so MCQ stems quoting numerical detail trigger recognition.
+7. **Optional polish**: cite specific in-class study results in concept pages (e.g., Gandhi anchoring F-stat) so scenario stems quoting numerical detail trigger recognition.
 
 ## [2026-05-02 03:30] sweep | concept-page integrity fixes
 
@@ -372,7 +372,7 @@ Pre-exam structural sweep across all 132 concept pages (audit count was stale at
   - `framing-and-risk.md`: `## Example(s) — slide-confirmed` → `## Example(s)` (annotation moved into body).
   - `culture-shock.md`: merged `## Key distinctions (the slide's own predictors / lessons)` and `## Distinctions vs. other module concepts` into one canonical `## Key distinctions`.
   - `groupthink-and-groupshift.md`: `## Key distinctions (THE distractor zone)` → `## Key distinctions`.
-  - `mechanistic-vs-organic.md`: `## Key distinctions (the MCQ distractor zone)` → `## Key distinctions`.
+  - `mechanistic-vs-organic.md`: `## Key distinctions (the question distractor zone)` → `## Key distinctions`.
 - Final post-fix audit: **0 of 132 pages have structural issues.** All have full frontmatter, all 5 canonical sections in order, ≥2 KD bullets, non-empty Example(s).
 
 ### Step 4 — special checks (the 4 medium-confidence pages)
@@ -410,9 +410,9 @@ User requested comprehensive audit + completion. Audit identified 5 issue catego
 
 **Module 1 expansion** — slide 01 extracted (24 slides); module page rewritten from stub to substantive page with framing, four anchor quotes, cross-references.
 
-**Cross-cut additions** — `distractor-pairs.md` cram sheet (~75 pairs across 12 modules + cross-module synthesis traps + 19 numeric anchors + exact-quote list). This is now the single highest-leverage page for morning-of-exam cramming.
+**Cross-cut additions** — `distractor-pairs.md` synthesis sheet (~75 pairs across 12 modules + cross-module synthesis traps + 19 numeric anchors + exact-quote list). This is now the single highest-leverage page for morning-of-exam cramming.
 
-**Practice expansion (+17 sets, +147 MCQs):**
+**Practice expansion (+17 sets, +147 questions):**
 - 8 module session-1 sets for M2–M9 (covers all modules now have ≥1)
 - 3 module session-2 re-drill sets for M3, M6, M11 (heaviest content / new-on-Final)
 - 4 cross-cut session-1 sets (one per cross-cut)
@@ -427,7 +427,7 @@ User requested comprehensive audit + completion. Audit identified 5 issue catego
 - 22 reading pages
 - 12 module pages
 - 5 cross-cut pages
-- 21 practice sets (179 MCQs)
+- 21 practice sets (179 questions)
 - coverage.md: 127 / 127 ✅
 - index.md: refreshed with all new pages and practice sets
 
@@ -456,8 +456,8 @@ Verified 4 medium-confidence concept pages against actual slide XML. Extracted t
 
 - **`ethical-frameworks-sources.md`** — **medium → high.** Slides 15-17 of deck 26 confirm exact umbrella label "Ethical frameworks" and the trio Faith traditions / Moral Foundations / Professional guidelines. Added verbatim slide text for each (including the exact one-line slide-15 framing for Faith traditions), the 7-item professional-guidelines list, and a flag that "outcome focus" is a likely distractor (it's actually a deck-27 enabling mechanism, not a framework source).
 - **`moral-foundations-five.md`** — **medium → high.** Slide 16 of deck 26 contains the exact 3-column table the page reproduces (name / explanation / violating behavior). All 5 names, explanations, and violation examples now quoted verbatim. Noted slide's "~5 categories" hedge (the tilde is in slide text). YourMorals.org reference confirmed.
-- **`employee-misconduct-types.md`** — **medium → high.** Slide 7 of deck 27 confirms $50B figure and the 7-item list verbatim. Added the deck-27 follow-on context: 4 enabling mechanisms (moral justification / social norms / outcome focus / moral inaction), Wells Fargo "Eight is great" + Stumpf detail, Pythias Brown $800K + quote, Ford Pinto 27 deaths + lawsuits-cheaper-than-fix, Enron blackouts + "synergistic corruption", Milgram 2/3-to-XXX, ~2/3 of witnesses don't report. Slide-8 distinction (behavior list vs. mechanism list) explicitly flagged as common MCQ trap.
-- **`negative-advertising.md`** — **stays medium (honestly).** Deck 14 slide 3 contains *only* the bullet "Negative advertising: Risky, but effective" within the Kidney Case strategy list. No backfire conditions, no source-credibility caveats, no examples named on the slide. Page now flags the slide-coverage gap explicitly and lists the full Kidney Case strategy set (principles/values appeal, order effects, individual identifiability via Rokia, advocacy effect) so MCQ list-membership questions are covered. Confidence held at medium with grounding note rather than padded with inference.
+- **`employee-misconduct-types.md`** — **medium → high.** Slide 7 of deck 27 confirms $50B figure and the 7-item list verbatim. Added the deck-27 follow-on context: 4 enabling mechanisms (moral justification / social norms / outcome focus / moral inaction), Wells Fargo "Eight is great" + Stumpf detail, Pythias Brown $800K + quote, Ford Pinto 27 deaths + lawsuits-cheaper-than-fix, Enron blackouts + "synergistic corruption", Milgram 2/3-to-XXX, ~2/3 of witnesses don't report. Slide-8 distinction (behavior list vs. mechanism list) explicitly flagged as common common confusion.
+- **`negative-advertising.md`** — **stays medium (honestly).** Deck 14 slide 3 contains *only* the bullet "Negative advertising: Risky, but effective" within the Kidney Case strategy list. No backfire conditions, no source-credibility caveats, no examples named on the slide. Page now flags the slide-coverage gap explicitly and lists the full Kidney Case strategy set (principles/values appeal, order effects, individual identifiability via Rokia, advocacy effect) so questions list-membership questions are covered. Confidence held at medium with grounding note rather than padded with inference.
 
 3 of 4 promoted to high; 1 held at medium with explicit slide-thinness disclosure.
 
@@ -495,9 +495,9 @@ Pre-exam sweep run T-10h before 2026-05-02 3pm exam. Ten checks executed; minor 
 **Checks run and results:**
 
 1. **Broken wiki-links** (194 unique link targets across all `.md` files): **0 broken**. Every `[[concepts/*]]`, `[[readings/*]]`, `[[modules/*]]`, `[[cross-cuts/*]]`, and `[[practice/*]]` link resolves to an existing file.
-2. **Concept-page section completeness** (132 pages, schema = Definition / Why it matters / Key distinctions / Example(s) / Likely MCQ angles): **1 fix** — `concepts/moral-foundations-five.md` had a custom `## The 5 Categories` section in place of `## Example(s)`. Renamed to `## Example(s)` (kept full slide-verbatim content underneath as a lead-in line). All 132 pages now schema-clean.
+2. **Concept-page section completeness** (132 pages, schema = Definition / Why it matters / Key distinctions / Example(s) / Likely questions angles): **1 fix** — `concepts/moral-foundations-five.md` had a custom `## The 5 Categories` section in place of `## Example(s)`. Renamed to `## Example(s)` (kept full slide-verbatim content underneath as a lead-in line). All 132 pages now schema-clean.
 3. **Reading-page section completeness** (22 pages, schema = Main argument / Key terms introduced / Examples used / Connections to lecture concepts): **0 missing**. All Wave-1 readings have all 4 sections; Wave-2 `## Source` sections preserved untouched.
-4. **Cross-cut completeness** (5 cross-cuts, requirement = 3+ concept links + MCQ-traps section + 2+ modules): **1 fix** — `cross-cuts/distractor-pairs.md` lacked an explicit "MCQ traps" section header (whole file is traps; section was titled "Cross-module distractor pairs (synthesis traps)"). Renamed to `## High-yield MCQ traps (cross-module synthesis)`. All 5 cross-cuts now have all 3 requirements. Counts (concept links / modules referenced): cultural-differences 10/9, decision-making-biases 23/3, distractor-pairs 81/10, fairness-and-justice 12/3, system-1-system-2 23/3.
+4. **Cross-cut completeness** (5 cross-cuts, requirement = 3+ concept links + questions-traps section + 2+ modules): **1 fix** — `cross-cuts/distractor-pairs.md` lacked an explicit "common confusions" section header (whole file is traps; section was titled "Cross-module distractor pairs (synthesis traps)"). Renamed to `## High-yield common confusions (cross-module synthesis)`. All 5 cross-cuts now have all 3 requirements. Counts (concept links / modules referenced): cultural-differences 10/9, decision-making-biases 23/3, distractor-pairs 81/10, fairness-and-justice 12/3, system-1-system-2 23/3.
 5. **Practice file completeness** (20 files, requirement = numbered Qs / answer key / per-distractor notes / concept back-links): **0 issues**. Every practice file has `## Questions` + `## Answer Key` + `[[concepts/*]]` back-links + per-distractor "why wrong" rationale.
 6. **coverage.md ↔ filesystem sync**: **1 fix** — `concepts/why-ob-matters-task-vs-management-skills` was on disk and linked from `modules/01-about-ob.md` but not in `coverage.md`. Added a new "Module 1 — About OB" section above the Midterm 1 scope block. Coverage now reflects all 132 concepts on disk; 0 dangling rows.
 7. **index.md ↔ filesystem sync**: **1 fix** — same orphan (`why-ob-matters-task-vs-management-skills`) was missing from index.md's "Concept pages by module (full list)" listing. Added a new `### M1 About OB` sub-section. index.md and disk now in 1:1 sync (132 concepts each).
@@ -508,11 +508,11 @@ Pre-exam sweep run T-10h before 2026-05-02 3pm exam. Ten checks executed; minor 
 **Top 3 most impactful fixes:**
 1. Added missing M1 concept (`why-ob-matters-task-vs-management-skills`) to both coverage.md and index.md — closes the only orphan in the wiki and brings coverage/index/disk into perfect 132-concept agreement.
 2. Restored schema-conformance to `concepts/moral-foundations-five.md` (rename `## The 5 Categories` → `## Example(s)`) — keeps the schema check passing for any downstream linter the student runs.
-3. Added explicit `## High-yield MCQ traps` header to `cross-cuts/distractor-pairs.md` — surfaces the file's purpose to anyone scanning the table of contents on exam morning.
+3. Added explicit `## High-yield common confusions` header to `cross-cuts/distractor-pairs.md` — surfaces the file's purpose to anyone scanning the table of contents on exam morning.
 
 **Still flagged for student decision (no edit made):**
 - 4 medium-confidence concept pages (already noted in coverage.md confidence-flags section): `ethical-frameworks-sources`, `moral-foundations-five`, `employee-misconduct-types`, `negative-advertising` — slide-only sources, no reading triangulation. If time permits before 3pm, eyeball Williams' slide deck to verify exact wording.
-- 3 reading pages reconstructed from poor-quality PDFs (already in index.md confidence section): `kahneman-dont-blink`, `amabile-kramer-happier-work-harder`, `grant-goodbye-mbti`. Quotes in these may not be verbatim — don't rely on them as exact-quote MCQ anchors.
+- 3 reading pages reconstructed from poor-quality PDFs (already in index.md confidence section): `kahneman-dont-blink`, `amabile-kramer-happier-work-harder`, `grant-goodbye-mbti`. Quotes in these may not be verbatim — don't rely on them as exact-quote questions anchors.
 - M1 narrative-only references: `modules/01-about-ob.md` mentions `ob-definition-and-goals`, `three-course-themes`, and `input-outcome-variables` as "previewed in M1" concepts, but their frontmatter `module:` field assigns them to M2. This is intentional (M1 previews, M2 develops) and was flagged in the prior log entry — left as-is.
 
 **Wiki state at end of sweep:** 132 concepts, 22 readings, 12 modules, 5 cross-cuts, 20 practice sets. coverage.md ↔ index.md ↔ disk all in 132-way agreement. 0 broken links, 0 schema violations, 0 orphans. Ready for exam.
@@ -538,41 +538,41 @@ No file edits made. Normalization is a no-op; the wiki was already canonical.
 
 ## [2026-05-02 05:00] normalize | cross-cut page conventions
 
-Verified all 5 `wiki/cross-cuts/*.md` against the canonical structure for the 4 synthesis pages (frontmatter: `title` / `modules` / `study_guide`; body: `## Why this matters` → module-by-module synthesis → `## High-yield MCQ traps` → optional `## Synthesis question patterns`) and the cram-sheet baseline for `distractor-pairs.md`.
+Verified all 5 `wiki/cross-cuts/*.md` against the canonical structure for the 4 synthesis pages (frontmatter: `title` / `modules` / `study_guide`; body: `## Why this matters` → module-by-module synthesis → `## High-yield common confusions` → optional `## Synthesis question patterns`) and the cram-sheet baseline for `distractor-pairs.md`.
 
 **Result: 1 frontmatter fix; 0 body renames.** Specifically:
 
-- **`cultural-differences.md`** — already canonical. Frontmatter has all 3 required keys. Body has `## Why this matters`, six module-by-module sections (M4–M9), `## High-yield MCQ traps`, `## Synthesis question patterns`. All links use `[[concepts/foo]]` Obsidian format.
-- **`system-1-system-2.md`** — already canonical. Frontmatter clean. Body has `## Why this matters`, `## The frame` framing section, three module sections (M3, M6, M11), `## High-yield MCQ traps`, `## Synthesis question patterns`. Wiki-link format clean (including one piped link `[[concepts/system-1-system-2|System 1]]`).
-- **`decision-making-biases.md`** — already canonical. Frontmatter clean. Body has `## Why this matters`, `## Bias catalog (with sister biases)` table, `## How biases reappear in other modules` (M6, M11), `## Debiasing`, `## High-yield MCQ traps`. No `## Synthesis question patterns` section — that section is optional per the canonical, so this is fine. Links clean.
-- **`fairness-and-justice.md`** — already canonical. Frontmatter clean. Body has `## Why this matters`, `## The two-axis frame`, four module sections (M5, M8, M9, M11), `## High-yield MCQ traps`, `## Synthesis question patterns`. Links clean.
-- **`distractor-pairs.md`** — **1 frontmatter fix**: removed extra `date: 2026-05-02` field (not in canonical). Body left intact: cram-sheet structure with `## How to use this page` (acceptable equivalent to `## Why this matters` for a reference page; the canonical contemplates this), 11 module-grouped distractor-pair tables (M2–M12), `## High-yield MCQ traps (cross-module synthesis)` table (renamed in the prior completeness sweep — verified and kept), `## High-yield numeric anchors` table, `## High-yield "exact" study-guide quotes` list, `## See also` cross-cut back-links. Did not force the synthesis-cross-cut template onto this page — it serves a different purpose (cram-sheet reference, table-heavy).
+- **`cultural-differences.md`** — already canonical. Frontmatter has all 3 required keys. Body has `## Why this matters`, six module-by-module sections (M4–M9), `## High-yield common confusions`, `## Synthesis question patterns`. All links use `[[concepts/foo]]` Obsidian format.
+- **`system-1-system-2.md`** — already canonical. Frontmatter clean. Body has `## Why this matters`, `## The frame` framing section, three module sections (M3, M6, M11), `## High-yield common confusions`, `## Synthesis question patterns`. Wiki-link format clean (including one piped link `[[concepts/system-1-system-2|System 1]]`).
+- **`decision-making-biases.md`** — already canonical. Frontmatter clean. Body has `## Why this matters`, `## Bias catalog (with sister biases)` table, `## How biases reappear in other modules` (M6, M11), `## Debiasing`, `## High-yield common confusions`. No `## Synthesis question patterns` section — that section is optional per the canonical, so this is fine. Links clean.
+- **`fairness-and-justice.md`** — already canonical. Frontmatter clean. Body has `## Why this matters`, `## The two-axis frame`, four module sections (M5, M8, M9, M11), `## High-yield common confusions`, `## Synthesis question patterns`. Links clean.
+- **`distractor-pairs.md`** — **1 frontmatter fix**: removed extra `date: 2026-05-02` field (not in canonical). Body left intact: cram-sheet structure with `## How to use this page` (acceptable equivalent to `## Why this matters` for a reference page; the canonical contemplates this), 11 module-grouped distractor-pair tables (M2–M12), `## High-yield common confusions (cross-module synthesis)` table (renamed in the prior completeness sweep — verified and kept), `## High-yield numeric anchors` table, `## High-yield "exact" study-guide quotes` list, `## See also` cross-cut back-links. Did not force the synthesis-cross-cut template onto this page — it serves a different purpose (cram-sheet reference, table-heavy).
 
-**Renames required across body sections**: 0. Every synthesis cross-cut already uses the exact canonical section names (`## Why this matters`, `## High-yield MCQ traps`).
+**Renames required across body sections**: 0. Every synthesis cross-cut already uses the exact canonical section names (`## Why this matters`, `## High-yield common confusions`).
 **Frontmatter fixes**: 1 (`distractor-pairs.md` — removed `date:`).
 **Wiki-link format**: clean across all 5 files. No bare-text or markdown-style links to internal pages found.
 **Structural inconsistencies handled gracefully**: `distractor-pairs.md` cleanly diverges from the synthesis template (uses `## How to use this page` instead of `## Why this matters`, leads with reference tables instead of synthesis prose) — preserved as-is per the cram-sheet exemption in the canonical schema.
 
 ## [2026-05-02 05:00] normalize | module page conventions
 
-Normalized all 12 module pages to a single canonical structure (frontmatter → H1 → optional callout → `## What this module is fundamentally about` → `## Concepts` → `## Assigned readings` → `## Cross-cut connections` → `## High-yield MCQ traps` (optional) → M1-only anchor quotes). All substantive prose preserved; only renames, reorders, and scaffolding cleanup.
+Normalized all 12 module pages to a single canonical structure (frontmatter → H1 → optional callout → `## What this module is fundamentally about` → `## Concepts` → `## Assigned readings` → `## Cross-cut connections` → `## High-yield common confusions` (optional) → M1-only anchor quotes). All substantive prose preserved; only renames, reorders, and scaffolding cleanup.
 
 **Per-module changes:**
 
 - **M1 (About OB)** — renamed `## Cross-references` → `## Cross-cut connections` (folded the existing 3 module-prose bullets into the same section alongside the existing `cross-cuts/distractor-pairs` link). Reordered: moved `## Slide 01 anchor quotes` to the end (after Cross-cut connections) and renamed it `## Module 1 anchor quotes`. Pulled `## Assigned readings` ahead of the new `## Cross-cut connections` section.
 - **M2 (Empirical Approaches)** — already canonical; no changes.
 - **M3 (Decision Making)** — dropped `**Status:** ingested from slides 04 (Jan 22 2026) and 05 (Jan 27 2026), plus three readings.` line.
-- **M4 (Personality & Culture)** — already canonical; left the embedded "core MCQ distractor pair: Big 5 vs. MBTI" line inside `## What this module is fundamentally about` (per per-module-instructions judgment call — flows naturally with the Big-5-vs-MBTI framing).
-- **M5 (Motivation)** — dropped `**Status:** complete. Slides 08 + 09 ingested; readings ingested.` line. Renamed `## High-yield distinction pairs (MCQ traps)` → `## High-yield MCQ traps`. Reordered: moved `## High-yield MCQ traps` after `## Cross-cut connections` (was before it).
-- **M6 (Influence & Persuasion)** — folded `## Scope note` substance into `## What this module is fundamentally about` (the MCQ-trap warning about Cialdini sibling-distinction and central/peripheral System-1/System-2 swaps now sits as a second paragraph in the main intro). Dropped the "appeared on Midterm 2 / reappears on Final" line as scaffolding redundant with `scope: [M2, Final]` frontmatter.
+- **M4 (Personality & Culture)** — already canonical; left the embedded "core close-pair distinction: Big 5 vs. MBTI" line inside `## What this module is fundamentally about` (per per-module-instructions judgment call — flows naturally with the Big-5-vs-MBTI framing).
+- **M5 (Motivation)** — dropped `**Status:** complete. Slides 08 + 09 ingested; readings ingested.` line. Renamed `## High-yield distinction pairs (common confusions)` → `## High-yield common confusions`. Reordered: moved `## High-yield common confusions` after `## Cross-cut connections` (was before it).
+- **M6 (Influence & Persuasion)** — folded `## Scope note` substance into `## What this module is fundamentally about` (the question-trap warning about Cialdini sibling-distinction and central/peripheral System-1/System-2 swaps now sits as a second paragraph in the main intro). Dropped the "appeared on Midterm 2 / reappears on Final" line as scaffolding redundant with `scope: [M2, Final]` frontmatter.
 - **M7 (Power & Leadership)** — already canonical; no changes.
-- **M8 (Social Identity & Diversity)** — renamed `## High-leverage MCQ traps` → `## High-yield MCQ traps`. Folded `## Cross-module links` (which linked to other module pages, not cross-cut pages) into `## Cross-cut connections` as additional bullets, preserving all 3 module-link bullets (M6, M10, M4). Reordered: moved `## High-yield MCQ traps` to after `## Cross-cut connections` (was at the top after the intro).
+- **M8 (Social Identity & Diversity)** — renamed `## High-leverage common confusions` → `## High-yield common confusions`. Folded `## Cross-module links` (which linked to other module pages, not cross-cut pages) into `## Cross-cut connections` as additional bullets, preserving all 3 module-link bullets (M6, M10, M4). Reordered: moved `## High-yield common confusions` to after `## Cross-cut connections` (was at the top after the intro).
 - **M9 (Negotiation)** — already canonical; no changes.
-- **M10 (Groups & Teams)** — already canonical; kept the `**This module is new on the Final** — extra weight likely.` callout in place under the H1.
-- **M11 (Ethics)** — already canonical; kept the `**New on the Final** — first appearance on an exam this term, so expect dedicated coverage.` callout.
-- **M12 (Happiness & Wrap-up)** — already canonical; kept the `**New on the Final.** ...` callout (sentence-style line under H1 acceptable as the optional-callout slot).
+- **M10 (Groups & Teams)** — already canonical; kept the `**This module is new across the course** — extra weight likely.` callout in place under the H1.
+- **M11 (Ethics)** — already canonical; kept the `**New across the course** — first appearance on an exam this term, so expect dedicated coverage.` callout.
+- **M12 (Happiness & Wrap-up)** — already canonical; kept the `**New across the course.** ...` callout (sentence-style line under H1 acceptable as the optional-callout slot).
 
-**Section-name renames performed:** `## Cross-references` → `## Cross-cut connections` (M1); `## Slide 01 anchor quotes` → `## Module 1 anchor quotes` (M1); `## High-yield distinction pairs (MCQ traps)` → `## High-yield MCQ traps` (M5); `## High-leverage MCQ traps` → `## High-yield MCQ traps` (M8); `## Cross-module links` merged into `## Cross-cut connections` (M8).
+**Section-name renames performed:** `## Cross-references` → `## Cross-cut connections` (M1); `## Slide 01 anchor quotes` → `## Module 1 anchor quotes` (M1); `## High-yield distinction pairs (common confusions)` → `## High-yield common confusions` (M5); `## High-leverage common confusions` → `## High-yield common confusions` (M8); `## Cross-module links` merged into `## Cross-cut connections` (M8).
 
 **Sections dropped:** `## Scope note` (M6, substance folded into intro); `**Status:** ...` lines (M3, M5).
 
@@ -619,11 +619,11 @@ Normalized all 20 practice files to a single canonical structure (frontmatter wi
 
 **Constraints honored:** preserved every question, option, correct answer, and rationale verbatim; preserved all numeric anchors (e.g., 2,170 / 2,606 deaths; 81% / 76% Asian-disease split; 50/40/10 happiness variance shares); did not add or remove any questions; used `[[concepts/foo]]` and `[[cross-cuts/foo]]` Obsidian wiki-link format throughout; appended this single log entry per the standing log convention.
 
-**Constraints honored:** preserved all substantive prose (no concept gloss text deleted); did not fabricate any new MCQ-traps content; kept Obsidian wiki-link format throughout; concept sub-grouping (H3 headers under `## Concepts`) preserved on M3 and M6 where it existed.
+**Constraints honored:** preserved all substantive prose (no concept gloss text deleted); did not fabricate any new questions-traps content; kept Obsidian wiki-link format throughout; concept sub-grouping (H3 headers under `## Concepts`) preserved on M3 and M6 where it existed.
 
 ## [2026-05-02 05:30] normalize | M1-M3 to M7 content standard
 
-Normalized the three earliest module pages (`modules/01-about-ob.md`, `modules/02-empirical-approaches.md`, `modules/03-decision-making.md`) to the canonical M7 (`07-power-and-leadership.md`) content convention: H3 thematic sub-headers under `## Concepts`, em-dash glosses on every concept/reading/cross-cut link drawn from the linked page's Definition or Why-it-matters, and module-specific cross-cut descriptions instead of generic "exam cram sheet" placeholders. Frontmatter, "What this module is fundamentally about" prose, and M1's anchor quotes preserved verbatim.
+Normalized the three earliest module pages (`modules/01-about-ob.md`, `modules/02-empirical-approaches.md`, `modules/03-decision-making.md`) to the canonical M7 (`07-power-and-leadership.md`) content convention: H3 thematic sub-headers under `## Concepts`, em-dash glosses on every concept/reading/cross-cut link drawn from the linked page's Definition or Why-it-matters, and module-specific cross-cut descriptions instead of generic "consolidated reference" placeholders. Frontmatter, "What this module is fundamentally about" prose, and M1's anchor quotes preserved verbatim.
 
 **Per-module changes:**
 
@@ -651,12 +651,12 @@ Normalized three module pages — `04-personality-and-culture.md`, `05-motivatio
 **Per-module gloss counts (added or substantially revised):**
 
 - **M4 — Personality & Culture:** 12 concept glosses across 3 H3 groups (Personality testing 3 / Big 5 / OCEAN 5 / Culture 4), 3 reading glosses, 2 cross-cut glosses. Concepts previously had short inline glosses; all were rewritten with substance from the source pages.
-- **M5 — Motivation:** 14 concept glosses across 4 H3 groups (Job satisfaction 3 / Motivating environments 5 / Meaningful work & inner work life 2 / Money & motivation 4), 3 reading glosses, 3 cross-cut glosses. Concepts previously bare links with no glosses at all; every gloss now traces to the source page. Preserved the existing `## High-yield MCQ traps` section verbatim.
+- **M5 — Motivation:** 14 concept glosses across 4 H3 groups (Job satisfaction 3 / Motivating environments 5 / Meaningful work & inner work life 2 / Money & motivation 4), 3 reading glosses, 3 cross-cut glosses. Concepts previously bare links with no glosses at all; every gloss now traces to the source page. Preserved the existing `## High-yield common confusions` section verbatim.
 - **M6 — Influence & Persuasion:** 15 concept glosses across the existing 4 H3 groups (two-route master frame 3 / Cialdini six 6 / minority influence 2 / Kidney Case 4), 1 reading gloss, 4 cross-cut glosses. Concepts previously bare links under correct sub-groups; every gloss now substantive. Preserved numeric anchors verbatim (74% Asch, 18% → 35% DAV, "Rokia more than doubled," "the last shall be first" in serial competition).
 
-**Hard-to-gloss concepts:** `negative-advertising` is the only one — concept page is `confidence: medium` because the slide entry on it is a single bullet ("Risky, but effective"). Gloss anchored on the verbatim slide phrase plus the audience-vs-advocate contrast with `advocacy-effect`, which is the actual MCQ-relevant distinguishing feature. All other concepts had clean Definition or Why-it-matters first sentences mapping straight to 1-line glosses.
+**Hard-to-gloss concepts:** `negative-advertising` is the only one — concept page is `confidence: medium` because the slide entry on it is a single bullet ("Risky, but effective"). Gloss anchored on the verbatim slide phrase plus the audience-vs-advocate contrast with `advocacy-effect`, which is the actual questions-relevant distinguishing feature. All other concepts had clean Definition or Why-it-matters first sentences mapping straight to 1-line glosses.
 
-**Constraints honored:** preserved all `## What this module is fundamentally about` prose verbatim on all three pages; preserved M5's `## High-yield MCQ traps` section verbatim; did not touch frontmatter on any file; em-dashes use Unicode ` — ` (space-em-space); all links use Obsidian `[[concepts/foo]]` / `[[readings/foo]]` / `[[cross-cuts/foo]]` format; no fabrication — every gloss traces to its concept/reading/cross-cut page. M6 sub-grouping kept intact (it was already canonical per the prompt); M4 and M5 had H3 groups newly imposed.
+**Constraints honored:** preserved all `## What this module is fundamentally about` prose verbatim on all three pages; preserved M5's `## High-yield common confusions` section verbatim; did not touch frontmatter on any file; em-dashes use Unicode ` — ` (space-em-space); all links use Obsidian `[[concepts/foo]]` / `[[readings/foo]]` / `[[cross-cuts/foo]]` format; no fabrication — every gloss traces to its concept/reading/cross-cut page. M6 sub-grouping kept intact (it was already canonical per the prompt); M4 and M5 had H3 groups newly imposed.
 
 ## [2026-05-02 05:45] guide | wrote vault orientation + study progression
 
@@ -668,21 +668,21 @@ This is the page the student should open first the morning of the exam.
 
 ## [2026-05-02 06:00] enrich | M1-M3 module pages — comprehensive sections added
 
-Added four new sections to each of `modules/01-about-ob.md`, `modules/02-empirical-approaches.md`, `modules/03-decision-making.md`: **Headline empirical points** (after "What this module is fundamentally about"), **Reading-specific testable points** (after "Assigned readings"), **High-yield MCQ traps** (after "Cross-cut connections"), **Likely exam patterns** (last section before any optional sections).
+Added four new sections to each of `modules/01-about-ob.md`, `modules/02-empirical-approaches.md`, `modules/03-decision-making.md`: **Headline empirical points** (after "What this module is fundamentally about"), **Reading-specific testable points** (after "Assigned readings"), **High-yield common confusions** (after "Cross-cut connections"), **Likely exam patterns** (last section before any optional sections).
 
 **Per-module item counts:**
 
-- **M1 (About OB)** — Headline empirical points: 10 bullets (~80% / $2-3B field stat; Cambridge 4.0 vs. 3.5; Economist N=1,656; top-school list; Theme 1 verbatim; insufficiently-modeled / not-random framing; OB definition; 3 goals; IV/DV preview). Reading-specific testable points: 3 bullets noting M1 has no readings + cross-reference to Fisher in M2. High-yield MCQ traps: 9 bullets (cloze stems, OB-vs-HR confusion, theme count, IV/DV mapping). Likely exam patterns: 5 bullets (cloze, definition-match, theme-recognition, "why is OB required," N-recall).
+- **M1 (About OB)** — Headline empirical points: 10 bullets (~80% / $2-3B field stat; Cambridge 4.0 vs. 3.5; Economist N=1,656; top-school list; Theme 1 verbatim; insufficiently-modeled / not-random framing; OB definition; 3 goals; IV/DV preview). Reading-specific testable points: 3 bullets noting M1 has no readings + cross-reference to Fisher in M2. High-yield common confusions: 9 bullets (cloze stems, OB-vs-HR confusion, theme count, IV/DV mapping). Likely exam patterns: 5 bullets (cloze, definition-match, theme-recognition, "why is OB required," N-recall).
 
-- **M2 (Empirical Approaches)** — Headline empirical points: 10 bullets (3 themes verbatim, 3 alternatives, 3 obstacles, pyramid order, 2 reasons, 2 RCT criteria, Harrah's $60/$125 RCT, N-of-1 examples, reading-to-kids confounds, slide 20). Reading-specific testable points: 10 bullets from Fisher (soft skills, Welch, GMAC, Booth, Wharton, Tuck, Yale, double bottom line, two customers, directional shift). High-yield MCQ traps: 10 bullets (assignment vs. sampling, RCT/quasi/correlational, three alternatives, three obstacles, N-of-1 vs. correlation, control variable vs. control group, control vs. random assignment, spurious vs. third variable, memorability, common sense). Likely exam patterns: 6 bullets (definition-match, exact-list recognition, assignment-vs-sampling, scenario classification, cloze, N-of-1 vignette).
+- **M2 (Empirical Approaches)** — Headline empirical points: 10 bullets (3 themes verbatim, 3 alternatives, 3 obstacles, pyramid order, 2 reasons, 2 RCT criteria, Harrah's $60/$125 RCT, N-of-1 examples, reading-to-kids confounds, slide 20). Reading-specific testable points: 10 bullets from Fisher (soft skills, Welch, GMAC, Booth, Wharton, Tuck, Yale, double bottom line, two customers, directional shift). High-yield common confusions: 10 bullets (assignment vs. sampling, RCT/quasi/correlational, three alternatives, three obstacles, N-of-1 vs. correlation, control variable vs. control group, control vs. random assignment, spurious vs. third variable, memorability, common sense). Likely exam patterns: 6 bullets (definition-match, exact-list recognition, assignment-vs-sampling, scenario classification, cloze, N-of-1 vignette).
 
-- **M3 (Decision Making)** — Headline empirical points: 13 bullets (9/11 2,170/2,606; Asian disease 81/76; gain/loss 79/81; Gandhi 114→79.4 vs. 35→70.7; iPad $499; Playboy 32→66; horse-or-seal 50→70; CEO trait flip; better-than-average N=63; Buehler 99%; UK DfT ~7%; Gilbert verbatim; slide framing). Reading-specific testable points: 19 bullets across 3 readings — Dobelli (5: Concorde effect, consistency, Paris diary, 2007 economists, awareness-fails); Freakonomics (9: reference-class forecasting, algorithm aversion, Buehler 99%, strategic misrepresentation, implementation intentions, inside/outside view, Second Avenue Subway, Christmas-shopping, optimism bias); Kahneman (5: illusion of validity, illusion of skill, substitution, algorithms beat intuition, Israeli Army leaderless task). High-yield MCQ traps: 13 bullets (10 sister-bias pairs + Dunning-Kruger direction + simultaneous-not-sequential + "be more aware" wrong-answer trap + correlation-leak trap). Likely exam patterns: 6 bullets (scenario application, comparison, numeric recall, debiasing-stems-where-awareness-is-wrong, cloze, reading-specific).
+- **M3 (Decision Making)** — Headline empirical points: 13 bullets (9/11 2,170/2,606; Asian disease 81/76; gain/loss 79/81; Gandhi 114→79.4 vs. 35→70.7; iPad $499; Playboy 32→66; horse-or-seal 50→70; CEO trait flip; better-than-average N=63; Buehler 99%; UK DfT ~7%; Gilbert verbatim; slide framing). Reading-specific testable points: 19 bullets across 3 readings — Dobelli (5: Concorde effect, consistency, Paris diary, 2007 economists, awareness-fails); Freakonomics (9: reference-class forecasting, algorithm aversion, Buehler 99%, strategic misrepresentation, implementation intentions, inside/outside view, Second Avenue Subway, Christmas-shopping, optimism bias); Kahneman (5: illusion of validity, illusion of skill, substitution, algorithms beat intuition, Israeli Army leaderless task). High-yield common confusions: 13 bullets (10 sister-bias pairs + Dunning-Kruger direction + simultaneous-not-sequential + "be more aware" wrong-answer trap + correlation-leak trap). Likely exam patterns: 6 bullets (scenario application, comparison, numeric recall, debiasing-stems-where-awareness-is-wrong, cloze, reading-specific).
 
 **Constraints honored:** preserved all existing sections verbatim (frontmatter, "What this module is fundamentally about" prose, Concepts with H3 sub-groups + em-dash glosses, Assigned readings, Cross-cut connections, M1's anchor-quotes section); section order matches the canonical insertion points; no fabrication — every numeric anchor and study name traces to a concept page or reading page already in the vault; em-dashes use Unicode ` — ` (space-em-space); all internal links use Obsidian wiki-link format. New section count: 4 × 3 = 12 sections added total.
 
 ## [2026-05-02 06:00] enrich | M4-M6 module pages — comprehensive sections added
 
-Added 4 canonical sections to each of the M4, M5, M6 module pages — `Headline empirical points`, `Reading-specific testable points`, `High-yield MCQ traps`, and `Likely exam patterns`. M5's existing `Headline empirical points` content was promoted from a sub-list under the intro into a full top-level section and expanded from 5 to 10 bullets; M5's existing `High-yield MCQ traps` section was enriched in place (5 → 11 bullets) rather than replaced. M4 and M6 had no prior `Headline empirical points` or `High-yield MCQ traps` sections, so all four were newly added.
+Added 4 canonical sections to each of the M4, M5, M6 module pages — `Headline empirical points`, `Reading-specific testable points`, `High-yield common confusions`, and `Likely exam patterns`. M5's existing `Headline empirical points` content was promoted from a sub-list under the intro into a full top-level section and expanded from 5 to 10 bullets; M5's existing `High-yield common confusions` section was enriched in place (5 → 11 bullets) rather than replaced. M4 and M6 had no prior `Headline empirical points` or `High-yield common confusions` sections, so all four were newly added.
 
 **Counts:** M4 added 9 headline + 6 reading + 8 trap + 5 exam-pattern items. M5 expanded headline 5→10 + added 9 reading + enriched traps 5→11 + added 6 exam-pattern items. M6 added 9 headline + 7 reading + 13 trap + 6 exam-pattern items.
 
@@ -697,8 +697,8 @@ Built `OAM-330-Complete-Course-Guide.html` (single-file, embedded CSS, no extern
 
 **Output:** 1.49 MB PDF, 64 pages (within 60-80 target). HTML source: 178 KB.
 
-**Structure:** cover · TOC · how-to-use · course-at-a-glance · 12 module sections (each starting on new page with module header, fundamentals prose, visual, headline empirical points, concepts table, readings, reading testable points, MCQ traps, exam patterns) · cross-cuts synthesis (4 syntheses) · master cram sheet appendix (per-module distractor tables, cross-module synthesis pairs, numeric anchors, exact-quote list).
+**Structure:** cover · TOC · how-to-use · course-at-a-glance · 12 module sections (each starting on new page with module header, fundamentals prose, visual, headline empirical points, concepts table, readings, reading testable points, common confusions, exam patterns) · cross-cuts synthesis (4 syntheses) · master synthesis sheet appendix (per-module distractor tables, cross-module synthesis pairs, numeric anchors, exact-quote list).
 
 **Per-module visuals rendered in pure CSS:** M1 framing root + anchor-quote box · M2 evidence pyramid (4 stacked divs at 22/42/62/82% width) + 3-alt + 3-obstacle callout boxes · M3 4-stage flowchart (stage-row pattern) + sister-bias confusion table · M4 Big 5 vs MBTI comparison table + OCEAN job-performance table · M5 3-pillar grid + distributive-vs-procedural callout · M6 central/peripheral 2-col + 6-Cialdini 2×3 grid · M7 power-paradox cycle (paradox-step + arrows) + KAL 801/Avianca callout-red box · M8 Thomas & Ely paradigm comparison table + threat/tax 2-col · M9 distributive-vs-integrative comparison table + BATNA/reservation 2-col · M10 cohesion×norms 2×2 (color-coded best/worst cells) + punctuated-equilibrium horizontal flowchart · M11 individual-arc 3-stage flowchart + 4-cell enabling mechanisms 2×2 + 5 moral foundations table · M12 50/40/10 stacked horizontal bar + 3 mega-takeaways callout-blue.
 
-**Constraints honored:** every numeric anchor, study name, and verbatim quote traces to a module page or wiki source — no fabrication. Slide quotes preserved verbatim (3 themes, OB definition, "humans aren't irrational, just insufficiently modeled," "common sense necessary but not sufficient," 3 mega-takeaways, Gilbert "brain cannot see itself fooling itself," Kahneman-Deaton "wealth is like health," 4 enabling mechanisms list, 5 moral foundations list, antidote 4 pillars). Wiki-link patterns rendered as monospace inline references (`<code>concepts/equity-theory</code>`) since the PDF is offline. No practice MCQ sets included (separate purpose).
+**Constraints honored:** every numeric anchor, study name, and verbatim quote traces to a module page or wiki source — no fabrication. Slide quotes preserved verbatim (3 themes, OB definition, "humans aren't irrational, just insufficiently modeled," "common sense necessary but not sufficient," 3 mega-takeaways, Gilbert "brain cannot see itself fooling itself," Kahneman-Deaton "wealth is like health," 4 enabling mechanisms list, 5 moral foundations list, antidote 4 pillars). Wiki-link patterns rendered as monospace inline references (`<code>concepts/equity-theory</code>`) since the PDF is offline. No practice questions sets included (separate purpose).

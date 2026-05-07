@@ -23,5 +23,5 @@ This is why the prediction → decision → recollection cycle *repeats*: becaus
 - 93% of teens self-rate as ethically satisfied while 2/3 cheated, 1/3 plagiarized, 1/3 stole — the gap is sustained by revisionist recollection.
 - Williams' three revisionism mechanisms (slide 13): (1) we don't recall the decision as ethics-relevant; (2) we still see ourselves as ethical; (3) we assume others would have behaved similarly, normalizing it.
 
-## Likely MCQ angles
+## Notes on application
 Match the *stage* (recollection / after the fact) to memory revisionism. Distractor: forecasting errors. Cue: anything about "looking back" or "still considers themselves ethical despite past misconduct" = memory revisionism.

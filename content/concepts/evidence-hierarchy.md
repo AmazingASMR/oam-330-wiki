@@ -29,7 +29,7 @@ Tells you how much weight to give a claim. A juicy CEO anecdote (Herb Kelleher d
 - One Yelp review (worse) → all Yelp reviews (better) → an RCT comparing two restaurant menus (best for causation).
 - Pfeffer & Sutton's mockery: "Southwest is the most successful airline ... Herb Kelleher drinks a lot of Wild Turkey bourbon." — N-of-1 benchmark fallacy.
 
-## Likely MCQ angles
+## Notes on application
 - Order the levels of the pyramid correctly.
 - Identify which level a given study sits at.
 - Trap: claiming that a strong correlational finding establishes causation — it does not.

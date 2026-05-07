@@ -23,7 +23,7 @@ BATNA sets the floor for any rational accept/reject decision. Malhotra's central
 - Ivy League U selling equipment: BATNA = secondhand store ($35K quote = reservation point).
 - Malhotra/Shapiro: litigation BATNA = (0.7 × $10M) + (0.3 × $3M) − $0.5M = **$7.4M**.
 
-## Likely MCQ angles
+## Notes on application
 - BATNA = outside option, not a target or fair number.
 - Always accept offers above BATNA — even if they "feel unfair."
 - Uncertain BATNAs need **expected-value** math, not best-case.

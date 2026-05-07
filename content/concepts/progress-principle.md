@@ -23,5 +23,5 @@ Reframes day-to-day management. Big rewards and grand vision matter less than th
 - Diary entries from professionals across industries: good days coincide with concrete forward movement on meaningful tasks; bad days coincide with setbacks, blocked progress, or unclear direction.
 - Manager behaviors that derail it: pulling resources, shifting goals mid-flight, ignoring contributions, public criticism — each erases yesterday's gain.
 
-## Likely MCQ angles
+## Notes on application
 Identify Amabile & Kramer as the source. Recognize "small daily wins on meaningful work" as the strongest single inner-work-life driver. Distinguish from flow (state) and from meaningful work (content). Spot catalysts/nourishers as the managerial toolkit.

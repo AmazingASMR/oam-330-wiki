@@ -11,7 +11,7 @@ confidence: high
 Tactics deployed *during* the negotiation. Slides split them sharply by mode: **distributive success** ≠ **integrative success**. Picking the wrong toolkit damages outcomes.
 
 ## Why it matters
-A common MCQ trap: applying distributive tactics (anchoring, hiding info, anger) in a setting that calls for integrative behavior, or vice versa. The two lists are nearly opposites.
+A common common confusion: applying distributive tactics (anchoring, hiding info, anger) in a setting that calls for integrative behavior, or vice versa. The two lists are nearly opposites.
 
 ## Key distinctions
 - **Distributive success (claim value):**
@@ -32,7 +32,7 @@ A common MCQ trap: applying distributive tactics (anchoring, hiding info, anger)
 - Texoil deal unlocked by integrative moves: post-trip job offer (good managers + sailors' need for income), fuel trade, health care, line of credit, ads on sailboat — multi-issue packaging.
 - Korkki: ask 10% above offer, propose "meet in the middle," seek bonus / signing bonus / vacation / equity if base is capped — these are integrative packaging moves applied to a salary context.
 
-## Likely MCQ angles
+## Notes on application
 - Match tactic to mode (anchoring → distributive; objective criteria → integrative).
 - "Soft on people, hard on problem" = integrative.
 - First offer / anchoring is a **distributive** strength.

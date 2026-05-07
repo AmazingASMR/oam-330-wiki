@@ -23,5 +23,5 @@ These behavioral shifts are largely automatic and at least partly neurological â
 - Stumpf at the Wells Fargo hearing â€” couldn't read the room.
 - Body remains calm hearing "my mom might die" under high-power priming; controls show distress.
 
-## Likely MCQ angles
+## Notes on application
 Name the three changes (action / reduced pressure of others / less perspective-taking). Identify BIS as the system that *decreases* in activity. Recognize Keltner / Obhi / "mirroring" / "empathy deficit" as keywords. Distinguish from the power paradox (loop, not effects).

@@ -24,5 +24,5 @@ The actionable lever. Set point and circumstances are largely fixed; behavior is
 - $20 prosocial-spending experiment.
 - Brooks (Atlantic): happy people socialize more — 11 more times/year with relatives, 7 more with neighbors, 5 more with friends; "cohesive" families (59%) vs. "enmeshed" (22%) and "disengaged" (19%).
 
-## Likely MCQ angles
+## Notes on application
 Experiential > material and why (3 reasons). Prosocial spending counter-intuitively beats self-spending. Weak ties also help.

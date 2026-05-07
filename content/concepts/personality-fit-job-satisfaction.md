@@ -22,5 +22,5 @@ Traits are mostly stable across the lifespan — you can't easily *become* more 
 - Williams's class exercise: pick a job for a partner using all five Big 5 traits.
 - Wolfram (2023): Extraversion correlates positively with sales/management roles, negatively with solitary technical roles; opposite pattern for Openness in research vs. routine work.
 
-## Likely MCQ angles
+## Notes on application
 "What is the best evidence for the value of personality–job fit?" → ~15% pay premium and higher satisfaction. Distractor: "fit determines performance more than ability" (false; GMA still dominates). Scenario: career advice to a high-N introvert — choose a low-stress, low-interpersonal-demand environment, not "work on your personality."

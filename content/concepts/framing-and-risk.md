@@ -34,5 +34,5 @@ Even when the **net change is identical.** Kahneman & Tversky's foundational fin
 
 **Other slide examples:** "90% employed" vs. "10% unemployed"; "95% fat-free" vs. "5% fat" — same fact, different feel.
 
-## Likely MCQ angles
+## Notes on application
 Asian disease problem is the classic — memorize the direction (gain → A/sure; loss → B/gamble). The 81%/76% percentages. The rule: **risk-averse for gains, risk-seeking for losses.**

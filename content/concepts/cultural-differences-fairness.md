@@ -25,5 +25,5 @@ Equity theory (Adams) was developed in individualist Western contexts and assume
 - Slide bonus dilemma: divide bonus between (a) average performer with poor finances + ill family vs. (b) excellent performer with stable life. Merit answer favors (b); need answer favors (a); equality answer splits evenly. Cultures differ in modal response.
 - Collectivist contexts: employees credited for mentoring/team-harmony work, not just task output.
 
-## Likely MCQ angles
+## Notes on application
 "In a collectivist culture, employees are more likely to view ___ as a legitimate input" → ingroup-solidarity efforts, not just individual task work. Distractor: claiming fairness norms are universal (the *desire* is; the *allocation principle* isn't). Memorize **merit / equality / need**.

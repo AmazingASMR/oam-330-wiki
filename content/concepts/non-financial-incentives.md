@@ -30,5 +30,5 @@ Slide 18 take-home: non-monetary incentives are **highly valued by employees and
 - Annual surprise bonus uncoupled from a metric.
 - Connecting an employee to the end user their work serves (loops back to [[concepts/meaningful-work]]).
 
-## Likely MCQ angles
+## Notes on application
 "Which incentive design is *least likely* to undermine intrinsic motivation?" → **unexpected/non-contingent** rewards, recognition, autonomy, meaningful work. Distractor: tightly-tied performance bonuses. Memorize "pay above market, good benefits, unexpected rewards, status/recognition/thanks."

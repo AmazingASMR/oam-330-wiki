@@ -20,6 +20,6 @@ Plane crashes are rarely caused by one big technical failure; they typically inv
 - **Mr. Kim / kwacang dinner exchange** — illustrates Korean indirect-offer linguistic norm (six levels of address).
 
 ## Connections to lecture concepts
-- [[concepts/power-distance]] — KAL is the canonical scenario illustration; expect MCQ scenarios that mirror "first officer hints at danger, captain misses it."
+- [[concepts/power-distance]] — KAL is the canonical scenario illustration; expect questions scenarios that mirror "first officer hints at danger, captain misses it."
 - [[concepts/cultural-power-leadership]] — receiver- vs. transmitter-oriented communication; Korean Air's English mandate as a PD-reduction intervention.
 - [[concepts/leader-emergence-helpful]] — large status differences (captain vs. FO) can be actively dangerous in time-pressured contexts.

@@ -29,5 +29,5 @@ Sets correct managerial expectations. Leaders who interpret the early conflict a
 ## Example(s)
 Five Tricks game: conflict and dissatisfaction during early rounds when winners moved tables; over time, players who had been through prior shocks adjusted faster, and the pooled experience produced better play.
 
-## Likely MCQ angles
+## Notes on application
 "What should an organization expect in the short term as it diversifies?" → conflict and dissatisfaction (NOT immediate productivity gains). "Long term?" → better ideas. Distractor that fails: "more harmony than a homogeneous team in the short term" — the slide says the opposite.

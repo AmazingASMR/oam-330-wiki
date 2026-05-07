@@ -25,5 +25,5 @@ Roles tell members what to do; norms regulate how they do it. Together they expl
 - Gusto's "no shoes" office norm.
 - Duhigg: at Google, group norms (turn-taking, social sensitivity) override individual proclivities.
 
-## Likely MCQ angles
+## Notes on application
 Definitional matching of role perception/expectation/conflict/interrole-conflict. Hawthorne and Asch are classic stem-fodder — know which study illustrates which concept (Asch = conformity pressure; Hawthorne = group-norm-controlled output).

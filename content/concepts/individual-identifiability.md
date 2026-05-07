@@ -21,5 +21,5 @@ Peripheral-route lever ([[concepts/central-vs-peripheral-route]]): a System 1 em
 ## Example(s)
 - **Save the Children**: donations more than doubled when the appeal switched from statistics about food shortages affecting millions in Malawi/Zambia/Angola/Ethiopia to a personal appeal for **Rokia**, a named 7-year-old girl from Mali.
 
-## Likely MCQ angles
+## Notes on application
 The Rokia/Save the Children example with the "more than doubled" lift is highly testable. Distractor: claiming aggregate statistics persuade better because they convey scope — they don't, they numb. Distractor: confusing this with social proof — identifiability is one named person, not a peer group.

@@ -1,16 +1,13 @@
 ---
-title: "Practice — Cumulative Mixed Set (Session 2)"
+title: "Cumulative Mixed Set — practice questions (Part 2)"
 type: cumulative-mixed
-session: 2
-date: 2026-05-02
 question_count: 18
 ---
 
 
-# Practice — Cumulative Mixed Set (Session 2)
-
+# Cumulative Mixed Set — practice questions (Part 2)
 ## Instructions
-Same protocol as Session 1: close the wiki for ~35 minutes; answer without reference. Score yourself, then re-read linked concept pages on misses. Session 2 deliberately under-weights M5 (one Q only) and over-weights M3, M4, M10, and M11 to balance Session 1's distribution; Cialdini items rotate to principles S1 didn't test, and the Ethics block hits the four enabling mechanisms S1 didn't isolate.
+Same protocol as Part 1: close the wiki for ~35 minutes; answer without reference. Score yourself, then re-read linked concept pages on misses. Part 2 deliberately under-weights M5 (one Q only) and over-weights M3, M4, M10, and M11 to balance Part 1's distribution; Cialdini items rotate to principles Part 1 didn't cover, and the Ethics block hits the four enabling mechanisms Part 1 didn't isolate.
 
 ## Questions
 
@@ -247,17 +244,17 @@ D. There is no cultural mismatch — fixed contracts mean the same thing everywh
 - M2 Empirical: 1 (Q1)
 - M3 Decision Making: 2 (Q2 framing, Q3 availability)
 - M4 Personality & Culture: 1 (Q4)
-- M5 Motivation: 1 (Q5 — cross-cultural fairness, S1 didn't hit)
-- Midterm 1 subtotal: 5 (target ~4; one extra in M3 to balance S1's M5-heavy distribution)
-- M6 Influence: 2 (Q6 commitment-consistency, Q7 social proof — both untested in S1)
-- M7 Power & Leadership: 1 (Q8 power paradox — S1 hit power distance, not the paradox)
-- M8 Social Identity: 2 (Q9 concealment cost, Q10 better-ideas paradigm — S1 hit access-and-legitimacy, not these)
-- M9 Negotiation: 1 (Q11 positions-vs-interests / used-car — S1 hit BATNA/fairness override, not this)
-- Midterm 2 subtotal: 6 (target 5; +1 in M6 to hit two Cialdini principles S1 missed)
-- M10 Groups & Teams: 2 (Q12 cohesion 2×2, Q13 psychological safety — S1 hit punctuated equilibrium and common-knowledge effect)
-- M11 Ethics: 2 (Q14 justification/anonymity, Q15 outcome focus + antidote — S1 hit moral foundations and ethical fading; this hits enabling mechanisms #1 and #3 plus the antidote)
-- M12 Happiness: 1 (Q16 — adaptation + social comparison + predicted/actual gap; S1 hit improvement levers)
-- Final-only subtotal: 5 (target 6 — one M10/11/12 slot moved to cross-cut Q17 which is heavily M11)
+- M5 Motivation: 1 (Q5 — cross-cultural fairness, Part 1 didn't hit)
+- Modules 2–5 subtotal: 5 (target ~4; one extra in M3 to balance Part 1's M5-heavy distribution)
+- M6 Influence: 2 (Q6 commitment-consistency, Q7 social proof — both untested in Part 1)
+- M7 Power & Leadership: 1 (Q8 power paradox — Part 1 hit power distance, not the paradox)
+- M8 Social Identity: 2 (Q9 concealment cost, Q10 better-ideas paradigm — Part 1 hit access-and-legitimacy, not these)
+- M9 Negotiation: 1 (Q11 positions-vs-interests / used-car — Part 1 hit BATNA/fairness override, not this)
+- Modules 6–9 subtotal: 6 (target 5; +1 in M6 to hit two Cialdini principles Part 1 missed)
+- M10 Groups & Teams: 2 (Q12 cohesion 2×2, Q13 psychological safety — Part 1 hit punctuated equilibrium and common-knowledge effect)
+- M11 Ethics: 2 (Q14 justification/anonymity, Q15 outcome focus + antidote — Part 1 hit moral foundations and ethical fading; this hits enabling mechanisms #1 and #3 plus the antidote)
+- M12 Happiness: 1 (Q16 — adaptation + social comparison + predicted/actual gap; Part 1 hit improvement levers)
+- Modules 10–12 subtotal: 5 (target 6 — one M10/11/12 slot moved to cross-cut Q17 which is heavily M11)
 - Cross-cut: 2 explicit (Q17, Q18); Q15 also functions as a 2-module synthesis (M11 mechanism + M11 antidote) but labeled M11
 
 Total: 5 + 6 + 5 + 2 = 18.

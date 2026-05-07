@@ -24,5 +24,5 @@ The mismatch is dangerous. KAL 801's Korean cockpit operated on receiver-orienta
 - **Mr. Kim / kwacang dinner exchange:** Korean indirect-offer norm uses six levels of address, illustrating how much meaning rides on the receiver in high-PD speech.
 - **Korean Air's fix:** mandating English shifted pilots toward a transmitter-oriented register.
 
-## Likely MCQ angles
+## Notes on application
 Identify which side bears responsibility for meaning. Pair with mitigated speech as the speaker-side counterpart. Recognize the cross-cultural ATC scenario (KAL 801) as the canonical mismatch.

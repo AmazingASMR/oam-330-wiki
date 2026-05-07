@@ -22,5 +22,5 @@ Despite ~80% organizational adoption, MBTI is a textbook case of "popular ≠ va
 - Bimodal claim is false — Big 5 distributions show most people near the mean, not at the extremes (Gosling fig. 2.3).
 - Grant: "If you want to know whether someone will stay calm under pressure, neuroticism predicts it; T/F doesn't."
 
-## Likely MCQ angles
+## Notes on application
 "Which is true of MBTI vs. Big 5?" — Big 5 is empirical/continuous/predictive; MBTI is popular/dichotomous/weak. Distractor: that MBTI's wide use proves validity. Distractor: that MBTI uses continuous scores (it forces a type).

@@ -23,7 +23,7 @@ The slide opener for ethics says: *"All of us have ethical principles – but no
 - **Moral Foundations**: YourMorals.org self-test (slide 16 reference). Violation prompts like "kick a dog in the head" (Care/Harm) or "use holy water to wash your clothes" (Purity).
 - **Professional**: medical/legal/accounting codes of conduct; the 7-item slide list above.
 
-## Likely MCQ angles
+## Notes on application
 "Which of the following is NOT a source of ethical frameworks discussed in class?" — the three to recognize are **Faith traditions, Moral Foundations, Professional guidelines**. Distractors likely include "personal taste," "the law," or "outcome focus" (outcome focus is actually one of the 4 *enabling mechanisms* of unethical behavior in deck 27 — see [[concepts/employee-misconduct-types]] — not a framework source). The 5 Moral Foundations categories are a separate, more frequently tested item.
 
 ## Per Bazerman & Tenbrunsel

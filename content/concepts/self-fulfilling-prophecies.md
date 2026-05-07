@@ -22,5 +22,5 @@ The interpersonal version of perception bias. Manager expectations of an employe
 - **Slides — "HOT! NOT." voice study:** Always the same woman speaking on the phone. Listeners told she was attractive judged her differently than listeners told she was unattractive — and her actual conversational behavior shifted in response to how listeners treated her. *Same woman; expectation changed her behavior.*
 - Pygmalion-in-the-classroom-style framing implied by slides (teacher expectations → student outcomes).
 
-## Likely MCQ angles
+## Notes on application
 Identify the *interpersonal* loop (expectation → treatment → behavior → confirmation). Distractor: framing it as a purely internal perception bias (it's not — actual behavior changes). Distractor: confusing it with [[concepts/hindsight-bias]] ("knew it all along") — different mechanism.

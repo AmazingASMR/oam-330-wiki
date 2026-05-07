@@ -28,5 +28,5 @@ Maps to pillar 2 of motivating environments (fair outcomes). Explains why **abso
 - WSJ: Gap, Walmart, Mud Bay employees demanded raises for veterans after entry pay rose.
 - Capuchin monkeys reject cucumber when peers get grapes (equity sensitivity in non-humans).
 
-## Likely MCQ angles
+## Notes on application
 "Equity theory says employees compare ___" → input/output ratios to referents. Distractor: claiming equity is about absolute pay levels. Distractor: confusing with expectancy. Know the WSJ "wage compression" example.

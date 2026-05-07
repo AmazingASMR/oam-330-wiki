@@ -7,7 +7,7 @@ study_guide: [M1, M2, Final]
 # Cross-cut — Decision-making biases
 
 ## Why this matters
-The bias catalog is a Module 3 centerpiece, but it doesn't stay there. Module 6 (Influence) is essentially a list of peripheral-route levers that *exploit* these same biases, and Module 11 (Ethics) recasts the prediction → decision → recollection arc as biases applied to moral choices. MCQ stems lean heavily on scenario recognition — knowing the bias by its mechanism (not just its name) is the question.
+The bias catalog is a Module 3 centerpiece, but it doesn't stay there. Module 6 (Influence) is essentially a list of peripheral-route levers that *exploit* these same biases, and Module 11 (Ethics) recasts the prediction → decision → recollection arc as biases applied to moral choices. scenario stems lean heavily on scenario recognition — knowing the bias by its mechanism (not just its name) is the question.
 
 ## Bias catalog (with sister biases)
 
@@ -47,7 +47,7 @@ Forecasting/decision/recollection errors are biases applied to ethical decisions
 ## Debiasing
 [[concepts/reducing-decision-biases]] — five slide-listed fixes: (1) be aware (necessary but insufficient), (2) allow time (engage System 2), (3) broaden samples, (4) present info multiple ways (defeats framing), (5) minimize ego stakes (defuses overconfidence/hindsight/sunk cost). **Gilbert quote:** *"Because the brain cannot see itself fooling itself, the only reliable method for avoiding bias is to avoid the situations that produce it."* Awareness alone fails — restructure the situation.
 
-## High-yield MCQ traps
+## Common points of confusion
 - Scenario stems test mechanism, not vocabulary — read for what's actually happening (passive recall? active search? past spend? future prediction?).
 - **Sister-bias swaps** are the most common distractor: availability ↔ confirmation, anchoring ↔ framing, overconfidence ↔ hindsight, halo ↔ SFP, motivated perception ↔ confirmation, ethical fading ↔ visceral.
 - "Be more aware" answers to debiasing stems are usually **wrong** — Gilbert says awareness alone is insufficient; the right answer is structural ("avoid the situation," broaden samples, multiple framings).

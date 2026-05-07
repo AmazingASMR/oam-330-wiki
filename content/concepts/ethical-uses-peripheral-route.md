@@ -23,5 +23,5 @@ The slide gives one operational test: **"Would your audience be upset if they kn
 - **Dubious**: inventing fake deadlines (manufactured scarcity), planting false testimonials, or fabricating common ground.
 - Cialdini: principles are "amplifiers of legitimate cases, not substitutes for them."
 
-## Likely MCQ angles
+## Notes on application
 The transparency test ("would the audience be upset if they knew?") is highly testable. Distractor: claiming peripheral tactics are inherently unethical — they're not. Distractor: claiming manipulation is effective long-run — it isn't, because reputational cost destroys future persuasion.

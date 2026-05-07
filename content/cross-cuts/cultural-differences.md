@@ -7,7 +7,7 @@ study_guide: [M1, M2, Final]
 # Cross-cut — Cultural differences
 
 ## Why this matters
-Cultural differences are Williams's recurring through-line: practices that work in NYC backfire in Beijing. The theme appears in 5+ modules (M4, M5, M6, M7, M8, M9), so MCQ synthesis stems can pull a scenario from one module and demand a cultural-dimension answer from another. The exam will reward students who can name *which* dimension is at play, not just "culture matters."
+Cultural differences are Williams's recurring through-line: practices that work in NYC backfire in Beijing. The theme appears in 5+ modules (M4, M5, M6, M7, M8, M9), so questions synthesis stems can pull a scenario from one module and demand a cultural-dimension answer from another. The exam will reward students who can name *which* dimension is at play, not just "culture matters."
 
 ## Master dimensions
 **Hofstede's 5 dimensions** (slide-listed in M4): uncertainty avoidance · long- vs. short-term orientation · masculinity vs. femininity · **power distance** · **individualism–collectivism**.
@@ -52,7 +52,7 @@ Cultural differences are Williams's recurring through-line: practices that work 
 - Slide bottom line: **integrative > distributive globally** — travels better, preserves relationships, accommodates indirectness.
 - Links: [[concepts/cultural-differences-negotiation]]
 
-## High-yield MCQ traps
+## Common points of confusion
 - Distractors swap **individualism** with **low power distance** — they correlate but are *separate* Hofstede dimensions. PD is about hierarchy; I-C is about group orientation.
 - "Cultural differences" answers usually require naming *which* dimension (PD vs. I-C vs. universalism/particularism).
 - **Rice-wheat is China-specific** — don't generalize; northern (wheat) China looks more like the West than southern (rice) China does. Defeats "Asia = collectivist."

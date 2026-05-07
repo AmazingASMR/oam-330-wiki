@@ -1,15 +1,12 @@
 ---
-title: "Practice — Module 6 Influence & Persuasion (Session 2)"
+title: "Module 6 Influence & Persuasion — practice questions (Part 2)"
 type: module
 module: Influence & Persuasion
-session: 2
-date: 2026-05-02
 question_count: 10
 ---
 
 
-# Practice — Module 6 Influence & Persuasion (Session 2)
-
+# Module 6 Influence & Persuasion — practice questions (Part 2)
 ## Instructions
 Try to answer all 10 without referencing the concept pages. Session 2 deliberately re-drills the high-leverage levers Session 1 underweighted: argument dilution, advocacy effect, push vs. pull, primacy vs. recency, individual identifiability, and the ethical-uses transparency test. Cialdini scenarios are FRESH — none of Session 1's DAV / appointment-card / Tupperware stems repeat. Sibling-distractor traps are the dominant error mode; read for the *mechanism*, not the surface tactic.
 

@@ -23,7 +23,7 @@ Negotiation is one of the most ubiquitous workplace activities — salary, vendo
 - Buying a service station (Texoil exercise).
 - Paper Clip exercise — trading up from a paper clip through a chain of integrative trades.
 
-## Likely MCQ angles
+## Notes on application
 - Define negotiation as exchange-rate agreement, not just "winning."
 - Recognize the three contexts (price, resource division, conflict).
 - Distinguish negotiation from raw persuasion or conflict.

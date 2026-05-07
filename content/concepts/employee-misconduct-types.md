@@ -35,7 +35,7 @@ Misconduct isn't rare or extreme — most cases are mundane and committed by ord
 - **Ford Pinto** (late 1960s) — CEO mandated <$2k small car by 1970; rushed to production with fuel-tank-behind-rear-axle flaw; even after discovery, decided lawsuits would be cheaper than the fix; 27 people died; criminal homicide charges. Cutting safety corners + outcome focus.
 - **Enron** — TX traders manipulated CA power prices causing blackouts (anonymity of victim — moral justification facilitator).
 
-## Likely MCQ angles
+## Notes on application
 - "Annual cost of employee misconduct to U.S. companies?" → **$50 billion**.
 - "Which of the following is NOT a type of misconduct discussed?" — distractors are likely items from the *enabling mechanisms* list (e.g., "moral justification") or non-listed items like "stock price volatility."
 - "How many witnesses fail to report ethical violations?" → **~2/3** (slide 18).

@@ -23,5 +23,5 @@ A peripheral-route lever ([[concepts/central-vs-peripheral-route]]). Especially 
 - Disabled American Veterans mailing: letter alone got 18% response; letter + small personalized address-label gift nearly doubled it to **35%**.
 - In a tense situation, "give a little at the outset."
 
-## Likely MCQ angles
+## Notes on application
 The DAV 18% → 35% jump is a likely numeric anchor. Backfire conditions are testable: in collectivistic cultures or when the gift looks instrumental, reciprocity reads as **brown-nosing or bribery**, not sincerity. Distractor: claiming reciprocity is central-route.

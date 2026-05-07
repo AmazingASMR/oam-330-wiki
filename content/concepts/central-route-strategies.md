@@ -22,5 +22,5 @@ Central-route persuasion is the *only* route that produces long-lasting attitude
 - Two-sided framing: present both sides, then argue against the side you disagree with — more persuasive than one-sided.
 - Don't pad a strong recommendation with a weak ancillary reason; the weak reason dilutes the strong one.
 
-## Likely MCQ angles
-Argument dilution and inoculation are MCQ gold. Expect a question on "why might more arguments be less persuasive?" (dilution) or "why disclose intent late?" (inoculation). Distractor: claiming central route is faster than peripheral — it's slower but more durable.
+## Notes on application
+Argument dilution and inoculation are high-yield. Expect a question on "why might more arguments be less persuasive?" (dilution) or "why disclose intent late?" (inoculation). Distractor: claiming central route is faster than peripheral — it's slower but more durable.

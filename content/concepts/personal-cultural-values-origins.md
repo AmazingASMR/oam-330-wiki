@@ -35,5 +35,5 @@ Values explain systematic cross-cultural differences in workplace motivation, et
 - MBA student values: "selfless service" (Irick), "relationships and connectedness" (Jain), "integrity, empathy, family, my Jewish identity" (Salvadori).
 - Population density contrast: 874/mi² vs. 87/mi² shaping interdependence norms.
 
-## Likely MCQ angles
+## Notes on application
 "What shapes cultural values?" → geography, economics, disease, climate, religion, crop type — NOT just "history." Distractor: treating values as identical to personality traits.

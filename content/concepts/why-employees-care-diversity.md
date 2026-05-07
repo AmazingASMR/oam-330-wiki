@@ -26,5 +26,5 @@ Job satisfaction and turnover hinge on this dual standard. An environment that p
 - Hiding your sexual orientation at work (taxing — performance suffers).
 - Being the only Asian-American on a team and getting only the "Asian" questions (conspicuous — tokenizing).
 
-## Likely MCQ angles
+## Notes on application
 "Why do employees care about diversity?" → authentic but not conspicuous. Distractor: "to comply with anti-discrimination law" (that's the *organization's* reason, paradigm 1). Distractor: "to gain access to minority customer markets" (paradigm 2, also organizational).

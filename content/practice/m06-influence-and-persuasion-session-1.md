@@ -1,15 +1,12 @@
 ---
-title: "Practice — Module 6 Influence & Persuasion (Session 1)"
+title: "Module 6 Influence & Persuasion — practice questions"
 type: module
 module: Influence & Persuasion
-session: 1
-date: 2026-05-02
 question_count: 12
 ---
 
 
-# Practice — Module 6 Influence & Persuasion (Session 1)
-
+# Module 6 Influence & Persuasion — practice questions
 ## Instructions
 Try to answer all 12 without referencing the concept pages. This module is dense (15 concepts), so expect sibling-distractor swaps among Cialdini's six. Score yourself and use the per-distractor rationales to surface fuzzy thinking — Cialdini scenario IDs are the highest-leverage drill.
 

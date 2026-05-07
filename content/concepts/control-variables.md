@@ -33,7 +33,7 @@ In a true [[concepts/rcts-experiments|RCT]], [[concepts/random-assignment]] does
 
 After controlling: "Kids whose parents read to them spend more time reading on their own, and this is **NOT because of** the # of books in the home."
 
-## Likely MCQ angles
+## Notes on application
 - Definition: a measured variable used to **rule out** alternative explanations.
 - Tool: **multiple regression**.
 - Add to model → remove influence.

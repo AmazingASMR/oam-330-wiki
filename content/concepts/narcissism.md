@@ -26,5 +26,5 @@ Biological (NPD risk), being younger, wealth, coming of age in a good economy, b
 - Armand Hammer (Occidental Petroleum): "The brilliance of my mind can only be described as dazzling. Even I am impressed by it."
 - Frequent in business "visionary" archetypes.
 
-## Likely MCQ angles
+## Notes on application
 "What predicts narcissism?" → individualistic culture, wealth, only-child, urban. Distractor: confusing it with confident leadership in general. Scenario: charismatic interviewee with strong vision but dismissive of feedback — narcissism risk, not just high E.

@@ -21,5 +21,5 @@ Explains why circumstance changes (raises, marriage, lottery wins, even tragedie
 ## Example(s)
 Lottery, marriage, limb loss, Olympic medalists, Vladimir's Choice ("take out one of my eyes").
 
-## Likely MCQ angles
+## Notes on application
 Identify which driver fits a scenario. Distractor: confusing adaptation (absolute level resets) with social comparison (relative standing matters). Twin study attribution.

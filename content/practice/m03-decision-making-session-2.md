@@ -1,15 +1,12 @@
 ---
-title: "Practice — Module 3 Decision Making (Session 2)"
+title: "Module 3 Decision Making — practice questions (Part 2)"
 type: module
 module: Decision Making
-session: 2
-date: 2026-05-02
 question_count: 10
 ---
 
 
-# Practice — Module 3 Decision Making (Session 2)
-
+# Module 3 Decision Making — practice questions (Part 2)
 ## Instructions
 Session 2 deliberately targets material Session 1 underweighted: Bruner & Goodman horse-or-seal motivated perception, the HOT/NOT voice study self-fulfilling prophecy, the perception-vs-reality umbrella, and Dunning-Kruger directionality. High-yield distractor pairs (availability vs. confirmation, halo vs. SFP, sunk cost vs. overconfidence, hindsight vs. overconfidence) are re-tested with NEW scenarios. Answer all 10 cold; use the per-distractor "why wrong" notes to surface fuzzy thinking.
 

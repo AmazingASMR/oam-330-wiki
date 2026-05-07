@@ -27,5 +27,5 @@ Operationalizes the long-term arm of the J-curve. The mechanism (per slide): the
 ## Example(s)
 Murder-mystery "which facts are irrelevant" exercise; living-abroad → creativity research.
 
-## Likely MCQ angles
+## Notes on application
 "Diverse teams produce better ideas because…" → multiple perspectives, not just compliance. "Trade-off?" → more conflict / more time in the short term, better ideas in the long term.

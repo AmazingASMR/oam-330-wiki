@@ -12,12 +12,12 @@ The OAM 330 vault is the reference implementation — open any of its files (mod
 
 ## What you're building
 
-A short-horizon, MCQ-focused exam-prep wiki adapted from Karpathy's LLM-wiki pattern. The student curates source material (study guides, slide decks, readings, syllabus); the agent (you) writes everything in the wiki — concept pages, module overviews, reading summaries, cross-cut synthesis pages, MCQ practice sets, and a final consolidated cram sheet.
+A short-horizon, questions-focused exam-prep wiki adapted from Karpathy's LLM-wiki pattern. The student curates source material (study guides, slide decks, readings, syllabus); the agent (you) writes everything in the wiki — concept pages, module overviews, reading summaries, cross-cut synthesis pages, questions practice sets, and a final consolidated synthesis sheet.
 
 Final deliverables (exam-ready):
 - ~150-200 markdown files: 1 per concept, 1 per reading, 1 per module, 4-5 cross-cuts, 15-25 practice sets
 - A `coverage.md` checklist tracking every testable bullet
-- A `cross-cuts/distractor-pairs.md` cram sheet (single highest-leverage page on exam morning)
+- A `cross-cuts/distractor-pairs.md` synthesis sheet (single highest-leverage page on exam morning)
 - A 60-80 page comprehensive course-guide PDF rendered via Chrome headless
 
 ---
@@ -43,7 +43,7 @@ Final deliverables (exam-ready):
   /concepts/             one page per testable term, lowercase-hyphenated slug
   /readings/             one page per assigned reading, author-title-keyword slug
   /cross-cuts/           4-5 synthesis pages spanning multiple modules
-  /practice/             MCQ drill sets with answer keys
+  /practice/             questions drill sets with answer keys
 ```
 
 **Page schemas** — these are non-negotiable. All pages of the same type follow the same structure. Run a normalization pass after the initial build to enforce uniformity (the "modules vary on section names" problem will happen).
@@ -72,12 +72,12 @@ Body, in this order, capped at ~250 words:
 ## Key distinctions
 - **<closest concept #1>** — <how this differs>
 - **<closest concept #2>** — <how this differs>
-(2-3 distinctions; this is the MCQ distractor zone — never skip)
+(2-3 distinctions; this is the question distractor zone — never skip)
 
 ## Example(s)
 <concrete examples from slides or readings>
 
-## Likely MCQ angles
+## Notes on application
 <1-2 sentences on how this is most likely tested>
 ```
 
@@ -92,7 +92,7 @@ scope: [tags]
 
 # Module <N> — <Module Name>
 
-[optional callout: "**New on the Final**" or similar]
+[optional callout: "**New across the course**" or similar]
 
 ## What this module is fundamentally about
 <3-5 sentences explaining the module's spine>
@@ -113,16 +113,16 @@ scope: [tags]
 - [[readings/foo]] — <publication + key thesis or named example>
 
 ## Reading-specific testable points
-<reading-only items not enshrined as concept pages but MCQ-eligible>
+<reading-only items not enshrined as concept pages but questions-eligible>
 
 ## Cross-cut connections
 - [[cross-cuts/distractor-pairs]] — <module-specific cram pairs>
 - [[cross-cuts/foo]] — <how this cross-cut applies HERE>
 
-## High-yield MCQ traps
+## Common points of confusion
 <bullet list of distractor pairs unique to this module>
 
-## Likely exam patterns
+## Notes on application
 <3-5 bullets on question types the prof will ask for this module>
 ```
 
@@ -160,11 +160,11 @@ study_guide: [tags]
 
 ## Why this matters
 ## [Synthesis content sections — module-by-module breakdown]
-## High-yield MCQ traps
+## Common points of confusion
 ## Synthesis question patterns (optional)
 ```
 
-The `distractor-pairs.md` cram sheet is exempt from the synthesis template — it's a table-heavy reference page (per-module distractor pairs + cross-module synthesis pairs + numeric-anchors table + exact-quote list).
+The `distractor-pairs.md` synthesis sheet is exempt from the synthesis template — it's a table-heavy reference page (per-module distractor pairs + cross-module synthesis pairs + numeric-anchors table + exact-quote list).
 
 ### Practice page (`wiki/practice/{slug}.md`):
 
@@ -225,10 +225,10 @@ Dispatch 4 parallel agents, one per cross-cut theme. Themes typically include th
 Single agent reads everything, produces a prioritized study list (Tier 1 / Tier 2 / Tier 3) appended to `log.md`. Identifies coverage gaps, low-confidence pages, missing distinctions, reading-only points the slides don't cover, slide/reading contradictions, orphan concepts, cross-cut candidates. Output as a prioritized study list, not a generic report.
 
 ### Phase E — Practice loop (iterative, 60-120 min per session)
-For each priority module, generate 8-12 MCQs (mix of definition-match, scenario-application, comparison). Student answers cold, scores. Agent updates concept pages on misses, lowers confidence on missed concepts, queues for re-drill.
+For each priority module, generate 8-12 questions (mix of definition-match, scenario-application, comparison). Student answers cold, scores. Agent updates concept pages on misses, lowers confidence on missed concepts, queues for re-drill.
 
 ### Augmentations beyond the original schema (do these last)
-1. **`distractor-pairs.md` cram sheet** — single page consolidating all sister-concept distractor pairs from every concept page's Key distinctions section, plus a numeric-anchors table and an exact-quotes list. This becomes the morning-of-exam cram page.
+1. **`distractor-pairs.md` synthesis sheet** — single page consolidating all sister-concept distractor pairs from every concept page's Key distinctions section, plus a numeric-anchors table and an exact-quotes list. This becomes the morning-of-exam synthesis page.
 2. **`GUIDE.md`** — top-level orientation page explaining the vault and the study progression. Link from `index.md` as "Start here."
 3. **Comprehensive course-guide PDF** — single 60-80 page document with embedded CSS visuals (pyramid, flowchart, 2x2 grids, side-by-side comparisons, etc.). Render via Chrome headless.
 
@@ -341,7 +341,7 @@ For a 3-credit semester course with 3 study guides, ~25 slide decks, ~25 reading
 - Phase C: 45 min
 - Phase D: 15 min
 - Phase E: 60-120 min per drill session
-- Augmentations (cram sheet + GUIDE + PDF + normalization + audit): 90 min
+- Augmentations (synthesis sheet + GUIDE + PDF + normalization + audit): 90 min
 
 Total ~7-9 hours of agent dispatch + the student's drilling time. Tight overnight if needed.
 
@@ -353,7 +353,7 @@ By exam day:
 - `coverage.md` all green at confidence ≥ medium
 - Every cross-cut page exists
 - Practice folder shows 1+ drill set per module + 1 cross-cut + 2 cumulative
-- `distractor-pairs.md` cram sheet exists
+- `distractor-pairs.md` synthesis sheet exists
 - `GUIDE.md` exists
 - Comprehensive course-guide PDF exists
 - `log.md` shows clean arc from `scaffold → ingest → synthesize → lint → drill → normalize → export`

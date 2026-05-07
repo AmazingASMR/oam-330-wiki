@@ -26,5 +26,5 @@ Calibration failure across nearly every domain. Couples with [[concepts/hindsigh
 - Raiffa & Alpert / Dobelli: 98%-confidence ranges are right far less than 98% of the time.
 - Buehler's planning fallacy studies: even at 99% confidence, fewer than half of student projects finished on time.
 
-## Likely MCQ angles
+## Notes on application
 Dunning-Kruger direction (less skill → MORE overconfidence — students often invert this). Best-case-scenario framing of planning fallacy. Above-average self-ratings demo.

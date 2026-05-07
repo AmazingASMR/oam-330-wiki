@@ -23,5 +23,5 @@ Peripheral-route lever ([[concepts/central-vs-peripheral-route]]). Two-way stree
 - Cioffi & Garner (1996): students who actively signed a written volunteer commitment showed up at far higher rates than those who failed to opt out of a default.
 - *12 Angry Men*: **ask for a private vote when in the minority** (to encourage dissent); **public vote when in the majority** (to discourage backsliding) — leverages public-commitment stickiness.
 
-## Likely MCQ angles
+## Notes on application
 The private-vs-public-vote rule is highly testable. Distractor: claiming coerced commitments produce stronger compliance — they backfire. Memorize the active/public/voluntary ladder.

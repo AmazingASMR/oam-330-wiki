@@ -23,5 +23,5 @@ Leaderless groups can stall on coordination; but groups that develop a steep sta
 - Slide 7: emergent leaders speak and act more, have more influence over the group's final decisions, and are more resistant to group norms — useful in moderation, costly when extreme.
 - A self-managed team with no status differentiation may dither on simple decisions; one with an autocratic dominant emerger may suppress dissent and creativity.
 
-## Likely MCQ angles
+## Notes on application
 "Is it helpful that a leader emerges?" — correct answer is *it depends on the size of the status gap*. Distractor: claiming flat groups always outperform, or that steeper hierarchy always boosts efficiency. Remember: efficiency benefit comes from *moderate* differentiation, not maximum.

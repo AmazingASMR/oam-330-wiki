@@ -11,7 +11,7 @@ scope: [M2, Final]
 
 Persuasion runs through **two simultaneous channels**: the **central route** (System 2 — argument quality, durable attitude change) and the **peripheral route** (System 1 — cues like authority, liking, scarcity that shift attitudes faster but more fragilely). Cialdini's six principles are the canonical peripheral-route toolkit; central-route strategy adds two-sided framing, beware-of-dilution, and inoculation effects. The module then applies the framework to **minority-position influence** (Asch conformity, *12 Angry Men*, push vs. pull) and to **special peripheral effects** from the Kidney Case (negative advertising, order/recency effects, individual identifiability, advocacy effect). The ethical spine throughout: peripheral cues are defensible when they amplify a true case System 2 would also accept — manipulative when they distract from a weak one.
 
-Cialdini's six principles are MCQ gold — each requires the definition, trigger, concrete example, and at least one sibling-distinction (e.g., scarcity vs. social proof both spike urgency but for opposite reasons: rarity vs. consensus). Central vs. peripheral is the meta-frame: distractors will swap System 1/System 2 mappings or claim peripheral produces longer-lasting change.
+Cialdini's six principles are high-yield — each requires the definition, trigger, concrete example, and at least one sibling-distinction (e.g., scarcity vs. social proof both spike urgency but for opposite reasons: rarity vs. consensus). Central vs. peripheral is the meta-frame: distractors will swap System 1/System 2 mappings or claim peripheral produces longer-lasting change.
 
 ## Headline empirical points
 
@@ -56,7 +56,7 @@ Cialdini's six principles are MCQ gold — each requires the definition, trigger
 
 ## Reading-specific testable points
 
-- **The six principles compound when stacked** (Cialdini HBR 2001) — using two or more in concert (e.g., authority + reciprocity, or liking + social proof) produces multiplicatively larger compliance than any single principle alone. The MCQ-ready phrase is "the principles **compound**."
+- **The six principles compound when stacked** (Cialdini HBR 2001) — using two or more in concert (e.g., authority + reciprocity, or liking + social proof) produces multiplicatively larger compliance than any single principle alone. The canonical phrase is "the principles **compound**."
 - **Manipulation is self-defeating ethically AND strategically** (Cialdini) — fabricated cues (manufactured scarcity, fake credentials, manufactured liking) destroy trust and end *future* persuasion. The argument is not just moral; it's instrumentally worse for the persuader's long-term influence.
 - **The 4-phenomena framework** — slide deck groups the six principles into two clusters: (1) **Authority / Reciprocity / Liking** (cues about *the source*) and (2) **Scarcity / Social proof / Consistency** (cues about *the situation or the self*). Some stems test recognition of these clusters rather than individual principles.
 - **Transparency as ethical test** — Cialdini's litmus question: "Would your audience be upset if they knew you were using these techniques?" If yes, you're manipulating; if no, you're amplifying a true case System 2 would also accept. This is the slide-anchored ethical test.
@@ -66,12 +66,12 @@ Cialdini's six principles are MCQ gold — each requires the definition, trigger
 
 ## Cross-cut connections
 
-- [[cross-cuts/distractor-pairs]] — the six Cialdini principles plus central/peripheral are exam-cram pairs (scarcity vs. social proof = rarity vs. consensus; authority vs. social proof = vertical vs. horizontal; reciprocity vs. consistency = repay another's gift vs. honor your own commitment).
+- [[cross-cuts/distractor-pairs]] — the six Cialdini principles plus central/peripheral are close-pair distinctions worth memorizing (scarcity vs. social proof = rarity vs. consensus; authority vs. social proof = vertical vs. horizontal; reciprocity vs. consistency = repay another's gift vs. honor your own commitment).
 - [[cross-cuts/cultural-differences]] — Cialdini's principles vary in salience across cultures; reciprocity especially can read as bribery rather than sincerity in collectivist contexts (slide-flagged).
 - [[cross-cuts/system-1-system-2]] — central route = System 2 (argument quality, durable); peripheral route = System 1 (cues, fragile); all six Cialdini principles are System 1 levers.
 - [[cross-cuts/decision-making-biases]] — peripheral-route levers exploit the M3 bias catalog (scarcity rides loss aversion, social proof rides availability/consensus, authority rides halo, consistency rides sunk-cost-style commitment).
 
-## High-yield MCQ traps
+## Common points of confusion
 
 | Pair | Distinguishing feature |
 |---|---|
@@ -89,8 +89,7 @@ Cialdini's six principles are MCQ gold — each requires the definition, trigger
 | Negative advertising vs. advocacy effect | Negative ad = makes audience *more negative about the other side*; advocacy effect = makes the *speaker* more positive about their own position. Different targets of attitude shift. |
 | [[concepts/individual-identifiability]] vs. statistical framing | One named "Rokia" beats aggregate suffering; donations *more than doubled*. Distractor: "scale of need increases donations" — opposite of the finding. |
 
-## Likely exam patterns
-
+## Notes on application
 - **Scenario stems where you identify which Cialdini principle is at work** — vignette describes a tactic (free sample, neighbor-donor list, expert credential, exclusive deadline, similarity rapport, written commitment); pick the principle. The sister-confusion traps (scarcity vs. social proof, authority vs. social proof, reciprocity vs. consistency) are the discriminators.
 - **Central/peripheral System-1/System-2 swap** — stem maps central to System 1 or claims peripheral produces durable change. Both wrong; central = System 2 = durable, peripheral = System 1 = fragile.
 - **Ethical-test stems** — given a persuasion technique, apply Cialdini's transparency test: would the audience object if they knew? If yes, manipulation; if no, ethical amplification of a true case.

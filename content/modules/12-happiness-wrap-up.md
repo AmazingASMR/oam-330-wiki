@@ -26,7 +26,7 @@ The numbers, named studies, and exact slide phrasings most likely to anchor a st
   1. **Human behavior is predictable** — "humans aren't irrational, just insufficiently modeled."
   2. **What we think is not always reality** — "common sense is necessary, but not sufficient — ground your decisions in solid evidence."
   3. **Other people matter** — social context, relationships, and influence shape outcomes.
-- **Kahneman-Deaton — money/happiness decoupling at the top** — slide-explicit quote: "wealth is like health — its utter absence breeds misery, yet having it is no guarantee of happiness." Money matters *at the bottom* (out of poverty) and *decouples at the top* (diminishing returns). Note: the slides do *not* name the popular $75K threshold figure, so do not expect that specific number on the exam — answer with "diminishing returns / decoupling above basic needs," not "$75K." See [[concepts/happiness-vs-objective-quality]] and [[concepts/money-happiness-relationship]].
+- **Kahneman-Deaton — money/happiness decoupling at the top** — slide-explicit quote: "wealth is like health — its utter absence breeds misery, yet having it is no guarantee of happiness." Money matters *at the bottom* (out of poverty) and *decouples at the top* (diminishing returns). Note: the slides do *not* name the popular $75K threshold figure, so do not expect that specific number in the material — answer with "diminishing returns / decoupling above basic needs," not "$75K." See [[concepts/happiness-vs-objective-quality]] and [[concepts/money-happiness-relationship]].
 
 ## Concepts
 
@@ -68,9 +68,9 @@ The numbers, named studies, and exact slide phrasings most likely to anchor a st
 
 ## Cross-cut connections
 
-- [[cross-cuts/distractor-pairs]] — happiness-vs-objective-quality and Easterlin paradox vs. Kahneman–Deaton are exam-cram pairs.
+- [[cross-cuts/distractor-pairs]] — happiness-vs-objective-quality and Easterlin paradox vs. Kahneman–Deaton are close-pair distinctions worth memorizing.
 
-## High-yield MCQ traps
+## Common points of confusion
 
 - **Subjective happiness vs. objective quality of life (Easterlin)** — objective indicators (GDP, plumbing, life expectancy, education) have soared 1940 → today; subjective happiness is essentially flat. Macro-level Easterlin paradox: GDP up, happiness flat. Trap distractors: "money never matters" (false — utter absence breeds misery) or "GDP linearly predicts happiness" (false). Anchor quote: Kahneman-Deaton "wealth is like health…"
 - **Genetics vs. adaptation vs. social comparison — three set-point drivers** — given a vignette, identify which mechanism it illustrates:
@@ -89,8 +89,7 @@ The numbers, named studies, and exact slide phrasings most likely to anchor a st
   - "Other people matter" — correct as stated; sometimes presented as "social context shapes outcomes."
 - **Easterlin paradox vs. Kahneman-Deaton** — Easterlin = *macro* / *over time / cross-national* (GDP up, happiness flat). Kahneman-Deaton = *individual-level* / *cross-sectional* (money matters at the bottom, decouples at the top — "wealth is like health"). Both point at the same diminishing-returns truth, at different scales. Do *not* answer "$75K" — slides do not name that figure.
 
-## Likely exam patterns
-
+## Notes on application
 - **50/40/10 split numeric recall.** Direct stem: "What are the approximate variance contributions to happiness?" → 50% genetics / 40% intentional / 10% circumstances. Trap distractors swap numbers (e.g., 40% circumstances, 10% intentional — the inversion).
 - **Mega-takeaways verbatim recognition.** "Which of the following is NOT a mega-takeaway of OAM 330?" or "Which best summarizes the course?" — memorize the three exactly. Strongest distractor: "humans are irrational" (slide says the opposite).
 - **Spending-category scenarios — which type maximizes happiness?** Stem offers experiences / material goods / prosocial / self-spending and asks which is most likely to improve happiness. Correct: experiences (with three reasons) and prosocial (Dunn $20).

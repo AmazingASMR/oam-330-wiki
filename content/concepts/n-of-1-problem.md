@@ -27,6 +27,6 @@ Three sub-problems on slide 21:
 - "Steve Jobs wore turtlenecks and ran a great company → I should wear turtlenecks." Classic N-of-1.
 - GE's rank-and-yank copied by other firms based on one company's success.
 
-## Likely MCQ angles
+## Notes on application
 - Identify N-of-1 reasoning in a vignette.
-- Distinguish N-of-1 (Reason #1) from correlation ≠ causation (Reason #2). MCQ trap: swapping which is which.
+- Distinguish N-of-1 (Reason #1) from correlation ≠ causation (Reason #2). common confusion: swapping which is which.

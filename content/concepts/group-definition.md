@@ -22,5 +22,5 @@ Establishes the minimum criteria — interaction + interdependence + shared obje
 - Robbins & Judge: a regional sales group at an insurance company — interdependent, interacting, shared objective of selling policies.
 - Airline flight crew = formal; lunch-buddy trio = informal.
 
-## Likely MCQ angles
+## Notes on application
 Definition match ("which of the following meets the OB definition of a group?") and formal vs. informal classification scenarios. Watch for distractors that drop the "interdependent" or "shared objective" element.

@@ -26,5 +26,5 @@ This connects directly back to [[concepts/cialdini-commitment-consistency]] — 
 - Kidney Case classroom exercise: groups assigned to advocate for a particular candidate end up *more genuinely convinced* their candidate deserves the kidney — even compared to their pre-advocacy private rating.
 - Debate prep: the side you're assigned to argue feels more correct after you prepare.
 
-## Likely MCQ angles
+## Notes on application
 The two mechanisms (selective positive-argument search + consistency motive) are testable. Distractor: claiming advocacy makes you *more* skeptical of your assigned position — wrong direction. Distractor: confusing with central-route persuasion of the audience — advocacy effect is on the *advocate*.

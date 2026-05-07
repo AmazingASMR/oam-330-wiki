@@ -23,5 +23,5 @@ Two framing claims set up the whole module: (1) every new person is simultaneous
 ## Example(s)
 The slide's identity list is intentionally broad to include profession and hobby, signaling that even "majority" employees have meaningful identities that affect work.
 
-## Likely MCQ angles
+## Notes on application
 "Which is the textbook definition of social identity?" — pick the one tied to self-concept ("how you define who you are"), not the one about demographic counts. Watch for diversity defined as "heterogeneity of identities," not "presence of minorities."

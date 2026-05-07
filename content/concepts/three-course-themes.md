@@ -29,7 +29,7 @@ These themes recur throughout every later module. They explain *why* the course 
 ## Example(s)
 - "Salespeople in suits sell more" — common sense (Theme 1) prompts the question; empirical evidence (Theme 3) tests it; and behavior is predictable enough (Theme 2) for the test to yield a stable answer.
 
-## Likely MCQ angles
+## Notes on application
 - Identify which theme a quote/example expresses.
 - Trap: a 4th fake theme like "leaders matter most" — only three themes exist.
 - Verbatim phrase recognition: "necessary but not sufficient," "insufficiently modeled," "outperforms other types."

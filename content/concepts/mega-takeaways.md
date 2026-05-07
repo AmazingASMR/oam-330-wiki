@@ -11,7 +11,7 @@ confidence: high
 Williams's three explicit "mega-takeaways" synthesizing the entire course: (1) human behavior is predictable, (2) what we think is not always reality, and (3) other people matter.
 
 ## Why it matters
-The closing-slide synthesis — high-yield for any cumulative synthesis MCQ asking "what is the overarching message of OAM 330?"
+The closing-slide synthesis — high-yield for any cumulative synthesis question asking "what is the overarching message of OAM 330?"
 
 ## Key distinctions
 - **(1) Human behavior is predictable** — "Humans aren't irrational, just insufficiently modeled." OB is empirical: with the right model, behavior in organizations is systematic, not random. Counters the lay view that people are too complex/idiosyncratic to study.
@@ -23,5 +23,5 @@ The closing-slide synthesis — high-yield for any cumulative synthesis MCQ aski
 - Think ≠ reality: common-knowledge effect, groupthink, fundamental attribution error, illusory experts.
 - Other people: social identity, leadership, negotiation, ethics, and happiness's social-connections result.
 
-## Likely MCQ angles
+## Notes on application
 A single "which is NOT a mega-takeaway" or "which best summarizes OAM 330" question. Memorize the three exactly. Distractors likely paraphrase: "humans are irrational" (slides say the opposite — *insufficiently modeled*).

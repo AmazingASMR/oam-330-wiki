@@ -23,5 +23,5 @@ This is a high-yield slide moment because it identifies a *causal mechanism* for
 - Triad task (sort dog/rabbit/carrot): wheat-region Chinese sort taxonomically (dog+rabbit, both animals); rice-region Chinese sort relationally (rabbit+carrot, rabbit eats carrot).
 - Implicit-self drawings: rice-region participants draw themselves smaller relative to others.
 
-## Likely MCQ angles
+## Notes on application
 Definition match (rice → interdependent, wheat → independent within China). Scenario: "Why might a manager in Guangzhou (rice) face different team dynamics than one in Beijing (wheat)?" → Talhelm. Distractor: claiming China is uniformly collectivist. Distractor: attributing the effect to climate or wealth rather than crop labor demands.

@@ -27,7 +27,7 @@ It's how the [[concepts/rcts-experiments|RCT]] solves the [[concepts/correlation
 ## Example(s)
 - **Harrah's** (slide 11–13): Casino-goers (mix of regulars and first-timers) randomly split. Experimental group = $60 chips; control group = $125 package. The number of regulars is the **same** in both groups because of randomization. Promotional package is the only thing that differs → it MUST be the cause of the revenue difference.
 
-## Likely MCQ angles
+## Notes on application
 - Definition: equal chance of any condition.
 - The mechanism: averages out irrelevant variables across conditions.
 - **Trap: random sampling vs. random assignment** — distractors will swap them.

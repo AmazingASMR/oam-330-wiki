@@ -12,7 +12,7 @@ Fairness is one of the few constructs that genuinely runs cross-module: equity t
 ## The two-axis frame
 - **Distributive justice** — was the *outcome* fair? (did I get the share I deserved?)
 - **Procedural justice** — was the *process* fair? (transparent, voice, dignity, consistent across identities)
-- Williams's headline counterintuitive finding: **procedural justice is the strongest predictor of job performance** (deck 08, slide 16) — managers over-focus on outcomes; the data say *how* you decide matters more than *what* you decide. MCQ-likely.
+- Williams's headline counterintuitive finding: **procedural justice is the strongest predictor of job performance** (deck 08, slide 16) — managers over-focus on outcomes; the data say *how* you decide matters more than *what* you decide. questions-likely.
 
 ## How it surfaces by module
 
@@ -37,7 +37,7 @@ Fairness can constructively or destructively override BATNA.
 - [[concepts/moral-foundations-five]] — **Fairness/Reciprocity** is one of the five categories ("rules should be fair for everyone"). Slide-canonical violation: secretly committing to hire only people of your own race/religion (Fairness, not Care — common trap).
 - [[concepts/ethical-frameworks-sources]] — faith, moral foundations, professional codes; each frames "fairness" differently. Professional codes list fairness explicitly.
 
-## High-yield MCQ traps
+## Common points of confusion
 - **Distributive vs. procedural** — highest-frequency distractor pair in this cross-cut; memorize the one-liners.
 - **"Procedural is the stronger performance predictor"** — counterintuitive, slide-flagged, almost certain to be tested.
 - **Equity ≠ expectancy** — comparison to referent (sideways) vs. multiplicative effort→reward chain (forward). Different mechanisms.

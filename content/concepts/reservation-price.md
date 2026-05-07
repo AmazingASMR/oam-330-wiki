@@ -22,7 +22,7 @@ The reservation price is the operational floor (or ceiling, if you're a buyer) y
 - Texoil rep reservation: **$500K max** (above this, build a new station). Station owner reservation: **$553K min** (below this, take BP offer). Initial ZOPA = empty → no deal until integrative moves shifted reservation to $467K.
 - Olivia's car: reservation $31K, accepted $32K → BATNA-violating accept.
 
-## Likely MCQ angles
+## Notes on application
 - Reservation price = quantified BATNA, NOT the target/aspiration.
 - Overlap of reservation prices = ZOPA; no overlap = no deal possible.
 - "Walk-away threshold" / "resistance point" are synonyms.

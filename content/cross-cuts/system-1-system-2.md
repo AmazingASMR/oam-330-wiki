@@ -7,7 +7,7 @@ study_guide: [M1, M2, Final]
 # Cross-cut — System 1 vs. System 2
 
 ## Why this matters
-Kahneman's two-system model is the most heavily referenced single framework in OAM 330 — it is named the "master frame" of Module 3 and is invoked again in Module 6 (central/peripheral routes) and Module 11 (ethical fading). Synthesis MCQs are likely to ask which system is operating in a given scenario or to swap the System 1 / System 2 mapping in distractors.
+Kahneman's two-system model is the most heavily referenced single framework in OAM 330 — it is named the "master frame" of Module 3 and is invoked again in Module 6 (central/peripheral routes) and Module 11 (ethical fading). Synthesis questions are likely to ask which system is operating in a given scenario or to swap the System 1 / System 2 mapping in distractors.
 
 ## The frame
 **System 1** = limbic/amygdala, automatic, fast, effortless, **not under conscious control**, parallel — snap judgments, gut reactions, practiced routines. **System 2** = prefrontal cortex, conscious, slow, effortful, requires attention. They run **simultaneously**, not sequentially. Slide quote: *"System 2 doesn't always know when System 1 is operating — we frequently think we are making a more rational, data-driven decision than we are."* System 1 isn't the enemy; it's the default. System 2 is effortful, so we conserve it, and biases slip through.
@@ -31,7 +31,7 @@ The "should self" vs. "want self" gap is a System 2 / System 1 conflict that pla
 - [[concepts/ethical-forecasting-errors]] — System 2 forecasts the "should self"; System 1 acts at the moment; mismatch produces over-prediction of ethical behavior.
 - [[concepts/ethical-memory-revisionism]] — System 1 reconstructs the memory post-hoc so we still see ourselves as ethical, sustaining the cycle.
 
-## High-yield MCQ traps
+## Common points of confusion
 - Distractors will reverse the mapping — e.g., claim peripheral route engages System 2 or that Cialdini principles are central-route.
 - Distractors will claim the two systems run **sequentially** — they run **simultaneously**.
 - "Slow down / be aware" looks like the obvious debiasing answer, but slides explicitly say awareness alone isn't enough (Gilbert) — structural fixes beat willpower.

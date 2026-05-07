@@ -24,5 +24,5 @@ Peripheral-route lever ([[concepts/central-vs-peripheral-route]]) and the most e
 - Hotel towel reuse: signs citing **prior guests in this room** beat generic environmental appeals — greater similarity = stronger proof.
 - Recruit a respected veteran of a resistant group (looks/sounds like them) to advocate change, not the executive.
 
-## Likely MCQ angles
+## Notes on application
 "Similarity is what makes social proof work" is the right answer when other choices invoke authority/popularity-in-general. Hotel-towel scenario is testable. Distractor: confusing with authority (peers vs. experts) or with conformity (social proof = a persuasion strategy you use; conformity = the audience-side tendency).

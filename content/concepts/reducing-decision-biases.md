@@ -28,5 +28,5 @@ Closes the loop on the module: every prior bias is a [[concepts/system-1-system-
 ## Example(s)
 - **William Chan / Gourmet Food case (slides):** had he allowed time, broadened his sample of evidence, and not been ego-invested in his original assumption, he would have reassessed instead of escalating.
 
-## Likely MCQ angles
-The Gilbert quote ("brain cannot see itself fooling itself" / **avoid the situations**) is highly quotable. The five-bullet list is MCQ-bait as a "which of the following is NOT a recommended fix" stem.
+## Notes on application
+The Gilbert quote ("brain cannot see itself fooling itself" / **avoid the situations**) is highly quotable. The five-bullet list is worth memorizing precisely as a "which of the following is NOT a recommended fix" stem.

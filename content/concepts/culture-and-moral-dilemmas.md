@@ -29,5 +29,5 @@ Same dilemma, different "right answer" depending on cultural lens. Same incentiv
 
 **Workplace motivation — Crunchers Inc. case:** Jim transfers from NY (individualist) to Beijing (collectivist), keeps the individual sales-contest reward plan that worked in NY. In Beijing the top performer (Pang Jiayang) drops below the most senior salesperson (Zhou Jiawei); everyone clusters at the same level. Lesson: **individual-recognition incentives suppress effort in collectivist contexts** because standing out breaks group harmony and seniority norms.
 
-## Likely MCQ angles
+## Notes on application
 Scenario: a NY-style individual-sales contest fails in Beijing — explain why (collectivist norms / particularism / standing out punished). Distractor: attributing failure to "low motivation" rather than cultural mismatch. Distractor: claiming moral universalism is objectively correct — slides frame both as cultural defaults, not one as right.

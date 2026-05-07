@@ -15,7 +15,7 @@ Two reasons empirical evidence wins: (1) the **N of 1 problem** (you can't gener
 
 When experiments aren't possible (impractical, impossible, or unethical), OB falls back on **quasi-experiments** (natural or existing divisions) or **correlational studies**, which require explicit **control variables** to rule out third-variable confounds.
 
-The biggest MCQ landmines: random assignment vs. random sampling; the three (not four) alternative explanations for a correlation; and distinguishing RCT vs. quasi-experiment vs. correlational study.
+The biggest questions landmines: random assignment vs. random sampling; the three (not four) alternative explanations for a correlation; and distinguishing RCT vs. quasi-experiment vs. correlational study.
 
 ## Headline empirical points
 
@@ -60,10 +60,10 @@ The biggest MCQ landmines: random assignment vs. random sampling; the three (not
 
 ## Reading-specific testable points
 
-From [[readings/fisher-trouble-with-mbas]] (*Fortune*) — items not enshrined as concept pages but MCQ-eligible because the study guide has a "Content of readings" bullet:
+From [[readings/fisher-trouble-with-mbas]] (*Fortune*) — items not enshrined as concept pages but questions-eligible because the study guide has a "Content of readings" bullet:
 
 - **Soft skills** — communication, teamwork, listening, persuasion, mentoring; the umbrella label for what corporate recruiters say MBAs lack.
-- **Jack Welch at MIT Sloan (2005)** — told students to "just concentrate on networking — everything else you can learn on the job." Dean Schmalensee was stunned; this triggered MIT's curriculum rethink. Named-source MCQ: who is Welch, what did he say at Sloan.
+- **Jack Welch at MIT Sloan (2005)** — told students to "just concentrate on networking — everything else you can learn on the job." Dean Schmalensee was stunned; this triggered MIT's curriculum rethink. Named-source questions: who is Welch, what did he say at Sloan.
 - **GMAC's annual recruiter survey (since 2002)** — empirical (not anecdotal) source; every year, recruiters say MBAs lack the ability to write and speak clearly and persuasively. Distinguishes the article's evidence from N-of-1 testimony.
 - **Chicago Booth required course** = communications + team-building, taught by trained second-years; plus "Spring Launch" people-skills seminar.
 - **Wharton leadership program** — one-on-one professional coaching; enrollment nearly doubled (50 → 90).
@@ -77,7 +77,7 @@ From [[readings/fisher-trouble-with-mbas]] (*Fortune*) — items not enshrined a
 
 - [[cross-cuts/distractor-pairs]] — M2 cram pairs are random assignment vs. random sampling, RCT vs. quasi-experiment vs. correlational, the three alternatives (NOT four), and N-of-1 vs. correlation problem.
 
-## High-yield MCQ traps
+## Common points of confusion
 
 - **[[concepts/random-assignment]] vs. random sampling** — the single biggest M2 landmine. *Assignment* = how subjects go into conditions (internal validity / causation). *Sampling* = how subjects are selected from a population (external validity / generalizability). Most labs have one but not the other. Distractors will swap them on a study-description stem.
 - **[[concepts/rcts-experiments]] vs. [[concepts/quasi-experiments-correlational|quasi-experiment]] vs. correlational study** — RCT manipulates IV + randomly assigns; quasi uses *natural/existing* division (no random assignment); correlational only *measures* variables as they exist. Quasi cannot establish causation cleanly. Trap: "different branches with no manipulation" → quasi-experiment, NOT RCT.
@@ -90,8 +90,7 @@ From [[readings/fisher-trouble-with-mbas]] (*Fortune*) — items not enshrined a
 - **More memorable ≠ more useful** — anecdotes are sticky but low on the [[concepts/evidence-hierarchy|pyramid]]. Distractor: claiming a vivid case study counts as strong evidence.
 - **OB vs. common sense** — common sense is *necessary but not sufficient*. Distractor: "common sense is sufficient" (denied by Theme 1).
 
-## Likely exam patterns
-
+## Notes on application
 - **Definition-match stems** — "Which of the following best describes a quasi-experiment?" / "Which design supports causation?" Memorize the one-line definition for each method type (RCT, quasi, correlational, control variable, control group, random assignment, random sampling).
 - **Exact-list recognition stems** — "Which of the following is NOT one of the three alternative explanations?" / "Which is NOT one of the three obstacles to experimentation?" / "Which is NOT one of the three course themes?" The trap is always a real concept that's just not on Williams' list.
 - **Random-assignment-vs-sampling distractor** — almost guaranteed. Practice the "internal validity / external validity" distinction cold.

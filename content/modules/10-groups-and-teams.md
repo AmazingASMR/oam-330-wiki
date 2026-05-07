@@ -75,9 +75,9 @@ The numbers and named studies most likely to anchor a stem.
 
 ## Cross-cut connections
 
-- [[cross-cuts/distractor-pairs]] — groupthink vs. groupshift, mechanistic vs. organic, brainstorming vs. nominal, and cohesion vs. psychological safety are exam-cram pairs.
+- [[cross-cuts/distractor-pairs]] — groupthink vs. groupshift, mechanistic vs. organic, brainstorming vs. nominal, and cohesion vs. psychological safety are close-pair distinctions worth memorizing.
 
-## High-yield MCQ traps
+## Common points of confusion
 
 - **Groupthink vs. groupshift** — both are group decision pathologies but mechanistically distinct. Groupthink = *suppressed dissent → artificial consensus* around an early position (Samsung Note 7, Bay of Pigs). Groupshift = *amplified initial leaning → polarization to a more extreme version* of the majority's pre-discussion preference (risky-shift or cautious-shift). If the stem says "they all agreed even though some had doubts," that's groupthink; if it says "the group ended up more extreme than any individual started," that's groupshift.
 - **Mechanistic vs. organic** — mechanistic = bureaucratic, top-down, formalized, narrow span, strict chain of command (Wal-Mart, railroads, fast-food chains, mature regulated industries). Organic = fluid, distributed authority, low formalization, wider span, cross-functional (Apple, startups, young high-velocity industries). Trap: "mechanistic = bad / organic = good." Both are rational responses to environment — mechanistic dominates in stable, predictable contexts.
@@ -87,8 +87,7 @@ The numbers and named studies most likely to anchor a stem.
 - **Social loafing prevention levers** — five canonical levers (group goals / inter-group competition / peer evaluations / select for motivation / reward identifiable individual contributions). Trap distractors: "increase group size" (worsens loafing), "reduce individual identifiability" (worsens loafing — opposite of the right answer).
 - **Punctuated equilibrium midpoint** — the transition is **time-based** (halfway through the allotted clock), not progress-based or tied to milestones. A team given 6 months hits transition at month 3 even if they're far behind schedule.
 
-## Likely exam patterns
-
+## Notes on application
 - **Scenario stem: identify groupthink vs. groupshift.** Read for cues: "everyone agreed even though some had concerns" (groupthink) vs. "the group ended up more extreme than any individual" (groupshift). The Samsung Note 7 vignette → groupthink.
 - **Mechanistic-vs-organic structure recognition.** Stem describes a company (Wal-Mart, railroad, fast food, 100-year-old utility) → mechanistic. Stem describes Apple, an early-stage startup, a young/turbulent industry → organic. Span-of-control language ("narrow span / many layers") → mechanistic; ("wide span / flat") → organic.
 - **Cohesion-norms 2×2.** "A tight-knit team that has agreed informally to coast" → high cohesion + low norms → *worst* productivity. The trap answer is "high cohesion always helps" — false; cohesion only multiplies whatever norms already exist.

@@ -22,5 +22,5 @@ Maps to Pink's **purpose** leg of autonomy/mastery/purpose. Slide 6 (deck 09): a
 - Fundraising callers who met one scholarship recipient for 10 minutes raised significantly more money over the following weeks than a control group given a manager pep talk.
 - Reframing internship tasks toward end-user impact: "search LinkedIn for recruiting leads" → "find the candidates who will fill X team's gap." "Reconcile cost spreadsheets" → "make sure plant locations don't lose money."
 
-## Likely MCQ angles
+## Notes on application
 The fundraising-callers result: **brief end-user contact > manager pep talk** for sustained motivation/performance. Distractor: claiming pep talks from managers are equally effective. Distractor: confusing meaningfulness with abstract mission statements (the active ingredient is *real-people impact*, especially end users).

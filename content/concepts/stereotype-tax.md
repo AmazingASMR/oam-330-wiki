@@ -24,5 +24,5 @@ Explains why "just be excellent and you'll be rewarded" doesn't work uniformly �
 - Identical résumés, fewer callbacks for African-American-sounding names (5,000-résumé study).
 - Identical AirBnB requests, lower acceptance for first names signaling minority race (6,400-request study).
 
-## Likely MCQ angles
+## Notes on application
 Distinguishing tax from threat is the trap: pick "tax" when the question describes an *evaluator* penalizing identity; pick "threat" when the question describes the *target's* performance dropping under identity salience. Distractor: "intentional discrimination" — the tax is usually System 1 and unintentional.

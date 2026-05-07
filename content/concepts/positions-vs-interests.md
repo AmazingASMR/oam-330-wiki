@@ -29,7 +29,7 @@ Positions are visible and look opposed; interests are hidden and often complemen
   - *Interests:* Buyer needs reliable transport for one year, has up to $6K, worries about reliability. Seller will take $6K **plus commits to pay ordinary repairs for 12 months.** Both interests served at $6K + warranty.
 - **Texoil:** Positions = price. Interests = good price + good managers (Texoil) vs. time off, sailing trip, future income, health insurance (owner). Discovering interests unlocked the deal.
 
-## Likely MCQ angles
+## Notes on application
 - Fisher-&-Ury distinction; "focus on interests, not positions" is integrative gospel.
 - The orange example is the canonical illustration — recognize it.
 - Stuck on positions → fail to uncover interests → suboptimal deal.

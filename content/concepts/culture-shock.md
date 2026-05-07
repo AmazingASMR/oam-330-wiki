@@ -25,5 +25,5 @@ Names the predictable interpersonal pattern when diverse groups first interact. 
 ## Example(s)
 Five Tricks card game: silent rule variation across tables, players blamed newcomers; veterans of prior rounds adjusted faster.
 
-## Likely MCQ angles
+## Notes on application
 "Which reduces the impact of a culture shock?" → having a partner, having prior shock experience. "What kind of cultural difference causes most workplace conflict?" → small/unrecognized ones, not large/obvious ones.

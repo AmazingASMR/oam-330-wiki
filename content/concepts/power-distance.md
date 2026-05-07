@@ -22,5 +22,5 @@ Power distance shapes how subordinates speak to superiors, how bosses are expect
 ## Example(s)
 **KAL 801 (Guam, 1997)** — high-PD Korean cockpit: first officer hints "Don't you think it rains more here?" and engineer hints "the weather radar has helped us a lot" instead of saying "abort." Captain misses it. 228 die. Korean Air's loss rate was 17× United's. Pilot PDI ranking: 1. Brazil, 2. South Korea (top); US/Ireland/SA/Aus/NZ at the bottom. Power-distance correlation with crashes r = .47.
 
-## Likely MCQ angles
+## Notes on application
 Definition; "describes cultures, not individuals"; identifying the KAL crash as a high-PD scenario; distinguishing PD from other Hofstede dimensions; recognizing that high PD is *not* universally bad.

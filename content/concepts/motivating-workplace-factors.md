@@ -25,5 +25,5 @@ This is the spine of Module 5. Each pillar maps to a separate testable framework
 - University fundraising callers who met a student beneficiary for 10 minutes raised significantly more money than control (meaningful work).
 - Pay scales explained transparently, with employee voice, satisfy the fairness pillar.
 
-## Likely MCQ angles
+## Notes on application
 "Which of the following is *not* one of the three pillars of motivating environments?" — likely distractor is something pay/incentive-focused. The triad is **clear paths, fair procedures/outcomes, meaningful work**. Memorize verbatim.

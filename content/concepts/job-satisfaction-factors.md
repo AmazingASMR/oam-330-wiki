@@ -16,12 +16,12 @@ Slide 5 lists predictors by magnitude — directly testable. Bigger predictors o
 ## Key distinctions
 - **Job satisfaction predictors vs. motivating-environment factors** — satisfaction is about *liking your job*; motivating environments are about *driving effort*. Overlap, but different outcomes. See [[concepts/motivating-workplace-factors]].
 - **Satisfaction vs. performance** — they correlate ~.30 (medium), not perfectly. Don't conflate. See [[concepts/job-satisfaction-performance]].
-- **Pay sits in the small/medium range, not large** — the surprising finding that catches MCQ-takers. We *predict* pay matters more than it does.
+- **Pay sits in the small/medium range, not large** — the surprising finding that catches students reviewing this. We *predict* pay matters more than it does.
 
 ## Example(s)
 - Strongest predictors include the nature of the work itself, supervision quality, growth/advancement, coworker relationships.
 - Pay shows a smaller relationship than people typically expect.
 - ~90% of US workers say they are "very" or "somewhat" satisfied; <5% report "not at all" satisfied (General Social Survey) — the "myth of the unhappy worker."
 
-## Likely MCQ angles
+## Notes on application
 "Which is the *strongest* predictor of job satisfaction?" — likely the work itself, not pay. Distractor: ranking pay as a top predictor. Distractor: assuming workers are mostly dissatisfied (they aren't — ~90% satisfied).

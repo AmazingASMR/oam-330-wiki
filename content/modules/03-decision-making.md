@@ -76,10 +76,10 @@ Recurring across the rest of the course: System 1/System 2 returns in **Influenc
 
 ## Reading-specific testable points
 
-Items not enshrined as concept pages but MCQ-eligible because every study-guide section has a "Content of readings" bullet:
+Items not enshrined as concept pages but questions-eligible because every study-guide section has a "Content of readings" bullet:
 
 **From [[readings/dobelli-art-of-thinking-clearly]] (Ch 5 sunk cost & Ch 14 hindsight):**
-- **Concorde effect** — alias for the sunk-cost fallacy; Britain & France kept funding the supersonic-jet failure to save face. Named alias is MCQ-bait.
+- **Concorde effect** — alias for the sunk-cost fallacy; Britain & France kept funding the supersonic-jet failure to save face. Named alias is worth memorizing precisely.
 - **Need for consistency** — Dobelli's psychological engine of sunk-cost behavior; we hate admitting our prior selves were wrong.
 - **Great-uncle's diary in occupied Paris (1940)** — predicted Germans would leave by year-end; occupation lasted 4 years. Diaries reveal the actual uncertainty hindsight erases.
 - **2007 economists / 2008 crash** — same experts then list the "obvious" causes (Greenspan, lax mortgages, rating agencies); causes look inevitable only after the fact.
@@ -109,7 +109,7 @@ Items not enshrined as concept pages but MCQ-eligible because every study-guide 
 - [[cross-cuts/system-1-system-2]] — the master frame; every M3 bias is a System 1 malfunction System 2 fails to catch, and "be more aware" answers to debiasing stems are usually wrong (Gilbert quote).
 - [[cross-cuts/decision-making-biases]] — full bias catalog with sister-bias distinguishing features; tracks how M3 biases reappear as Cialdini levers in M6 and as ethical fading/forecasting/revisionism in M11.
 
-## High-yield MCQ traps
+## Common points of confusion
 
 - **[[concepts/availability-heuristic]] vs. [[concepts/confirmation-bias]]** — availability = passive *recall* ease (what pops up); confirmation = active *seeking* (what we go look for). The single most common M3 distractor pair.
 - **[[concepts/anchoring-bias]] vs. [[concepts/framing-and-risk]]** — anchoring shifts a *starting number* (magnitude); framing shifts *risk preference* by gain/loss wording. Both are "biases in numeric decision making" per slide bucket — different mechanism.
@@ -126,10 +126,9 @@ Items not enshrined as concept pages but MCQ-eligible because every study-guide 
 - **"Just be more aware" debiasing answer** — **wrong**. Gilbert: "the brain cannot see itself fooling itself; the only reliable method … is to **avoid the situations that produce it**." Awareness alone is insufficient.
 - **"Three alternatives explain a correlation"** in a M3 stem — that's an M2 trap leaking into M3 territory; verify the stem is actually about correlation, not bias.
 
-## Likely exam patterns
-
+## Notes on application
 - **Scenario-application stems** — by far the most common M3 question type. Williams describes a workplace situation ("a manager remembers the salespeople who made big sales recently and concludes those are the top performers") and asks which bias is at work. Memorize one trigger phrase per bias: *vivid recall* → availability; *seeking confirming evidence* → confirmation; *one trait colors all judgments* → halo; *expectations changed behavior* → SFP; *initial number contaminates estimate* → anchoring; *gain/loss wording flips risk* → framing; *throwing good money after bad* → sunk cost; *I knew it all along* → hindsight; *better-than-average self-rating* → overconfidence.
-- **Comparison stems for sister biases** — pairs two related biases and asks the distinguishing feature. The distractor pairs above are MCQ-bait one item at a time. Practice the distinguishing feature aloud for each.
+- **Comparison stems for sister biases** — pairs two related biases and asks the distinguishing feature. The distractor pairs above are worth memorizing precisely one item at a time. Practice the distinguishing feature aloud for each.
 - **Numeric-recall stems** — quote one of the headline anchors (2,170 / 2,606; 81%/76%; 79.4 vs. 70.7 yrs from 114/35 anchors; 32% → 66%; ~7% UK DfT) and ask which bias it illustrates. Memorize the number-to-bias map.
 - **"How would you reduce this bias?" stems** — "be more aware" is **wrong** (Gilbert quote). Right answers are *structural*: allow time, broaden samples, present info multiple ways, minimize ego stakes, use algorithms / reference-class forecasting.
 - **Verbatim-quote / cloze stems** — Kahneman's "exaggerated emotional coherence" (halo); Gilbert's "brain cannot see itself fooling itself"; "we frequently think we are making a more rational, data-driven decision than we are."

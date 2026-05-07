@@ -22,5 +22,5 @@ Ethical principles are reflected in rules and laws, but only imperfectly. Willia
 - MBA Hackers case — applicants who hacked admissions sites were judged by Harvard, MIT, Stanford deans as failing tests of "integrity," "moral compass," "character."
 - Sources of ethical principles per slides: societal, cultural, professional (varies across people and groups).
 
-## Likely MCQ angles
+## Notes on application
 Expect a definition match item: "Ethics are best defined as ___" — correct answer = guidelines/principles for evaluating right vs. wrong, NOT laws, NOT personal preferences. Distractor: "rules and laws perfectly capture ethics" (false — slide 7 explicitly).

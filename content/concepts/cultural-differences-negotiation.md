@@ -27,7 +27,7 @@ Importing a one-size-fits-all (often Western, distributive, contract-focused) ap
 ## Example(s)
 - **Australia → Japan sugar exports:** Japanese counterparts expected to renegotiate as conditions changed; Australian side treated the contract as fixed. Cultural mismatch on what the deal *was*.
 
-## Likely MCQ angles
+## Notes on application
 - Recognize: paper agreement may be **secondary** in collectivistic contexts.
 - Recognize: directness can read as disrespect; "read between the lines" is normative in some cultures.
 - Slide's bottom-line claim: **integrative > distributive globally.**

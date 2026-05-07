@@ -23,7 +23,7 @@ Slide 01 grounds the whole course in this premise. Two pieces of evidence suppor
 ## Example(s)
 - A brilliant engineer who can't motivate their team underperforms a competent engineer who can. The science of organizations ([[concepts/ob-definition-and-goals]]) is what closes that gap.
 
-## Likely MCQ angles
+## Notes on application
 - Recognize the Cambridge survey ratings (Management & Strategy = 4.0; other core = 3.5) or that the Economist study had **1,656 senior executives**.
 - "As long as organizations are made up of people …" → success requires **task skills + management skills**.
 - Trap: claiming OB is optional or only for HR-bound students — it's required in every BBA/MBA.

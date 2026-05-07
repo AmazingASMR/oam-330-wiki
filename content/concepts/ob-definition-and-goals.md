@@ -18,13 +18,13 @@ The two payoffs of OB are tied to the [[concepts/three-course-themes]]:
 Goal #3 is methodological: rely on **empirical evidence** over hearsay, intuition, or logical reasoning alone.
 
 ## Key distinctions
-- **OB vs. common sense** — common sense gets you partway (necessary) but not all the way (not sufficient). MCQ trap: claiming common sense is sufficient.
+- **OB vs. common sense** — common sense gets you partway (necessary) but not all the way (not sufficient). common confusion: claiming common sense is sufficient.
 - **OB vs. HR** — OB is the underlying behavioral science; HR is one applied domain that uses it.
 - **Predict vs. random** — "Human behavior is complex … but not random." "Humans aren't irrational … just insufficiently modeled."
 
 ## Example(s)
 - Predicting a salesperson's performance requires modeling agreeableness, type of job, mentoring, bonus, etc. — many inputs at once (see [[concepts/input-outcome-variables]]).
 
-## Likely MCQ angles
+## Notes on application
 - "Common sense is ___ but not ___ for predicting behavior" → **necessary, not sufficient**.
 - Williams' framing of irrationality: humans aren't irrational, just **insufficiently modeled**. Behavior is complex but **not random**.

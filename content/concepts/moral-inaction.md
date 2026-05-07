@@ -27,5 +27,5 @@ Moral inaction is the **failure to act even when we recognize unethical behavior
 - ~2/3 non-reporting rate of witnessed misconduct.
 - Wells Fargo bankers who saw colleagues opening fake accounts but didn't escalate; bystanders to harassment.
 
-## Likely MCQ angles
+## Notes on application
 "An employee sees a colleague falsifying expense reports but says nothing — which mechanism?" → moral inaction. Distractor: moral *justification* (which would require the bystander herself to commit and rationalize the act). Powerlessness / learned helplessness / moral disengagement are the three drivers — expect a "which is NOT a driver of moral inaction" item.

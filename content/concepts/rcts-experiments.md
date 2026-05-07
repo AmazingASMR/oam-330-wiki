@@ -27,7 +27,7 @@ The top of the [[concepts/evidence-hierarchy]]. RCTs are the only way to escape 
 - **Harrah's** (slide 11): control group got a $125 promo package (room + 2 steak dinners + $30 chips); experimental group got $60 in chips. Random assignment of casino-goers ensured the mix of regulars vs. first-timers was equal across groups. Finding: the $60 offer generated **more revenue at lower cost**. Because of random assignment, the package size **caused** the revenue change — nothing else could have.
 - "Do salespeople who wear suits get more sales?" — only an RCT can answer causally.
 
-## Likely MCQ angles
+## Notes on application
 - Two RCT criteria: control over IV + random assignment + control condition.
 - Why only RCT proves causation (random assignment averages out confounds).
 - Distinguish RCT from quasi-experiment from correlational study.

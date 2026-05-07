@@ -23,7 +23,7 @@ Common intuition: "win-win" sounds like "we both meet halfway." Slides flag this
 - **Texoil:** compromise on price alone left no ZOPA. Integration (job offer + fuel + ads + health care) shifted the station owner's reservation to $467K and produced a deal.
 - **Korkki:** if employer can't budge on base salary, don't just split the difference — package signing bonus, vacation, equity, parking.
 
-## Likely MCQ angles
+## Notes on application
 - TRUE/FALSE distractor: "Integrative bargaining means compromising fairly." → **False.** Compromise can leave both worse off.
 - Integration works because issues are valued **unequally** across parties.
 - "Meeting in the middle" is a distributive default, not an integrative outcome.

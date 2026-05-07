@@ -30,5 +30,5 @@ A direct respect → performance link: racial-minority salespeople show highest 
 ## Example(s)
 Co-workers who won't make eye contact; jokes about religion; sexual harassment.
 
-## Likely MCQ angles
+## Notes on application
 Definition (devaluing of identity); the *range* of behaviors (extreme hostility through everyday incivility); both satisfaction *and* performance consequences.

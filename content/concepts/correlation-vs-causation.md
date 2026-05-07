@@ -30,7 +30,7 @@ See [[concepts/alternative-explanations-correlation]]. From slide 25:
 - Slide 25: "Fewer highway deaths → more lemons?" (spurious / reverse direction). "Road quality → ability to import goods" + "Road quality → auto safety" (third-variable: road quality drives both).
 - Reading-to-kids ↔ reading-for-fun: parent income, books in home, free time could all be the real cause.
 
-## Likely MCQ angles
+## Notes on application
 - Given a correlation, name the three alternative explanations.
 - Identify the only design that supports causation: **RCT with random assignment**.
 - Trap: assuming a strong correlation = causation.

@@ -22,5 +22,5 @@ This is the mechanism that makes weak instruments like MBTI feel authoritative. 
 - Williams's class demo: 64 students read the *same* generic personality paragraph ("You have a great need for other people to like and admire you… disciplined outside, worrisome inside…") and most rated it as personally accurate.
 - Horoscope columns; tarot readings; "fortune cookie" insights.
 
-## Likely MCQ angles
+## Notes on application
 Definition match (vague descriptions feel personal). Scenario: "Why does the MBTI feel accurate to its takers?" → Barnum effect, not measurement validity. Distractor: confusing Barnum with confirmation bias — Barnum is about generic descriptions, not about seeking confirming evidence.

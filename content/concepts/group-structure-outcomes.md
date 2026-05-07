@@ -27,5 +27,5 @@ Slides 25 frames structure as a deliberate design lever: managers choose hierarc
 - Slides exercise: RED/ORANGE groups had imposed hierarchy; BLUE/GREEN and PINK/PURPLE were structure-free at start. Question posed: did hierarchies form anyway in the unstructured groups? (Yes, generally.)
 - Decision-making speed and member satisfaction tend to trade off across structural choices.
 
-## Likely MCQ angles
+## Notes on application
 Scenario application: matching a structural feature (hierarchy / fluid roles / no formal leader) to a likely outcome (consistency / creativity / variability). Expect a "tradeoff" framing — the right answer rarely says structure is uniformly good or bad.

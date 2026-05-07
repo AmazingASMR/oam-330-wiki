@@ -22,7 +22,7 @@ Listed as one of the slide's "effective strategies for influence" in the Kidney 
 - Political attack ads on opponents (general framing — slide does not name a specific ad).
 - Kidney Case context: arguing why another candidate *shouldn't* get the kidney rather than only why yours should.
 
-## Likely MCQ angles
+## Notes on application
 - *"Risky, but effective"* is the slide's exact framing. Distractors: "always effective," "never effective," "always backfires."
 - May appear in a list-the-Kidney-Case-strategies question alongside **principles/values appeals**, **order effects** (last-shall-be-first in serial competition), **individual identifiability** (Rokia/Save the Children), and the **advocacy effect**.
 
@@ -32,4 +32,4 @@ The slide entry on negative advertising is a **single bullet** — *"Negative ad
 - *Backfire conditions* (slide does not specify them).
 - *Specific examples* (no named ad campaign).
 
-Confidence stays medium honestly because the slide content is genuinely thin. Anything beyond "risky but effective" + "Kidney Case strategy" + "peripheral route" is inference, not slide text. The MCQ will most likely test the verbatim phrase, the strategy-list membership, or its peripheral-route classification — not unpacked conditions the slide never gave.
+Confidence stays medium honestly because the slide content is genuinely thin. Anything beyond "risky but effective" + "Kidney Case strategy" + "peripheral route" is inference, not slide text. Questions most likely cover the verbatim phrase, the strategy-list membership, or its peripheral-route classification — not unpacked conditions the slide never gave.

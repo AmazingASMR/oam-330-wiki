@@ -21,5 +21,5 @@ A core structural variable. Wider spans cut costs and shorten communication path
 ## Example(s)
 - Slides: contrast of "flat" vs "tall" diagrams — flat = cheaper + easier comms; tall = greater theoretical control + performance.
 
-## Likely MCQ angles
+## Notes on application
 Definition match (wide = flat / narrow = tall). Tradeoff scenarios: "which structure is cheapest with easiest communication?" → wider span. Watch for distractors that flip "wide" with "tall."

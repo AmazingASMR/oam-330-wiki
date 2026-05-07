@@ -63,10 +63,10 @@ Three questions structure the module (slide 5): **who ends up as a leader, what 
 
 ## Cross-cut connections
 
-- [[cross-cuts/distractor-pairs]] — leader emergence vs. effectiveness, power paradox vs. hubris syndrome, and PD-vs-individualism are exam-cram pairs.
+- [[cross-cuts/distractor-pairs]] — leader emergence vs. effectiveness, power paradox vs. hubris syndrome, and PD-vs-individualism are close-pair distinctions worth memorizing.
 - [[cross-cuts/cultural-differences]] — power distance is the master cultural lens for this module; receiver- vs. transmitter-oriented communication maps directly onto Hofstede.
 
-## High-yield MCQ traps
+## Common points of confusion
 
 - **Leader emergence vs. leader effectiveness** — emergence = who is *perceived as* leader (driven by perceived competence + commitment, with cosmetic boosters); effectiveness = whether they actually produce good outcomes. **Emergent ≠ effective.** Talkativeness is a *behavior of* emergent leaders, not a primary driver.
 - **Power paradox (mechanism) vs. how power changes behavior (effects) vs. hubris syndrome (clinical pattern)** — a three-way trap.
@@ -81,8 +81,7 @@ Three questions structure the module (slide 5): **who ends up as a leader, what 
 - **Leader-emergence helpfulness** — the slide answer to "is it helpful that a leader emerges?" is **yes, with caveats**: moderate status differences boost coordination/efficiency; large or unfair ones hurt creativity and satisfaction. Distractors: "flat groups always outperform" or "steeper hierarchy always boosts efficiency."
 - **Hubris syndrome vs. narcissism** — narcissism is a stable trait *before* power; hubris syndrome is *induced* by sustained power and can recede when power is removed.
 
-## Likely exam patterns
-
+## Notes on application
 - **KAL 801 / Avianca scenario stems** — cockpit transcript with hints; identify as **mitigated speech** in a **high-PD** cockpit; pair the mechanism with **receiver-oriented** communication. Korean Air's English mandate and mitigated-speech training are the canonical PD-reduction interventions.
 - **Keltner-mechanism scenarios** — a recently promoted manager shows reduced perspective-taking, more goal-action, less pressure from subordinates. Identify the trio (action ↑ / perspective ↓ / pressure of others ↓) and the **BIS suppression** mechanism. Identify Keltner / Obhi / mirroring / empathy deficit as keywords. The Stumpf "couldn't read the room" stem and the Galinsky "E on forehead" stem both point here.
 - **PD cultural-comparison stems** — match a workplace artifact (CEO parking spot, open door vs. gatekeepers, large vs. small pay spread, flat vs. tall structure, grievance structures vs. no way out, boss-as-friend vs. boss-as-benevolent-parent) to high or low PD. Trap: assuming high PD is universally bad.

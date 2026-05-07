@@ -21,12 +21,12 @@ Williams' takeaway (slide 21): organizations — *especially leaders* — must f
 
 ## Key distinctions
 - **vs. Outcome-focused culture** — Direct opposite. Outcome focus values only ends; ethics-culture values process *and* outcomes.
-- **vs. Individual alignment strategies (Lecture 26)** — Those (anticipate want self / give voice to should self) are personal; the antidote is *organizational*. MCQ trap: stem says "the *organization's* response to ethical lapses" → antidote, not personal strategies.
+- **vs. Individual alignment strategies (Lecture 26)** — Those (anticipate want self / give voice to should self) are personal; the antidote is *organizational*. common confusion: stem says "the *organization's* response to ethical lapses" → antidote, not personal strategies.
 - **vs. Compliance training alone** — Williams frames culture, not policy/training, as the antidote. Synergistic corruption (Enron) shows that surrounding professionals (lawyers, bankers, accountants) all enabled fraud despite formal codes.
 
 ## Example(s)
 - **J&J 1982** (Tylenol crisis): CEO's first question, *"First, how do we protect the people?"* — process-and-people-first culture.
 - **Enron (counter-example)**: black box where no one knew how money was made; "synergistic corruption" — lawyers, bankers, accountants all complicit.
 
-## Likely MCQ angles
+## Notes on application
 "Williams' antidote to organizational misconduct is best described as…" → culture of ethics (process focus, transparency, checks/balances, dissent). Distractors: "stronger laws," "individual ethics training," "more outcome-based incentives" — all wrong; the latter would *worsen* misconduct.

@@ -25,5 +25,5 @@ A [[concepts/system-1-system-2|System 1]] failure in **numeric** decision making
   - F(1,63) = 6.90, p = .01. Same person, anchor shifted answers by **~9 years**.
 - **iPad pricing (slides):** Pundits anchored expectations under $1,000. Apple announced **"just $499"** — making $499 feel cheap by contrast.
 
-## Likely MCQ angles
+## Notes on application
 The Gandhi 114 / 35 / 78 numbers. The fix: avoid the anchor (don't try to "ignore" it — it doesn't work). Distractor: confusing with framing (different mechanism on the same kind of "numeric bias" slide).

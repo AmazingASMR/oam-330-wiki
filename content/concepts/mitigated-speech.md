@@ -23,5 +23,5 @@ In time-pressured cockpits (and operating rooms, and battlefields), mitigated sp
 - **KAL 801 (Guam, 1997):** first officer hints "Don't you think it rains more in this area, here?"; engineer hints "the weather radar has helped us a lot." Captain doesn't decode. 228 die.
 - **Avianca 052 (Long Island, 1990):** Klotz says "we're running out of fuel, sir" with mitigating "ah" instead of declaring "emergency." NY ATC dismisses it. Plane crashes from fuel exhaustion.
 
-## Likely MCQ angles
-Scenario MCQ: cockpit transcript with hints — identify as mitigated speech and link to high PDI. Distinguish from receiver-orientation (the listener-side mirror). Korean Air's English mandate as the canonical fix.
+## Notes on application
+Scenario questions: cockpit transcript with hints — identify as mitigated speech and link to high PDI. Distinguish from receiver-orientation (the listener-side mirror). Korean Air's English mandate as the canonical fix.

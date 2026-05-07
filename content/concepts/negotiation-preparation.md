@@ -24,7 +24,7 @@ Pre-negotiation work that answers three questions: **What do I want? What do the
 **Larger situation:** short-vs-long-term relationship, negotiation norms, reputational/precedent linkages.
 **Korkki additions:** gather salary intel (Glassdoor, PayScale), defer salary talk early, don't accept on the spot, ask 10% above target, know your "walk-away."
 
-## Likely MCQ angles
+## Notes on application
 - Common mistake: conflating target with reservation point.
 - Common mistake: assuming distributive when integrative prep would help.
 - Endowment / IKEA effects show up as anti-prep biases.

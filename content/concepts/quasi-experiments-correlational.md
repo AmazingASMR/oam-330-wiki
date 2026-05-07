@@ -26,7 +26,7 @@ These designs are necessary when [[concepts/experiment-obstacles|obstacles to ex
 - **Quasi**: a company rolls out a new wellness policy at the Atlanta branch but not the Boston branch — you compare outcomes across branches.
 - **Correlational**: measure how many customers a server handles per day and rate customer satisfaction; compute the correlation.
 
-## Likely MCQ angles
+## Notes on application
 - Match a study description to design type. **Trap:** "different branches" with no manipulation = quasi-experiment, not RCT.
 - Recognize that neither design supports causation.
 - Why control variables matter for non-experimental designs (you have no random assignment to do the work for you).

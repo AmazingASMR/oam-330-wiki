@@ -31,5 +31,5 @@ Uncertainty avoidance · Long- vs. short-term orientation · Masculinity vs. fem
 - Williams's Beijing/Crunchers Inc. case: individual sales-leaderboard incentives (effective in NYC) suppress sales in collectivist Beijing because employees lower output to avoid standing out / breaking solidarity.
 - Naming order: Western "First Last" vs. East Asian "Last First" reveals identity priority.
 
-## Likely MCQ angles
+## Notes on application
 Definition match (priority on individuals vs. groups). Scenario: incentive system that backfires in collectivist setting. Distractor: confusing with power distance. Distractor: claiming individualism = "selfish" — slides frame it normatively as authenticity/initiative, not selfishness.

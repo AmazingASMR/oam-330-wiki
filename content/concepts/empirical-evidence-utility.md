@@ -28,7 +28,7 @@ Empirical evidence is **the** standard for the course (Theme 3). It outperforms 
 ## Example(s)
 - Yelp: trusting one 5-star review (worse) vs. the full distribution of all reviews (better).
 
-## Likely MCQ angles
+## Notes on application
 - Definition match: "evidence from systematic observation/testing."
 - Why dramatic anecdotes mislead: richly detailed = memorable, negative = memorable, first-encountered = memorable, "worked for our ancestors."
 - Pyramid logic: the higher you go, the better you predict the **next** event.

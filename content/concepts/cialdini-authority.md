@@ -23,5 +23,5 @@ A peripheral-route lever ([[concepts/central-vs-peripheral-route]]) — newcomer
 - Strangers give parking-meter change more readily to a uniformed requester than to one in casual clothes.
 - Real estate firm trained reception staff to mention each agent's years of experience — measurable lift in appointments and contracts.
 
-## Likely MCQ angles
+## Notes on application
 The "have a third party introduce your credentials" tactic is testable. Distractor: claiming authority is a central-route strategy — it's peripheral. Another distractor: confusing it with social proof (peers) — authority is about expertise/position, not similarity.

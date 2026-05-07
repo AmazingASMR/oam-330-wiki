@@ -1,15 +1,12 @@
 ---
-title: "Practice — Module 3 Decision Making (Session 1)"
+title: "Module 3 Decision Making — practice questions"
 type: module
 module: Decision Making
-session: 1
-date: 2026-05-02
 question_count: 12
 ---
 
 
-# Practice — Module 3 Decision Making (Session 1)
-
+# Module 3 Decision Making — practice questions
 ## Instructions
 Try to answer all 12 without referencing the concept pages. This module is bias-heavy; the distractors are deliberately the *sister* biases. Score yourself and use the per-distractor "why wrong" notes to surface fuzzy thinking.
 

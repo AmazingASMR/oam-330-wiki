@@ -36,5 +36,5 @@ Slide 18 (deck 09) take-home: money matters but is complicated. Pairs with [[con
 - **Israeli day-care fine** — fining late parents *increased* lateness by replacing moral norm with market price.
 - **Goal-setting side effects** — Sears auto-repair quotas drove overcharging; Enron revenue goals drove fraud; Ford Pinto safety failures.
 
-## Likely MCQ angles
+## Notes on application
 **Glucksberg candle problem belongs here, not in pure intrinsic/extrinsic** — it's the canonical "incentives backfire on creative tasks" demo. Memorize the six downsides verbatim. Distractor: claiming incentives never backfire, or that they backfire on all tasks (only on creative/conceptual ones).

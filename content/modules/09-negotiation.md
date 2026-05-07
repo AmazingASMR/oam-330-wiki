@@ -71,11 +71,11 @@ Classroom anchors: the **Texoil exercise** (no-ZOPA negotiation rescued by integ
 
 ## Cross-cut connections
 
-- [[cross-cuts/distractor-pairs]] — distributive vs. integrative (mode + matched tactics), BATNA (outside option) vs. reservation price (in-deal number), and positions ("what") vs. interests ("why") are the heaviest exam-cram pairs in the module.
+- [[cross-cuts/distractor-pairs]] — distributive vs. integrative (mode + matched tactics), BATNA (outside option) vs. reservation price (in-deal number), and positions ("what") vs. interests ("why") are the heaviest close-pair distinctions worth memorizing in the module.
 - [[cross-cuts/cultural-differences]] — contract- vs. relationship-oriented goals and direct vs. indirect communication shape what counts as cooperation in the room; relationship-oriented cultures may treat using your BATNA as more costly because the long-term tie *is* the asset.
 - [[cross-cuts/fairness-and-justice]] — fairness perceptions can override BATNA (Malhotra Mode A — Shapiro's "fair $10M" anchor sank a deal that beat his alternative); links to distributive/procedural justice in M5.
 
-## High-yield MCQ traps
+## Common points of confusion
 
 - **Distributive vs. integrative bargaining (with matched tactics)** — **fixed-pie / one issue / guarded info / one-shot** vs. **expand-the-pie / multiple issues / open / long-term**. Tactic mismatch is the trap: anchoring first, revealing a deadline, hiding info, and strategic anger are **distributive**; soft-on-people / hard-on-problem, perspective-taking, objective criteria, and packaging multiple options are **integrative**. **Anger** is mode-dependent — strategic in distributive, counterproductive in integrative.
 - **BATNA (outside option) vs. reservation price (in-deal walk-away)** — BATNA = the *alternative* (e.g., another job offer, secondhand-store quote, litigation); reservation price = the *number* the alternative produces inside this deal. Olivia ($31K reservation, accepted $32K = Mode B) and Shapiro ($7.4M EV BATNA, rejected $8.5M = Mode A) are the canonical violations.
@@ -87,8 +87,7 @@ Classroom anchors: the **Texoil exercise** (no-ZOPA negotiation rescued by integ
 - **Integrative requires multiple issues** — if there is genuinely one issue and no way to add more, the negotiation is structurally distributive. The Paper Clip / Texoil insight is that you can almost always find more issues to add.
 - **Cultural mismatch on what the deal *is*** — contract-oriented (often individualist) cultures treat signing as closing; relationship-oriented (often collectivist) cultures expect to renegotiate as conditions change. Don't conflate "indirect communication" with "weak commitment."
 
-## Likely exam patterns
-
+## Notes on application
 - **Mode-recognition stems** — given a scenario, identify whether it's **distributive** (one issue, fixed pie, one-shot, guarded info) or **integrative** (multiple issues, expand-the-pie, long-term, open about goals). Cue: number of issues on the table and length of the relationship. Texoil-style multi-issue scenarios = integrative; one-time market purchase = distributive.
 - **BATNA-vs-reservation-price scenarios** — stem describes either an outside option (alternative job, backup buyer, litigation) or an in-deal walk-away number; pick the right label. Pair with the **always-accept-above-BATNA** rule and the Mode A / Mode B failure modes. Stems may include the **expected-value math** for uncertain alternatives — Shapiro's $7.4M is the worked example.
 - **Positions-vs-interests recognition (orange example)** — stem describes two parties stuck on incompatible positions; the right answer asks **why** each wants what they ask for, uncovers complementary interests, and serves both in full. Distractor: splitting the position (compromise) — slide says this can leave both worse off.

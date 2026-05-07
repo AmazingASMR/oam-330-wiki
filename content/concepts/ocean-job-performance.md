@@ -29,5 +29,5 @@ This is the high-yield application of OCEAN. Williams's framing — "personality
 - Salespeople and managers: high E + high A pay off (interpersonal contact).
 - Truck driver, accountant: high C matters; E and A do not.
 
-## Likely MCQ angles
+## Notes on application
 "Which Big 5 trait is the most consistent predictor of job performance across roles?" → **Conscientiousness**. Distractor: Extraversion (only contingent). Distractor: Openness (minimal). Scenario: a sales manager hire — flag E + A as relevant.

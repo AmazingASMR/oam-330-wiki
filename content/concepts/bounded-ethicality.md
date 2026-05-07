@@ -24,5 +24,5 @@ Most unethical behavior in organizations comes from smart, honest people, not ba
 - Daffodil Days: ~80% predicted buying; ~50% bought.
 - Ford Pinto: cost-benefit framing made the ethical dimension fade — engineers dropped the $11/car fix.
 
-## Likely MCQ angles
+## Notes on application
 Definition recall — Bazerman & Tenbrunsel as source, "bounded rationality but for ethics" as the giveaway. Recognize ethical fading, want/should gap, and memory revisionism as components, not synonyms. Distinguish from deliberate hypocrisy.

@@ -28,5 +28,5 @@ Slides identify **two directions** of the fallacy:
 - **Slides — "Gourmet Food / William Chan" case (cognitive repairs):** Consultant kept doubling down on his original assumption ("product is fine, marketing is the problem") through Instagram/Facebook ads, then premium grocery placement, then a *bigger* social media push — escalation of commitment until the client fired him.
 - **Dobelli:** Concorde ("the Concorde effect"), Vietnam War extension, sticking with a losing stock because of acquisition price.
 
-## Likely MCQ angles
+## Notes on application
 The two flavors (escalation **vs.** refusing-to-fix). Lost-ticket / lost-cash mirror pair. "Concorde effect" alias from reading. Distractor: classifying it as anchoring (both involve prior info, but different mechanism).

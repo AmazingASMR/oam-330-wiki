@@ -35,5 +35,5 @@ Long held up as the canonical group-creativity tool — but research consistentl
 ## Example(s)
 - The classic process: leader states problem clearly → members "freewheel" alternatives → no criticism allowed → ideas recorded for later analysis.
 
-## Likely MCQ angles
+## Notes on application
 "Which technique generates the most ideas?" → nominal group technique, NOT traditional brainstorming. Or: "Why does brainstorming underperform?" → production blocking. Don't fall for the popular wisdom that brainstorming is best.

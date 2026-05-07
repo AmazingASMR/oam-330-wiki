@@ -1,15 +1,12 @@
 ---
-title: "Practice — Module 11 Ethics (Session 1)"
+title: "Module 11 Ethics — practice questions"
 type: module
 module: Ethics
-session: 1
-date: 2026-05-02
 question_count: 10
 ---
 
 
-# Practice — Module 11 Ethics (Session 1)
-
+# Module 11 Ethics — practice questions
 ## Instructions
 Try to answer all 10 without reference. Score yourself.
 

@@ -22,5 +22,5 @@ Explains a core puzzle for managers and policy: improving measurable conditions 
 - 1940 → today: indoor plumbing 55%→99%, life expectancy women 68→81, HS by age 25 5%→90%; happiness essentially unchanged.
 - Frank (NYT): Easterlin's finding — once basic obligations are met, more income does not straightforwardly buy more happiness; *relative* position and job conditions matter more.
 
-## Likely MCQ angles
+## Notes on application
 Easterlin paradox / Kahneman-Deaton quote. Distractors: "money never matters" (false — utter absence breeds misery) or "GDP linearly predicts happiness" (false).

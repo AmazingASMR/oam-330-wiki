@@ -24,5 +24,5 @@ Explains why leaders predictably fail. It's not that bad people get power; it's 
 
 **Preventing it** (slide 14): transparency, accountability (procedural justice, employee voice, anonymous input), and selecting leaders high on agreeableness, low on narcissism, with responsibility experiences (kids, younger siblings).
 
-## Likely MCQ angles
+## Notes on application
 Definition recall — the *circular* nature is the giveaway. Distinguish from "power changes behavior" (mechanism vs. paradox). Identify Keltner as the source. Spot prevention strategies.

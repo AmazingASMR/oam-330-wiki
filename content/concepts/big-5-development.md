@@ -11,7 +11,7 @@ confidence: high
 The Big 5 emerged **bottom-up from data**, not from a theorist's intuition. Convergence of multiple independent research teams using **linguistic analysis (the lexical hypothesis)** — analyzing the personality-describing words a culture has produced — plus trait taxonomies, self/other-rating comparisons, and behavior correlations across millions of participants worldwide.
 
 ## Why it matters
-Origin story is the core MCQ contrast vs. MBTI. Big 5 is empirical: dimensions appear *because the data say so*, replicate across cultures, and survive scrutiny. MBTI is theoretical (Jung-derived) and lacks that empirical convergence. Properties: mostly stable over the lifetime, partially hereditary, and predicts behavior.
+Origin story is the core contrast point vs. MBTI. Big 5 is empirical: dimensions appear *because the data say so*, replicate across cultures, and survive scrutiny. MBTI is theoretical (Jung-derived) and lacks that empirical convergence. Properties: mostly stable over the lifetime, partially hereditary, and predicts behavior.
 
 ## Key distinctions
 - **Lexical hypothesis** — important individual differences become encoded in language; analyzing the adjective space recovers the latent dimensions.
@@ -22,5 +22,5 @@ Origin story is the core MCQ contrast vs. MBTI. Big 5 is empirical: dimensions a
 - Cross-cultural adjective studies (English, German, Dutch, etc.) recover the same five-factor structure.
 - HEXACO is the closest research extension (adds Honesty/Humility) — same lexical method, slightly different rotation.
 
-## Likely MCQ angles
+## Notes on application
 "How was the Big 5 developed?" → analysis of personality-describing words across cultures + convergence of independent teams. Distractor: "Derived from Jung's psychological types" (that's MBTI). Distractor: "Developed by a single research team" (false — convergence is the point).

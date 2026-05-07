@@ -39,5 +39,5 @@ Managers must choose the right decision mode. Groups bring more information and 
 - Slides (Grogan Air exercise): with full info, 100% pick Janet; with divided info, ~75% pick Katherine — groups under-leverage private info.
 - Juries: classic "two heads are better than one" assumption.
 
-## Likely MCQ angles
+## Notes on application
 "Groups are more accurate than ___ but less accurate than ___" (avg individual / best individual). Expect a comparison-grid stem.

@@ -1,16 +1,15 @@
 ---
-title: Cross-cut — Distractor pairs (cram sheet)
+title: Key distinctions across modules
 modules: [all]
-study_guide: [M1, M2, Final]
 ---
 
-# Cross-cut — Distractor pairs (cram sheet)
+# Key distinctions across modules
 
-The single most useful page for the morning of the exam. Every entry below is a real distractor pair flagged on a concept page's `## Key distinctions` section. Memorize the *distinguishing feature* — that's what flips a 50/50 to a correct answer.
+A consolidated reference of close-pair concepts that recur throughout the course. Each entry pulls from the `## Key distinctions` section of a concept page and isolates the one feature that separates the pair. Useful when you've half-recognized two related ideas and need to nail down which is which.
 
 ## How to use this page
 
-Read each pair's distinguishing feature aloud. If you can recite it cold, move on. If you hesitate, click the linked concept page and re-read.
+Skim a section. For each pair, try to state the distinguishing feature in your own words before reading the answer. If a pair feels fuzzy, click through to its concept page for the full definition and example.
 
 ---
 
@@ -149,7 +148,7 @@ Read each pair's distinguishing feature aloud. If you can recite it cold, move o
 
 ---
 
-## High-yield MCQ traps (cross-module synthesis)
+## Common points of confusion
 
 | Pair | Distinguishing feature | Modules |
 |---|---|---|
@@ -170,7 +169,7 @@ Read each pair's distinguishing feature aloud. If you can recite it cold, move o
 
 ---
 
-## High-yield numeric anchors (often appear in MCQ stems verbatim)
+## High-yield numeric anchors (often appear in scenario stems verbatim)
 
 | Number | Where | Why |
 |---|---|---|

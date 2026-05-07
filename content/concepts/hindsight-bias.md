@@ -28,5 +28,5 @@ Closely tied to the **curse of knowledge** — once you know something, you can'
   - **Answer ("Playboy") shown in boldface:** 66% then "knew" Playboy was the answer (vs. 32% who would have picked it without the cue). χ²(N=57) = 6.35, p = .017. Knowing the answer reshaped recalled prior belief.
 - **Dobelli:** 2007 economists rosy on the economy → 2008 crash → same experts then list the "obvious" causes (Greenspan, lax mortgages, rating agencies). Causes look inevitable only after the fact.
 
-## Likely MCQ angles
+## Notes on application
 "Curse of knowledge" pairing. The Playboy/Time numbers (~32% → 66%). The three organizational consequences. Distractor: confusing with overconfidence (direction matters: forward vs. backward).
