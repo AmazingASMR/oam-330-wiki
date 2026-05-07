@@ -1,3 +1,7 @@
+---
+title: "OAM 330 Vault — Guide & Study Progression"
+---
+
 # OAM 330 Vault — Guide & Study Progression
 
 This is the top-level orientation page. Read it first if you've never opened this vault before, or if you're returning and need a fast re-orient.

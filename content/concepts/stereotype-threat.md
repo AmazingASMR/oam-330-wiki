@@ -1,4 +1,5 @@
 ---
+title: "Stereotype Threat"
 term: Stereotype Threat
 module: Social Identity & Diversity
 study_guide: [M2, Final]

@@ -1,4 +1,5 @@
 ---
+title: "Module 9 — Negotiation"
 module: Negotiation
 number: 9
 scope: [M2, Final]

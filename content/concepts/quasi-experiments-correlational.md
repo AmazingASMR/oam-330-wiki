@@ -1,4 +1,5 @@
 ---
+title: "Quasi-Experiments and Correlational Studies"
 term: Quasi-Experiments and Correlational Studies
 module: Empirical Approaches to OB
 study_guide: [M1, Final]

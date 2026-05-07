@@ -1,3 +1,7 @@
+---
+title: "Coverage"
+---
+
 # Coverage
 
 Mirrors the three study guides bullet-for-bullet. Each row links to its concept page. Status flips from `[ ]` (gap) → `[x]` (covered) as Phase B fills concept pages.

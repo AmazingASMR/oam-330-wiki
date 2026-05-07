@@ -1,10 +1,12 @@
 ---
+title: "Practice — Cross-cut: System 1 vs. System 2 (Session 1)"
 type: cross-cut
 cross_cut: system-1-system-2
 session: 1
 date: 2026-05-02
 question_count: 6
 ---
+
 
 # Practice — Cross-cut: System 1 vs. System 2 (Session 1)
 

@@ -1,4 +1,5 @@
 ---
+title: "Role of Compromising in Integrative Negotiation"
 term: Role of Compromising in Integrative Negotiation
 module: Negotiation
 study_guide: [M2, Final]

@@ -1,4 +1,5 @@
 ---
+title: "Module 10 — Groups & Teams"
 module: Groups & Teams
 number: 10
 scope: [Final]

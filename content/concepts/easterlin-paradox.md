@@ -1,4 +1,5 @@
 ---
+title: "Easterlin Paradox"
 term: Easterlin Paradox
 module: Happiness & Wrap-up
 study_guide: [Final]

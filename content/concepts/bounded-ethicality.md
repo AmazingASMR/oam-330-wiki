@@ -1,4 +1,5 @@
 ---
+title: "Bounded Ethicality"
 term: Bounded Ethicality
 module: Ethics
 study_guide: [Final]

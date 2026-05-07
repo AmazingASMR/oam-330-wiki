@@ -1,4 +1,5 @@
 ---
+title: "OB — Definition and Goals"
 term: OB — Definition and Goals
 module: Empirical Approaches to OB
 study_guide: [M1, Final]

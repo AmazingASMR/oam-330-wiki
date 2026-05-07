@@ -1,4 +1,5 @@
 ---
+title: "Power Paradox"
 term: Power Paradox
 module: Power & Leadership
 study_guide: [M2, Final]

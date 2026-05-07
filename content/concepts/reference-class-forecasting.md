@@ -1,4 +1,5 @@
 ---
+title: "Reference-Class Forecasting"
 term: Reference-Class Forecasting
 module: Decision Making
 study_guide: [M1, Final]

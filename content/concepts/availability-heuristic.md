@@ -1,4 +1,5 @@
 ---
+title: "Availability Heuristic"
 term: Availability Heuristic
 module: Decision Making
 study_guide: [M1, Final]

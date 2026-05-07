@@ -1,4 +1,5 @@
 ---
+title: "Moral Justification"
 term: Moral Justification
 module: Ethics
 study_guide: [Final]

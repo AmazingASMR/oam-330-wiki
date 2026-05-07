@@ -1,4 +1,5 @@
 ---
+title: "Big 5 — How It Was Developed"
 term: Big 5 — How It Was Developed
 module: Personality & Culture
 study_guide: [M1, Final]

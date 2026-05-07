@@ -1,4 +1,5 @@
 ---
+title: "Control Variables"
 term: Control Variables
 module: Empirical Approaches to OB
 study_guide: [M1, Final]

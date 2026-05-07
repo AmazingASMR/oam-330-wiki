@@ -1,4 +1,5 @@
 ---
+title: "Commitment & Consistency (Cialdini Principle)"
 term: Commitment & Consistency (Cialdini Principle)
 module: Influence & Persuasion
 study_guide: [M2, Final]

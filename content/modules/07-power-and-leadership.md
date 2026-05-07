@@ -1,4 +1,5 @@
 ---
+title: "Module 7 — Power & Leadership"
 module: Power & Leadership
 number: 7
 scope: [M2, Final]

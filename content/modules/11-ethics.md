@@ -1,4 +1,5 @@
 ---
+title: "Module 11 — Ethics"
 module: Ethics
 number: 11
 scope: [Final]

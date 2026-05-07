@@ -1,10 +1,12 @@
 ---
+title: "Practice — Module 6 Influence & Persuasion (Session 1)"
 type: module
 module: Influence & Persuasion
 session: 1
 date: 2026-05-02
 question_count: 12
 ---
+
 
 # Practice — Module 6 Influence & Persuasion (Session 1)
 

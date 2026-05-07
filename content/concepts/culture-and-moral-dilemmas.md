@@ -1,4 +1,5 @@
 ---
+title: "Culture & Moral Dilemmas / Workplace Motivation"
 term: Culture & Moral Dilemmas / Workplace Motivation
 module: Personality & Culture
 study_guide: [M1, Final]

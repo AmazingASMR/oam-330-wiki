@@ -1,10 +1,12 @@
 ---
+title: "Practice — Cross-cut: Fairness and justice (Session 1)"
 type: cross-cut
 cross_cut: fairness-and-justice
 session: 1
 date: 2026-05-02
 question_count: 6
 ---
+
 
 # Practice — Cross-cut: Fairness and justice (Session 1)
 

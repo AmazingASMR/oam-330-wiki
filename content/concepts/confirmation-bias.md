@@ -1,4 +1,5 @@
 ---
+title: "Confirmation Bias"
 term: Confirmation Bias
 module: Decision Making
 study_guide: [M1, Final]

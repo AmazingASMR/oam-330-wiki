@@ -1,4 +1,5 @@
 ---
+title: "Group/Organizational Structure Effects on Outcomes"
 term: Group/Organizational Structure Effects on Outcomes
 module: Groups & Teams
 study_guide: [Final]

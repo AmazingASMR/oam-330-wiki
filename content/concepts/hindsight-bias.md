@@ -1,4 +1,5 @@
 ---
+title: "Hindsight Bias"
 term: Hindsight Bias
 module: Decision Making
 study_guide: [M1, Final]

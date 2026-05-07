@@ -1,4 +1,5 @@
 ---
+title: "Narcissism"
 term: Narcissism
 module: Personality & Culture
 study_guide: [M1, Final]

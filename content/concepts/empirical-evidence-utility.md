@@ -1,4 +1,5 @@
 ---
+title: "Empirical Evidence — What It Is and Why It's Useful"
 term: Empirical Evidence — What It Is and Why It's Useful
 module: Empirical Approaches to OB
 study_guide: [M1, Final]

@@ -1,4 +1,5 @@
 ---
+title: "Sources of Ethical Frameworks"
 term: Sources of Ethical Frameworks
 module: Ethics
 study_guide: [Final]

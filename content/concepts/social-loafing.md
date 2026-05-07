@@ -1,4 +1,5 @@
 ---
+title: "Social Loafing"
 term: Social Loafing
 module: Groups & Teams
 study_guide: [Final]

@@ -1,4 +1,5 @@
 ---
+title: "Group (definition)"
 term: Group (definition)
 module: Groups & Teams
 study_guide: [Final]

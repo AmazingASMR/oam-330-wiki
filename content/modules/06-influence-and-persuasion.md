@@ -1,4 +1,5 @@
 ---
+title: "Module 6 — Influence & Persuasion"
 module: Influence & Persuasion
 number: 6
 scope: [M2, Final]

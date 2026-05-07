@@ -1,10 +1,12 @@
 ---
+title: "Practice — Module 7 Power & Leadership (Session 1)"
 type: module
 module: Power & Leadership
 session: 1
 date: 2026-05-02
 question_count: 8
 ---
+
 
 # Practice — Module 7 Power & Leadership (Session 1)
 

@@ -1,4 +1,5 @@
 ---
+title: "\"N of 1\" Problem"
 term: '"N of 1" Problem'
 module: Empirical Approaches to OB
 study_guide: [M1, Final]

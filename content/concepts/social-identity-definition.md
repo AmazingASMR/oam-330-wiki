@@ -1,4 +1,5 @@
 ---
+title: "Social Identity & Diversity (Definitions)"
 term: Social Identity & Diversity (Definitions)
 module: Social Identity & Diversity
 study_guide: [M2, Final]

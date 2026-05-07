@@ -1,4 +1,5 @@
 ---
+title: "Strategies for Preparing to Negotiate"
 term: Strategies for Preparing to Negotiate
 module: Negotiation
 study_guide: [M2, Final]

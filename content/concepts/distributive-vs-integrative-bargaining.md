@@ -1,4 +1,5 @@
 ---
+title: "Distributive vs. Integrative Bargaining"
 term: Distributive vs. Integrative Bargaining
 module: Negotiation
 study_guide: [M2, Final]

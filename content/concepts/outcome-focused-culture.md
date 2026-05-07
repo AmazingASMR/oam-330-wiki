@@ -1,4 +1,5 @@
 ---
+title: "Outcome-Focused Culture"
 term: Outcome-Focused Culture
 module: Ethics
 study_guide: [Final]

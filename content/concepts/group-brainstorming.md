@@ -1,4 +1,5 @@
 ---
+title: "Group Brainstorming"
 term: Group Brainstorming
 module: Groups & Teams
 study_guide: [Final]

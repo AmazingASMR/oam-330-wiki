@@ -1,4 +1,5 @@
 ---
+title: "Discrimination & Fairness (Thomas & Ely Paradigm 1)"
 term: Discrimination & Fairness (Thomas & Ely Paradigm 1)
 module: Social Identity & Diversity
 study_guide: [M2, Final]

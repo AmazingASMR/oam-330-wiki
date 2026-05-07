@@ -1,4 +1,5 @@
 ---
+title: "Distributive vs. Procedural Justice"
 term: Distributive vs. Procedural Justice
 module: Motivation
 study_guide: [M1, Final]

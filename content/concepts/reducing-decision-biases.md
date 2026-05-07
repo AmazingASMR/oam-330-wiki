@@ -1,4 +1,5 @@
 ---
+title: "Reducing the Impact of Decision-Making Biases"
 term: Reducing the Impact of Decision-Making Biases
 module: Decision Making
 study_guide: [M1, Final]

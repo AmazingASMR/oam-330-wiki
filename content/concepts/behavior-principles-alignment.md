@@ -1,4 +1,5 @@
 ---
+title: "Aligning Behavior with Ethical Principles (Strategies)"
 term: Aligning Behavior with Ethical Principles (Strategies)
 module: Ethics
 study_guide: [Final]

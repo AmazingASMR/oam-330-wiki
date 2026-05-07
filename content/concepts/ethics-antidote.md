@@ -1,4 +1,5 @@
 ---
+title: "Antidote — Culture of Ethics"
 term: Antidote — Culture of Ethics
 module: Ethics
 study_guide: [Final]

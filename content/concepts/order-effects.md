@@ -1,4 +1,5 @@
 ---
+title: "Order Effects (Primacy vs. Recency)"
 term: Order Effects (Primacy vs. Recency)
 module: Influence & Persuasion
 study_guide: [M2, Final]

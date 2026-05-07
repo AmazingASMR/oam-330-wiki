@@ -1,4 +1,5 @@
 ---
+title: "Central Route Strategies (Rational Influence)"
 term: Central Route Strategies (Rational Influence)
 module: Influence & Persuasion
 study_guide: [M2, Final]

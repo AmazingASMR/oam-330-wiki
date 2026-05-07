@@ -1,10 +1,12 @@
 ---
+title: "Practice — Cross-cut: Cultural differences (Session 1)"
 type: cross-cut
 cross_cut: cultural-differences
 session: 1
 date: 2026-05-02
 question_count: 6
 ---
+
 
 # Practice — Cross-cut: Cultural differences (Session 1)
 

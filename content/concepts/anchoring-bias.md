@@ -1,4 +1,5 @@
 ---
+title: "Anchoring Bias"
 term: Anchoring Bias
 module: Decision Making
 study_guide: [M1, Final]

@@ -1,4 +1,5 @@
 ---
+title: "Module 4 — Personality & Culture"
 module: Personality & Culture
 number: 4
 scope: [M1, Final]

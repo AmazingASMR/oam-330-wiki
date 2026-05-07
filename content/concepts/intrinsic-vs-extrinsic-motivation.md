@@ -1,4 +1,5 @@
 ---
+title: "Intrinsic vs. Extrinsic Motivation"
 term: Intrinsic vs. Extrinsic Motivation
 module: Motivation
 study_guide: [M1, Final]

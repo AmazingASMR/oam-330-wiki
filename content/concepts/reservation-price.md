@@ -1,4 +1,5 @@
 ---
+title: "Reservation Price (Reservation Point / Resistance Point)"
 term: Reservation Price (Reservation Point / Resistance Point)
 module: Negotiation
 study_guide: [M2, Final]

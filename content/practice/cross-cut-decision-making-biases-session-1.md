@@ -1,10 +1,12 @@
 ---
+title: "Practice — Cross-cut: Decision-making biases (Session 1)"
 type: cross-cut
 cross_cut: decision-making-biases
 session: 1
 date: 2026-05-02
 question_count: 6
 ---
+
 
 # Practice — Cross-cut: Decision-making biases (Session 1)
 

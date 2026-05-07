@@ -1,10 +1,12 @@
 ---
+title: "Practice — Module 12 Happiness & Wrap-up (Session 1)"
 type: module
 module: Happiness & Wrap-up
 session: 1
 date: 2026-05-02
 question_count: 6
 ---
+
 
 # Practice — Module 12 Happiness & Wrap-up (Session 1)
 

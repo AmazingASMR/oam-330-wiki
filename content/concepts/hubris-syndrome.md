@@ -1,4 +1,5 @@
 ---
+title: "Hubris Syndrome"
 term: Hubris Syndrome
 module: Power & Leadership
 study_guide: [Final]

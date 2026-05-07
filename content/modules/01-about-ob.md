@@ -1,4 +1,5 @@
 ---
+title: "Module 1 — About Organizational Behavior"
 module: About Organizational Behavior
 number: 1
 scope:

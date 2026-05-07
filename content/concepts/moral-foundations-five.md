@@ -1,4 +1,5 @@
 ---
+title: "Moral Foundations — 5 Categories"
 term: Moral Foundations — 5 Categories
 module: Ethics
 study_guide: [Final]

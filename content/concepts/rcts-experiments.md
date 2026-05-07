@@ -1,4 +1,5 @@
 ---
+title: "Randomized Controlled Trials (RCTs) / Experiments"
 term: Randomized Controlled Trials (RCTs) / Experiments
 module: Empirical Approaches to OB
 study_guide: [M1, Final]

@@ -1,4 +1,5 @@
 ---
+title: "BATNA (Best Alternative To a Negotiated Agreement)"
 term: BATNA (Best Alternative To a Negotiated Agreement)
 module: Negotiation
 study_guide: [M2, Final]

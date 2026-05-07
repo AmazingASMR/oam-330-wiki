@@ -1,4 +1,5 @@
 ---
+title: "Random Assignment"
 term: Random Assignment
 module: Empirical Approaches to OB
 study_guide: [M1, Final]

@@ -1,4 +1,5 @@
 ---
+title: "Framing and Risk"
 term: Framing and Risk
 module: Decision Making
 study_guide: [M1, Final]

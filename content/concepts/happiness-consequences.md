@@ -1,4 +1,5 @@
 ---
+title: "Downstream Consequences of Happiness"
 term: Downstream Consequences of Happiness
 module: Happiness & Wrap-up
 study_guide: [Final]

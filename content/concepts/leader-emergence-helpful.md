@@ -1,4 +1,5 @@
 ---
+title: "Is Leader Emergence Helpful?"
 term: Is Leader Emergence Helpful?
 module: Power & Leadership
 study_guide: [M2, Final]

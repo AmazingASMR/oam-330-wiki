@@ -1,4 +1,5 @@
 ---
+title: "Input (Independent) and Outcome (Dependent) Variables in OB"
 term: Input (Independent) and Outcome (Dependent) Variables in OB
 module: Empirical Approaches to OB
 study_guide: [M1, Final]

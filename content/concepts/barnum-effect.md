@@ -1,4 +1,5 @@
 ---
+title: "Barnum Effect"
 term: Barnum Effect
 module: Personality & Culture
 study_guide: [M1, Final]

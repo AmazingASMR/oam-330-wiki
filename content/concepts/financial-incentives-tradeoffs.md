@@ -1,4 +1,5 @@
 ---
+title: "Financial Incentives — Upsides and Downsides"
 term: Financial Incentives — Upsides and Downsides
 module: Motivation
 study_guide: [M1, Final]

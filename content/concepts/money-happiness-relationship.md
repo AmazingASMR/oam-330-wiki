@@ -1,4 +1,5 @@
 ---
+title: "Money–Happiness Relationship"
 term: Money–Happiness Relationship
 module: Motivation
 study_guide: [M1, Final]

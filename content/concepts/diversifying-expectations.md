@@ -1,4 +1,5 @@
 ---
+title: "What Organizations Should Expect As They Diversify (J-curve)"
 term: What Organizations Should Expect As They Diversify (J-curve)
 module: Social Identity & Diversity
 study_guide: [M2, Final]

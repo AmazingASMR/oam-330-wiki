@@ -1,4 +1,5 @@
 ---
+title: "Central vs. Peripheral Route to Persuasion"
 term: Central vs. Peripheral Route to Persuasion
 module: Influence & Persuasion
 study_guide: [M2, Final]

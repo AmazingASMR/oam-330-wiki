@@ -1,4 +1,5 @@
 ---
+title: "Module 12 — Happiness & Wrap-up"
 module: Happiness & Wrap-up
 number: 12
 scope: [Final]

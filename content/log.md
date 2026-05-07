@@ -1,3 +1,7 @@
+---
+title: "Log"
+---
+
 # Log
 
 Append-only chronological record. Never edit past entries.

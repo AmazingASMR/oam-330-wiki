@@ -1,3 +1,7 @@
+---
+title: "OAM 330 Wiki — Williams (Spring 2026)"
+---
+
 # OAM 330 Wiki — Williams (Spring 2026)
 
 > **Welcome, Prof. Williams** — I'm Aryan Rana, a student in your Spring 2026 OAM 330 section. I built this wiki to prepare for the final and am sharing it as a resource you can use, recommend, or adapt for future cohorts. Everything is keyed to your three study guides and your slides; readings are summarized but not redistributed. The full source is on [GitHub](https://github.com/AmazingASMR/oam-330-wiki) — feel free to fork, edit, or hand it to TAs.

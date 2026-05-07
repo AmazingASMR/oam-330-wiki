@@ -1,3 +1,7 @@
+---
+title: "OAM 330 Final Exam Prep Wiki — Schema"
+---
+
 # OAM 330 Final Exam Prep Wiki — Schema
 
 This is the schema for an exam-prep wiki for **OAM 330: Principles of Organization & Management** (Prof. Williams, Spring 2026). The final is **Saturday, May 2, 3-6 p.m.**, multiple-choice, cumulative.

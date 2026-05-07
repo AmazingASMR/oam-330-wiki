@@ -1,4 +1,5 @@
 ---
+title: "Myers-Briggs Type Indicator (MBTI)"
 term: Myers-Briggs Type Indicator (MBTI)
 module: Personality & Culture
 study_guide: [M1, Final]

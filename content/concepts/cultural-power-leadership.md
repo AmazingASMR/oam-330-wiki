@@ -1,4 +1,5 @@
 ---
+title: "Cultural Differences in Power and Leadership"
 term: Cultural Differences in Power and Leadership
 module: Power & Leadership
 study_guide: [M2, Final]

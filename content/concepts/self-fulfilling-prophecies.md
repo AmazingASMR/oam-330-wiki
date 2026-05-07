@@ -1,4 +1,5 @@
 ---
+title: "Self-Fulfilling Prophecies"
 term: Self-Fulfilling Prophecies
 module: Decision Making
 study_guide: [M1, Final]

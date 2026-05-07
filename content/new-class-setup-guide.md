@@ -1,3 +1,7 @@
+---
+title: "New-Class Setup Guide for Claude Code"
+---
+
 # New-Class Setup Guide for Claude Code
 
 Paste this as your first message in a fresh Claude Code session when you want to build the same exam-prep wiki for a different class. It's based on what worked, what broke, and what was added beyond the original schema during the OAM 330 build.

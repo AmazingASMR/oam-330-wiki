@@ -1,4 +1,5 @@
 ---
+title: "Perception vs. Reality"
 term: Perception vs. Reality
 module: Decision Making
 study_guide: [M1, Final]

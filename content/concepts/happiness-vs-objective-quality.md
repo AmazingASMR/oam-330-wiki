@@ -1,4 +1,5 @@
 ---
+title: "Subjective Happiness vs. Objective Quality of Life"
 term: Subjective Happiness vs. Objective Quality of Life
 module: Happiness & Wrap-up
 study_guide: [Final]

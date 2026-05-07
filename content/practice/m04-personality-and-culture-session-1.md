@@ -1,10 +1,12 @@
 ---
+title: "Practice — Module 4 Personality & Culture (Session 1)"
 type: module
 module: Personality & Culture
 session: 1
 date: 2026-05-02
 question_count: 10
 ---
+
 
 # Practice — Module 4 Personality & Culture (Session 1)
 

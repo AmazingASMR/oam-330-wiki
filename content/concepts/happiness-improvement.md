@@ -1,4 +1,5 @@
 ---
+title: "Improving Happiness — Social Connections and Money"
 term: Improving Happiness — Social Connections and Money
 module: Happiness & Wrap-up
 study_guide: [Final]

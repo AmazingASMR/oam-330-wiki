@@ -1,4 +1,5 @@
 ---
+title: "System 1 vs. System 2"
 term: System 1 vs. System 2
 module: Decision Making
 study_guide: [M1, Final]

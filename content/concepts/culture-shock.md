@@ -1,4 +1,5 @@
 ---
+title: "Culture Shock"
 term: Culture Shock
 module: Social Identity & Diversity
 study_guide: [M2, Final]

@@ -1,4 +1,5 @@
 ---
+title: "Power Distance"
 term: Power Distance
 module: Power & Leadership
 study_guide: [M2, Final]

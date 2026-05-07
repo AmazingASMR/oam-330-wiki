@@ -1,4 +1,5 @@
 ---
+title: "Personality Fit and Job Satisfaction"
 term: Personality Fit and Job Satisfaction
 module: Personality & Culture
 study_guide: [M1, Final]

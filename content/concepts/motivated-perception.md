@@ -1,4 +1,5 @@
 ---
+title: "Motivated Perception"
 term: Motivated Perception
 module: Decision Making
 study_guide: [M1, Final]

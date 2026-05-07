@@ -1,4 +1,5 @@
 ---
+title: "Three Alternative Explanations for a Correlation (Besides Causality)"
 term: Three Alternative Explanations for a Correlation (Besides Causality)
 module: Empirical Approaches to OB
 study_guide: [M1, Final]

@@ -1,4 +1,5 @@
 ---
+title: "Progress Principle"
 term: Progress Principle
 module: Motivation
 study_guide: [M1, Final]

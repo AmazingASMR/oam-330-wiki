@@ -1,4 +1,5 @@
 ---
+title: "Equity Theory"
 term: Equity Theory
 module: Motivation
 study_guide: [M1, Final]

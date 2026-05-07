@@ -1,4 +1,5 @@
 ---
+title: "Ethics (Definition)"
 term: Ethics (Definition)
 module: Ethics
 study_guide: [Final]

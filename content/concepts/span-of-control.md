@@ -1,4 +1,5 @@
 ---
+title: "Span of Control"
 term: Span of Control
 module: Groups & Teams
 study_guide: [Final]

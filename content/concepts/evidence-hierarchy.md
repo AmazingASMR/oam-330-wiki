@@ -1,4 +1,5 @@
 ---
+title: "Evidence Hierarchy (Pyramid)"
 term: Evidence Hierarchy (Pyramid)
 module: Empirical Approaches to OB
 study_guide: [M1, Final]

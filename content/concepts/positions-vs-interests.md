@@ -1,4 +1,5 @@
 ---
+title: "Positions vs. Interests"
 term: Positions vs. Interests
 module: Negotiation
 study_guide: [M2, Final]

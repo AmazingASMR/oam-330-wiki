@@ -1,4 +1,5 @@
 ---
+title: "Three Course Themes"
 term: Three Course Themes
 module: Empirical Approaches to OB
 study_guide: [M1, Final]

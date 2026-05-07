@@ -1,4 +1,5 @@
 ---
+title: "Ethical and Unethical Uses of Peripheral-Route Persuasion"
 term: Ethical and Unethical Uses of Peripheral-Route Persuasion
 module: Influence & Persuasion
 study_guide: [M2, Final]

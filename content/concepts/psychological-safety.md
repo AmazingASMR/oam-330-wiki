@@ -1,4 +1,5 @@
 ---
+title: "Psychological Safety"
 term: Psychological Safety
 module: Groups & Teams
 study_guide: [Final]

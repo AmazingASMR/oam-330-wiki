@@ -1,4 +1,5 @@
 ---
+title: "Mega-Takeaways of OAM 330"
 term: Mega-Takeaways of OAM 330
 module: Happiness & Wrap-up
 study_guide: [Final]

@@ -1,4 +1,5 @@
 ---
+title: "Rice vs. Wheat Farming (Talhelm 2014)"
 term: Rice vs. Wheat Farming (Talhelm 2014)
 module: Personality & Culture
 study_guide: [M1, Final]

@@ -1,4 +1,5 @@
 ---
+title: "Halo Effects"
 term: Halo Effects
 module: Decision Making
 study_guide: [M1, Final]

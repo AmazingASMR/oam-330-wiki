@@ -1,4 +1,5 @@
 ---
+title: "Diversity → Innovation Relationship"
 term: Diversity → Innovation Relationship
 module: Social Identity & Diversity
 study_guide: [M2, Final]

@@ -1,4 +1,5 @@
 ---
+title: "Cultural Differences in Workplace Fairness"
 term: Cultural Differences in Workplace Fairness
 module: Motivation
 study_guide: [M1, Final]

@@ -1,4 +1,5 @@
 ---
+title: "Overconfidence"
 term: Overconfidence
 module: Decision Making
 study_guide: [M1, Final]

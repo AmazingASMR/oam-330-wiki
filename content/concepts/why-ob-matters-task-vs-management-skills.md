@@ -1,4 +1,5 @@
 ---
+title: "Why OB Matters — Task Skills + Management Skills"
 term: Why OB Matters — Task Skills + Management Skills
 module: About Organizational Behavior
 study_guide: []

@@ -1,4 +1,5 @@
 ---
+title: "Negotiation"
 term: Negotiation
 module: Negotiation
 study_guide: [M2, Final]

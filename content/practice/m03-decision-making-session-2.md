@@ -1,10 +1,12 @@
 ---
+title: "Practice — Module 3 Decision Making (Session 2)"
 type: module
 module: Decision Making
 session: 2
 date: 2026-05-02
 question_count: 10
 ---
+
 
 # Practice — Module 3 Decision Making (Session 2)
 

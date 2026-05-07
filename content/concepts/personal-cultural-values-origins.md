@@ -1,4 +1,5 @@
 ---
+title: "Personal & Cultural Values — Origins"
 term: Personal & Cultural Values — Origins
 module: Personality & Culture
 study_guide: [M1, Final]

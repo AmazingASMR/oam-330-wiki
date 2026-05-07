@@ -1,4 +1,5 @@
 ---
+title: "Leader Emergence Factors"
 term: Leader Emergence Factors
 module: Power & Leadership
 study_guide: [M2, Final]

@@ -1,4 +1,5 @@
 ---
+title: "Memory Revisionism (Recollection Stage)"
 term: Memory Revisionism (Recollection Stage)
 module: Ethics
 study_guide: [Final]

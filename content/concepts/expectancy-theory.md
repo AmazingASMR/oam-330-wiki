@@ -1,4 +1,5 @@
 ---
+title: "Expectancy Theory"
 term: Expectancy Theory
 module: Motivation
 study_guide: [M1, Final]

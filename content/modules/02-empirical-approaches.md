@@ -1,4 +1,5 @@
 ---
+title: "Module 2 — Empirical Approaches to OB"
 module: Empirical Approaches to OB
 number: 2
 scope: [M1, Final]

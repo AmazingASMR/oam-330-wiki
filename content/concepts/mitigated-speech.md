@@ -1,4 +1,5 @@
 ---
+title: "Mitigated Speech"
 term: Mitigated Speech
 module: Power & Leadership
 study_guide: [M2, Final]

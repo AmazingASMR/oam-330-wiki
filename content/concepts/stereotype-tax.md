@@ -1,4 +1,5 @@
 ---
+title: "Stereotype Tax"
 term: Stereotype Tax
 module: Social Identity & Diversity
 study_guide: [M2, Final]

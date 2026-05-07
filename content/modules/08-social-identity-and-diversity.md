@@ -1,4 +1,5 @@
 ---
+title: "Module 8 — Social Identity & Diversity"
 module: Social Identity & Diversity
 number: 8
 scope: [M2, Final]

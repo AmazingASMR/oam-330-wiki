@@ -1,9 +1,11 @@
 ---
+title: "Practice — Cumulative Mixed Set (Session 2)"
 type: cumulative-mixed
 session: 2
 date: 2026-05-02
 question_count: 18
 ---
+
 
 # Practice — Cumulative Mixed Set (Session 2)
 

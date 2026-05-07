@@ -1,4 +1,5 @@
 ---
+title: "Module 3 — Decision Making"
 module: Decision Making
 number: 3
 scope: [M1, Final]

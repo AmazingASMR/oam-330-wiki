@@ -1,10 +1,12 @@
 ---
+title: "Practice — Module 2 Empirical Approaches to OB (Session 1)"
 type: module
 module: Empirical Approaches to OB
 session: 1
 date: 2026-05-02
 question_count: 10
 ---
+
 
 # Practice — Module 2 Empirical Approaches to OB (Session 1)
 

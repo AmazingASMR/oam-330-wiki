@@ -1,4 +1,5 @@
 ---
+title: "Common-Knowledge Effect"
 term: Common-Knowledge Effect
 module: Groups & Teams
 study_guide: [Final]

@@ -1,4 +1,5 @@
 ---
+title: "Module 5 — Motivation"
 module: Motivation
 number: 5
 scope: [M1, Final]

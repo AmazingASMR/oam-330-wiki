@@ -1,4 +1,5 @@
 ---
+title: "Moral Inaction"
 term: Moral Inaction
 module: Ethics
 study_guide: [Final]

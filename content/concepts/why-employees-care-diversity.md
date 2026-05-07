@@ -1,4 +1,5 @@
 ---
+title: "Why Employees Care About Diversity"
 term: Why Employees Care About Diversity
 module: Social Identity & Diversity
 study_guide: [M2, Final]

@@ -1,4 +1,5 @@
 ---
+title: "Social Proof / Peer Influence (Cialdini Principle)"
 term: Social Proof / Peer Influence (Cialdini Principle)
 module: Influence & Persuasion
 study_guide: [M2, Final]

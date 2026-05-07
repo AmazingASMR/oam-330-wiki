@@ -1,4 +1,5 @@
 ---
+title: "Want Self vs. Should Self"
 term: Want Self vs. Should Self
 module: Ethics
 study_guide: [Final]

@@ -1,4 +1,5 @@
 ---
+title: "Strategies for Negotiating Successfully (In the Room)"
 term: Strategies for Negotiating Successfully (In the Room)
 module: Negotiation
 study_guide: [M2, Final]

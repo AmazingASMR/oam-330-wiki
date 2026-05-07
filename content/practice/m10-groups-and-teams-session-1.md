@@ -1,10 +1,12 @@
 ---
+title: "Practice — Module 10 Groups & Teams (Session 1)"
 type: module
 module: Groups & Teams
 session: 1
 date: 2026-05-02
 question_count: 10
 ---
+
 
 # Practice — Module 10 Groups & Teams (Session 1)
 

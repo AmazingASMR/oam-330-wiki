@@ -1,4 +1,5 @@
 ---
+title: "Minority-Position Persuasion — Push vs. Pull"
 term: Minority-Position Persuasion — Push vs. Pull
 module: Influence & Persuasion
 study_guide: [M2, Final]

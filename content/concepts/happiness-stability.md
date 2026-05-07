@@ -1,4 +1,5 @@
 ---
+title: "Stability of Happiness — Genetics, Adaptation, Social Comparison"
 term: Stability of Happiness — Genetics, Adaptation, Social Comparison
 module: Happiness & Wrap-up
 study_guide: [Final]

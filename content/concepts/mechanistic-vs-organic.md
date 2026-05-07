@@ -1,4 +1,5 @@
 ---
+title: "Mechanistic vs. Organic Models of Organizational Structure"
 term: Mechanistic vs. Organic Models of Organizational Structure
 module: Groups & Teams
 study_guide: [Final]

@@ -1,4 +1,5 @@
 ---
+title: "Cultural Differences in Negotiation"
 term: Cultural Differences in Negotiation
 module: Negotiation
 study_guide: [M2, Final]

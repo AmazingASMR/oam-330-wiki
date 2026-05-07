@@ -1,4 +1,5 @@
 ---
+title: "Ethical Forecasting Errors (Prediction Stage)"
 term: Ethical Forecasting Errors (Prediction Stage)
 module: Ethics
 study_guide: [Final]

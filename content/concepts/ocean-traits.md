@@ -1,4 +1,5 @@
 ---
+title: "OCEAN Traits (the Big 5)"
 term: OCEAN Traits (the Big 5)
 module: Personality & Culture
 study_guide: [M1, Final]

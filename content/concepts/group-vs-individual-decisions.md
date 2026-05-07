@@ -1,4 +1,5 @@
 ---
+title: "Group vs. Individual Decisions"
 term: Group vs. Individual Decisions
 module: Groups & Teams
 study_guide: [Final]

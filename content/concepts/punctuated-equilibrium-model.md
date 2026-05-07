@@ -1,4 +1,5 @@
 ---
+title: "Punctuated Equilibrium Model"
 term: Punctuated Equilibrium Model
 module: Groups & Teams
 study_guide: [Final]

@@ -1,4 +1,5 @@
 ---
+title: "Liking (Cialdini Principle)"
 term: Liking (Cialdini Principle)
 module: Influence & Persuasion
 study_guide: [M2, Final]

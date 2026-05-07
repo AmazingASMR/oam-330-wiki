@@ -1,4 +1,5 @@
 ---
+title: "Groupthink and Groupshift"
 term: Groupthink and Groupshift
 module: Groups & Teams
 study_guide: [Final]

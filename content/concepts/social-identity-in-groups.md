@@ -1,4 +1,5 @@
 ---
+title: "Social Identity in Groups"
 term: Social Identity in Groups
 module: Groups & Teams
 study_guide: [Final]

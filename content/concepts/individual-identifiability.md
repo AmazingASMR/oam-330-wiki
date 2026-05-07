@@ -1,4 +1,5 @@
 ---
+title: "Individual Identifiability"
 term: Individual Identifiability
 module: Influence & Persuasion
 study_guide: [M2, Final]

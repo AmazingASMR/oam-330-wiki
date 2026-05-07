@@ -1,4 +1,5 @@
 ---
+title: "Negative Advertising"
 term: Negative Advertising
 module: Influence & Persuasion
 study_guide: [M2, Final]

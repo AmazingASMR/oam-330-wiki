@@ -1,4 +1,5 @@
 ---
+title: "Individualism vs. Collectivism"
 term: Individualism vs. Collectivism
 module: Personality & Culture
 study_guide: [M1, Final]

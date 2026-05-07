@@ -1,4 +1,5 @@
 ---
+title: "Ethical Fading & Visceral Responses (Decision Stage)"
 term: Ethical Fading & Visceral Responses (Decision Stage)
 module: Ethics
 study_guide: [Final]

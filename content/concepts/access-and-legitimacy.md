@@ -1,4 +1,5 @@
 ---
+title: "Access & Legitimacy (Thomas & Ely Paradigm 2)"
 term: Access & Legitimacy (Thomas & Ely Paradigm 2)
 module: Social Identity & Diversity
 study_guide: [M2, Final]

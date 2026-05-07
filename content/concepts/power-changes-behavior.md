@@ -1,4 +1,5 @@
 ---
+title: "How Power Changes Behavior"
 term: How Power Changes Behavior
 module: Power & Leadership
 study_guide: [M2, Final]

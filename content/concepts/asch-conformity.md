@@ -1,4 +1,5 @@
 ---
+title: "Asch Conformity Studies"
 term: Asch Conformity Studies
 module: Influence & Persuasion
 study_guide: [M2, Final]

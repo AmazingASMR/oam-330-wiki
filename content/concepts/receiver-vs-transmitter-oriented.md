@@ -1,4 +1,5 @@
 ---
+title: "Receiver- vs. Transmitter-Oriented Communication"
 term: Receiver- vs. Transmitter-Oriented Communication
 module: Power & Leadership
 study_guide: [M2, Final]

@@ -1,4 +1,5 @@
 ---
+title: "Sunk Cost Fallacy"
 term: Sunk Cost Fallacy
 module: Decision Making
 study_guide: [M1, Final]

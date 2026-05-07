@@ -1,4 +1,5 @@
 ---
+title: "Social Norms & Unethical Behavior (incl. Pluralistic Ignorance)"
 term: Social Norms & Unethical Behavior (incl. Pluralistic Ignorance)
 module: Ethics
 study_guide: [Final]
