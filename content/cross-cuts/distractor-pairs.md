@@ -217,4 +217,3 @@ Skim a section. For each pair, try to state the distinguishing feature in your o
 - [[cross-cuts/system-1-system-2]] — master frame for biases, Cialdini, ethical fading
 - [[cross-cuts/fairness-and-justice]] — equity / expectancy / distributive / procedural cluster
 - [[cross-cuts/cultural-differences]] — I/C, PD, fairness allocation, negotiation styles
-- [[log.md]] — lint entry has the prioritized Tier 1/2/3 study list with the same pairs ranked by frequency
